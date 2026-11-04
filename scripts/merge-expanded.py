@@ -2,6 +2,7 @@
 import json,re,hashlib,collections,unicodedata
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
+(ROOT/'data/regions').mkdir(parents=True,exist_ok=True)
 load=lambda p:json.loads(p.read_text())
 registry={m['code']:m for m in load(ROOT/'data/national.json')['municipalities']}
 regions=collections.defaultdict(dict);rejected=[]

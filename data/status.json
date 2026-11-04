@@ -4,518 +4,4372 @@
     {
       "id": "groups",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "ad44f768cab1876b545d8f527a0c6180830f3394c92dc870af7592793bb26308",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "議員名簿（会派別）",
+      "url": "https://www.city.bunkyo.lg.jp/kugikai/p007737.html"
     },
     {
       "id": "committees",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "c34c42ef979efcc7668233fbe2859aa7d6a6e03b467e85da81168ce69a7777de",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "議員名簿（委員会別）",
+      "url": "https://www.city.bunkyo.lg.jp/kugikai/p007738.html"
     },
     {
       "id": "mayor",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "32a4a079c29146e9ff9e2c5910e8ace1ae3223fe66b7714ce21023023ba7a26e",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "区長の部屋",
+      "url": "https://www.city.bunkyo.lg.jp/b005/p005393.html"
     },
     {
       "id": "minutes",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "1f96e02b065006c5911008e241d36f754e26dc97fbeaf2b214768decb9e9ea61",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "会議録 公開案内",
+      "url": "https://www.city.bunkyo.lg.jp/kugikai/kekka/kaigiroku/index.html"
     },
     {
       "id": "policy",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "fb5535ea5292b5914fe6d8294723c6ad56bf1bf173dc93bf1ee2ca34af4a72b7",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "所信表明・施政方針等",
+      "url": "https://www.city.bunkyo.lg.jp/kuseijouhou/heya/shoshinhyoumei/index.html"
     },
     {
       "id": "council",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "f9a7a1c7ac305e470775ff489a0ebb72f0a9242e06f09746f009c4af5d6613bc",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "文京区議会 新着情報",
+      "url": "https://www.city.bunkyo.lg.jp/kugikai/index.html"
     },
     {
-      "id": "roster",
-      "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "id": "expanded-bed4ba181bf3531a",
+      "name": "文京区 文京区・出典付き詳細調査",
+      "url": "https://www.city.bunkyo.lg.jp/kugikai/p007041.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "ad351e3a1e8e16fc8b2493f8af33d3a70b5bd4c2ec43fb6dcda5b36420123d53",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "error": null,
       "changed": false
     },
     {
       "id": "questions-02",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "16e4bb204520f17c2f7195b252b316594751cd173c1ce73c719024412a543d23",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "一般質問要旨（2026年2月）",
+      "url": "https://www.city.bunkyo.lg.jp/kugikai/p007880.html"
     },
     {
       "id": "questions-06",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "39959edbc993b5669954a557d30e7437124fa5b8c4bdd5edb64cdfe8b153d139",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "一般質問要旨（2026年6月）",
+      "url": "https://www.city.bunkyo.lg.jp/kugikai/p007894.html"
     },
     {
       "id": "questions-09",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "cc7ca35234dedb4782ad79f51fa4885109e30e8a313544389ee9f9e7ae020594",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "一般質問要旨（2026年9月）",
+      "url": "https://www.city.bunkyo.lg.jp/kugikai/p007909.html"
     },
     {
       "id": "mayor-policy",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "e2b5646edffbdb98ee7ffecf455de73236fd888f763313b5c83f84199e34507f",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "施政方針（2026年2月）",
+      "url": "https://www.city.bunkyo.lg.jp/b001/p007837.html"
     },
     {
       "id": "profile-p1",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "8585133b2d5913f5997bc3e8cd0287498be0a753edafacfe74fcd41ab464c053",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "白石英行 プロフィール等",
+      "url": "https://www.shiraishi-net.com/cont2/main.html"
     },
     {
       "id": "profile-p2",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "aae598c86e6a11c16181c0fe18ae7225be4e19e3eb7a66688988d534c099b446",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "名取顕一 プロフィール等",
+      "url": "https://natori-kenichi.jp/sample-page"
     },
     {
       "id": "profile-p3",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "8baf424ea1880640d2acd56efad789aab1c07b954518a88ffcbfd7dd5c58ab86",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "田中としかね プロフィール等",
+      "url": "https://toshikane.jp/profile.html"
     },
     {
       "id": "profile-p4",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "166d78142815a1e25e3bcf77e971c8b3a33f5edc16b9db9765d4d240d2ed67f3",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "市村やすとし プロフィール等",
+      "url": "https://ichimura-y.com/profile.html"
     },
     {
       "id": "profile-p5",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
-      "hash": "3a00cd5c6d3fa2410bb9a0823441f0371530f3cfaebed11fd6543853370e7e55",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c50d918e76302aff89b1af97ac007c28e2f1b1ce65502fe628f597da7fe6d8ed",
       "error": null,
-      "changed": false
+      "changed": true,
+      "name": "山田ひろこ プロフィール等",
+      "url": "https://hirokoyamada.com/free/profile"
     },
     {
       "id": "profile-p6",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "677f3165c9819b2d81b2233f1a24d1d67f1f3a9cd79cea791f6937dcbb148ab3",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "浅川のぼる プロフィール等",
+      "url": "https://asakawa-noboru.jp/prof.html"
     },
     {
       "id": "profile-p7",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "118aff744f1a771f03e11778ff16225f98996474768013e15394e02ca5103b01",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "松平雄一郎 プロフィール等",
+      "url": "https://ymatsudaira.com/index.html"
     },
     {
       "id": "profile-p8",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "4c695275f1a04f1fa4131f2b70f43c0f7c712cb1b8ad86a0cedb9a7c1de1eff5",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "吉村美紀 プロフィール等",
+      "url": "https://yoshimura-miki.jp/"
     },
     {
       "id": "profile-p9",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "e548e766370cfe8a3071ce5e613613b980ee0db6cf8978861b981585f408d953",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "のぐちけんたろう プロフィール等",
+      "url": "https://noguchikentaro.com/profile/"
     },
     {
       "id": "profile-p10",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "5817f4bf62e3d884c3b6dc55b464b356ad328b91c1a0519b059ff54a61c042f3",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "板倉美千代 プロフィール等",
+      "url": "https://www3.jcp-tokyo.net/itakura/"
     },
     {
       "id": "profile-p11",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "6791ae1305947c40f6c30a8766099dd167c4769c7aee1fd814b5dc25bb192a77",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "関川けさ子 プロフィール等",
+      "url": "https://www3.jcp-tokyo.net/sekikawa/"
     },
     {
       "id": "profile-p12",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "378882457830d48d93f67f363215027670ac746789a5430eec480c70e11aa149",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "金子てるよし プロフィール等",
+      "url": "https://www3.jcp-tokyo.net/kaneko/profile/"
     },
     {
       "id": "profile-p13",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "cfc7f4d76c7ba8c1ea20de68827fe018d2ce7b563b90323ef5037678fe7a0429",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "千田恵美子 プロフィール等",
+      "url": "https://www3.jcp-tokyo.net/senda/profile/"
     },
     {
       "id": "profile-p14",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "9fd97dd589a0e5807337f95565a50aac83d0307a201a52e2d01d002d6e183121",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "石沢のりゆき プロフィール等",
+      "url": "https://www3.jcp-tokyo.net/ishizawa/profile/"
     },
     {
       "id": "profile-p15",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "aff599e875ac2bde363e0ee30d60f1e50e967c8a0a1ca297bd63ef51a3a29772",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "岡崎義顕 プロフィール等",
+      "url": "https://www.yoshiaki-okazaki.jp/profile/"
     },
     {
       "id": "profile-p16",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "20921f648bf62ed89ca751e8573b8e6bfceb51c183ad1f0fa6b808ff5c65577f",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "松丸昌史 プロフィール等",
+      "url": "https://masashi-matsumaru.com/profile/"
     },
     {
       "id": "profile-p17",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "a30e82100705108c6996677f3e27225a1cdc44247e6249266da2d8a0425b08b9",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "田中香澄 プロフィール等",
+      "url": "https://www.komei.or.jp/km/bunkyo-tanaka-kasumi/profile/"
     },
     {
       "id": "profile-p18",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "5b815f9438cc9347856ac6f2e2460a85f10af2f8e1a7babf043441ef1cf1aafb",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "宮本伸一 プロフィール等",
+      "url": "https://www.komei.or.jp/km/miyamoto-shinnichi-bunkyo/profile/"
     },
     {
       "id": "profile-p19",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "de5d3c07970feabcb508974cf3cea0b18d478dbdd77919ab96982215180f9f53",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "品田ひでこ プロフィール等",
+      "url": "https://56847375.jp/"
     },
     {
       "id": "profile-p20",
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
       "error": null,
       "hash": "0d62cb26e8afa0433296976d128aa413310bef2d8f05e6e11e966f869e1b1373",
       "extractorVersion": 3,
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
-      "changed": false
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "changed": false,
+      "name": "浅田保雄 プロフィール等",
+      "url": "https://asadayasuo.jp/"
     },
     {
       "id": "profile-p21",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "b0afdaebf3362d5873929627f7d1a2a0b48ad6b1576e4693587b9b11f2e75d01",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "上田ゆきこ プロフィール等",
+      "url": "https://uedayukiko.jp/profile/"
     },
     {
       "id": "profile-p22",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "a87ffd247ff65aafe1d3d9f191a6e5caf749ef0777b5cef71875716be40ea6b7",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "沢田けいじ プロフィール等",
+      "url": "https://sawadakeiji.jp/profile/"
     },
     {
       "id": "profile-p23",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "33d13c08503318effe1d3da5c3dff1312a22dcb48786926723b7b988f9a967a9",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "依田翼 プロフィール等",
+      "url": "https://yodatsubasa.tokyo/"
     },
     {
       "id": "profile-p24",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "3f49fa1a8a9464d230a126f3627a6a11de6512b41b053d3b5e6f28bbdfb633cb",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "小林れい子 プロフィール等",
+      "url": "https://reiko-kobayashi-bunkyo.tokyo/"
     },
     {
       "id": "profile-p25",
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
       "error": null,
       "hash": "bfee557d0828f014d42d5c067fa25c21b3b0857958c60f0f78d89b4f9d5feaaf",
       "extractorVersion": 3,
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
-      "changed": false
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "changed": false,
+      "name": "海津敦子 プロフィール等",
+      "url": "https://www.a-kaizu.net/sp/contents.html"
     },
     {
       "id": "profile-p26",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "450448ddef693ecc5260da4b034afde2e1fdbeb8ecf5a9cd52374ab70bf9b1ca",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "高山かずひろ プロフィール等",
+      "url": "https://o-ishin.jp/member/detail/post_350.html"
     },
     {
       "id": "profile-p27",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "e6a0e12326df2054191e1a8bc7d818b55dec76645cc41064ff460a4588fb7f0a",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "宮崎こうき プロフィール等",
+      "url": "https://o-ishin.jp/member/detail/post_330.html"
     },
     {
       "id": "profile-p28",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "832decf8abc50bde2b83f3aefa284d5cf258c2f1547b4bec37b668b91b198f48",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "山本一仁 プロフィール等",
+      "url": "https://www.city.bunkyo.lg.jp/b003/p006063.html"
     },
     {
       "id": "profile-p29",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "2893419e874bacd9239d5ea829fa30d1ce6ebc448041cb021fe120a1f628c33f",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "高山泰三 プロフィール等",
+      "url": "https://bunkyotaizo.amebaownd.com/"
     },
     {
       "id": "profile-p30",
       "extractorVersion": 2,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
       "lastSuccessAt": "2026-11-04T11:47:42.915Z",
       "hash": "4f3746ea2afad445dc12e95401fe308ff58e292b85ec0cd43e63452c4a39c9d9",
       "error": "HTTP Error 503: Service Unavailable",
-      "changed": false
+      "changed": false,
+      "name": "宮野ゆみこ プロフィール等",
+      "url": "https://www.miyayumi.com/profile/"
     },
     {
       "id": "profile-p31",
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "error": "本文または期待する見出しを確認できません"
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "本文または期待する見出しを確認できません",
+      "name": "ほかり吉紀 プロフィール等",
+      "url": "https://go2senkyo.com/seijika/186741"
     },
     {
       "id": "profile-p32",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
-      "hash": "41515797023dbebd40b65a3127322ced4cce118ffbe98c093c4400e1fb274bcd",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "759106e308f05d23a6449dcce4b14f617d26cd28228f4a3711d1da387a5940c5",
       "error": null,
-      "changed": false
+      "changed": true,
+      "name": "たかはまなおき プロフィール等",
+      "url": "https://takahamanaoki.com/profile"
     },
     {
       "id": "profile-p33",
       "extractorVersion": 2,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
       "lastSuccessAt": "2026-11-04T12:49:17.754Z",
       "hash": "faaf5f180a5e79f8a4ac0bac6c50b65a23fb51519507f1b041216ca53752ded4",
       "error": "'ascii' codec can't encode characters in position 5-15: ordinal not in range(128)",
-      "changed": false
+      "changed": false,
+      "name": "豪一 プロフィール等",
+      "url": "https://www.gogogoichi.jp/ごういちのプロフィール/"
     },
     {
       "id": "election-calendar",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "adc1e781666fcd0b20c5509af933e2c7492dcec6372a88adfe3ee5041d7a0e5e",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "文京区 選挙日程・結果",
+      "url": "https://www.city.bunkyo.lg.jp/kuseijouhou/senkyo/nittei/index.html"
     },
     {
       "id": "election-types",
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
       "error": null,
       "hash": "160fdfc7f4753a0d7e0fff7b9a93f5902f4a68cdd0299d721527b2ce04e3e58e",
       "extractorVersion": 3,
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
-      "changed": false
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "changed": false,
+      "name": "文京区 選挙の種類",
+      "url": "https://www.city.bunkyo.lg.jp/b045/p006374.html"
     },
     {
       "id": "election-mayor-list",
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "error": "本文または期待する見出しを確認できません"
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "本文または期待する見出しを確認できません",
+      "name": "次回区長選 予想される顔ぶれ",
+      "url": "https://go2senkyo.com/local/senkyo/27365"
     },
     {
       "id": "election-council-list",
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "error": "本文または期待する見出しを確認できません"
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "本文または期待する見出しを確認できません",
+      "name": "次回区議選 予想される顔ぶれ",
+      "url": "https://go2senkyo.com/local/senkyo/24560"
     },
     {
       "id": "election-jimin",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "89d41fa5eeedb4b94f6c18f5028c6b9c8df8c93c305d40aa66ee37ef94a896d0",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "自民都連 次回統一地方選",
+      "url": "https://election-special.tokyo-jimin.jp/r9-toitsu-top/"
     },
     {
       "id": "election-support",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "a581bddd4e5edd8ce468d3c84e73700b9ca051da3f55534b783c49f89527b578",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "ひろゆき＆いずみ 候補予定者紹介",
+      "url": "https://yakusoku.info/candidate.html"
     },
     {
       "id": "election-cdp",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "d01a82427cceaae01f3348a905551d4bee34540b1edd807554bbef573097e0d6",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "立憲民主党 次回文京区議選",
+      "url": "https://cdp-japan.jp/election/868"
     },
     {
-      "id": "election-ishin",
-      "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "id": "expanded-62b41a91727f7b36",
+      "name": "宮崎市 2027年実施予定 地方議会議員選挙 公認候補予定者",
+      "url": "https://o-ishin.jp/election/candidate/2027kounin/",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "7d20cfc2bfcaebc51c9e35366e5bd2f4b7735feab8ce948cbb86ff963806399b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "error": null,
       "changed": false
     },
     {
       "id": "profile-candidate-koboku",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "3de9f51f2e6e495465d725e2127270120394d282d4b9d8772e95fda644aec944",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "小木いくお 公式ページ等",
+      "url": "https://koboku-ikuo.jp/"
     },
     {
       "id": "profile-candidate-ebisawa",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "3118acbd395b58606f90b623ab23bcb05c2c0b139e9dd65471bccfa6c8770905",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "海老澤けいこ 公式ページ等",
+      "url": "https://ebisawakeiko.com/"
     },
     {
       "id": "profile-candidate-kawahata-ayako",
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "error": "本文または期待する見出しを確認できません"
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "本文または期待する見出しを確認できません",
+      "name": "川畑あやこ 公式ページ等",
+      "url": "https://go2senkyo.com/seijika/186988"
     },
     {
       "id": "profile-candidate-honda-kaori",
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "error": "本文または期待する見出しを確認できません"
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "本文または期待する見出しを確認できません",
+      "name": "本田かおり 公式ページ等",
+      "url": "https://go2senkyo.com/seijika/187820"
     },
     {
       "id": "profile-candidate-fukuzawa-naoto",
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "error": "本文または期待する見出しを確認できません"
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "本文または期待する見出しを確認できません",
+      "name": "福澤直人 公式ページ等",
+      "url": "https://hoshuto.jp/press-release-260810/"
     },
     {
       "id": "election-tomin",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "4c94314046a359382670905f25a4772e3100260f18d4e15992b83a54b6567c2d",
       "error": null,
-      "changed": false
+      "changed": false,
+      "name": "都民ファーストの会 公認等のお知らせ",
+      "url": "https://tomin1st.jp/news/"
     },
     {
       "id": "election-jcp",
       "extractorVersion": 3,
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "hash": "0868b88c8d1fb1b03d0d3d91f87039d735c08e3565e18d4bb5172dac1a3e7b02",
+      "error": null,
+      "changed": false,
+      "name": "日本共産党 文京区の予定者等",
+      "url": "https://www.jcp.or.jp/list/member/1310595"
+    },
+    {
+      "id": "national-mayor-publication",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "6628af0e674e83446ed93bd6704454bbae9ee6a89f5f65ff4af64e7ebf021063",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false,
+      "name": "全国首長名簿",
+      "url": "https://jichisoken.jp/publication/esearchpaper-142/"
+    },
+    {
+      "id": "expanded-ab7be054c1300324",
+      "name": "札幌市 札幌市議会議員選挙 （北海道 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/821",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "bff9150c759b076d6b68abb8d6e3b429d050cf259bf80940ea92f29335f124d4",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "error": null,
       "changed": false
     },
     {
-      "id": "national-mayor-publication",
-      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
-      "hash": "6628af0e674e83446ed93bd6704454bbae9ee6a89f5f65ff4af64e7ebf021063",
+      "id": "expanded-40b2de909dad6d9c",
+      "name": "札幌市 札幌市議会 議員名簿",
+      "url": "https://ckan.pf-sapporo.jp/dataset/9c3902ea-43a1-4f1e-9281-101eac218818/resource/98df3fa7-4e35-4fa3-b5ce-f308aba5cb65/download/20260417citycouncilroster.csv",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "対応していない資料形式"
+    },
+    {
+      "id": "expanded-9141280cbae42a65",
+      "name": "標津町 日本共産党中央委員会 地方議員検索（北海道）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%8C%97%E6%B5%B7%E9%81%93",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "6735cdaf65782386c7049a3e63eefc4d6ceb93cf92c0b3fb8bc27096a24efabd",
       "extractorVersion": 3,
-      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
       "error": null,
       "changed": false
+    },
+    {
+      "id": "expanded-69c0511047a2870a",
+      "name": "滝川市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:1",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "9d4a7c7115a752a41decb66d94014b87d9e77c9d508952316b471595d090cd7d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-64dc4ddcf3b00652",
+      "name": "千歳市 国民民主党 議員 - 北海道",
+      "url": "https://new-kokumin.jp/member_tag/hokkaido",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "39e07d73543d1484fe3168e9c9d938c46a5033acb1c544401e94a69df6e960ba",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ba80167a47be2f2e",
+      "name": "札幌市 秋元克広（あきもとかつひろ）市長のプロフィール／札幌市",
+      "url": "https://www.city.sapporo.jp/city/mayor/profile/akimoto_profile.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "561f002f06410739e6904cee5d825abaaf1d266c9835b79bb78eeb0c4b79f4e3",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2099f251d5419f13",
+      "name": "小樽市 小樽市議会議員選挙 （北海道 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/811",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "5b0845dcbd51d338ecc1d340df0aa2ea21208aa6e2f15633a92fbe391ed2b351",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e9c568f3e5d054ea",
+      "name": "室蘭市 室蘭市議会議員選挙 （北海道 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/812",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "8029c553ddc8862b08a2493be67f9b2bc886337a81476052045f3dcf3fdeedff",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9365410578d636ba",
+      "name": "岩見沢市 岩見沢市議会議員選挙 （北海道 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/813",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a769fedf638ef832c9e0435687dbb923c20eabf77a9b441403d7bd5e0fbdc01e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-aa61070cca343111",
+      "name": "滝川市 滝川市議会議員選挙 （北海道 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/814",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "3c944e287a1e556d2ec9177803e99fde7303f09a0e179146987874f69ab42e2b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-cbacb664e5bdd356",
+      "name": "八戸市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:2",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2b38cc70714a871bfdd000905aea0c4631b980c6d6617984035c58d0a18bbc6d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f73286faba9b4eca",
+      "name": "恵庭市 恵庭市議会議員選挙 （北海道 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/815",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "7938defb6df1cafee7d813de6d7414b5896458ea8811c0773624d814d7c9fa35",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ceec28887b4169e0",
+      "name": "伊達市 伊達市議会議員選挙 （北海道 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/816",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "fefd5d86a58c788a1bbea2cc92db93cae326a0cdc7683d43c3e0184982a15e98",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5e5b5fc3108dddee",
+      "name": "北広島市 北広島市議会議員選挙 （北海道 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/817",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d87e5f1daa5f1d00921886a2424ab05e3196a1d7a05810a2ec4fd768045454ce",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-3173d9a566518d4d",
+      "name": "倶知安町 倶知安町議会議員選挙 （北海道 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/818",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "fe1383b75eaed2769180754115422bf48d05437bf52e76038ccda7af68bc93d4",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9042a828f9f09fce",
+      "name": "浦河町 浦河町議会議員選挙 （北海道 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/819",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "6355717ea51c79db1b3e13a01e54a1f43b53966cb6cfa10888ee6f13ea5c4b29",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-77dfd081d4072e7e",
+      "name": "青森市 国民民主党 議員 - 青森県",
+      "url": "https://new-kokumin.jp/member_tag/aomori",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "585c4157a659c14e3617cf70b8d99bd30845f4af525dbbb173f293394b20371f",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-85d5fb746bbc707a",
+      "name": "青森市 市長あいさつ │ 青森市",
+      "url": "https://www.city.aomori.aomori.jp/shisei/shichounoheya/1005416.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e49387231e5f8f593018fd09a390282aa86069cc92fc85d7116ebdbacd5e6d89",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-7e95a147719d9f3f",
+      "name": "東北町 日本共産党中央委員会 地方議員検索（青森県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%9D%92%E6%A3%AE%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "ee579c725a03d08f0328b4e1e2e58025de425e8ab7390d3fe3bf976e25583c94",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-a615b05842ec891b",
+      "name": "柴田町 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:3",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "35a51d111a66eaf520b9a4730c007072cf730145c057762475d00fccfe1afe35",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-a3cfa69a385d676b",
+      "name": "洋野町 日本共産党中央委員会 地方議員検索（岩手県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B2%A9%E6%89%8B%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "efba8b02baa68f82c6923b0579622b28d3fa7c1adb48e05fae9a4a9eb78dc362",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-702c0edb7ff7ce87",
+      "name": "盛岡市 市長のプロフィール｜盛岡市公式ホームページ",
+      "url": "https://www.city.morioka.iwate.jp/shisei/shichoshitsu/1008874.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "97db3b1216b50a30f1f57cc7683ce37863de0673af80b02cd9782e71caa35754",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5fbcff4a31eec270",
+      "name": "滝沢市 国民民主党 議員 - 岩手県",
+      "url": "https://new-kokumin.jp/member_tag/iwate",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c8a042253646f90cce6a579ba4580b0de261a032651eb2416eff2c0e567a1810",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-3d1641819bab287c",
+      "name": "仙台市 仙台市議会 議員名簿",
+      "url": "https://www.gikai.city.sendai.jp/list/district/taihaku/index.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "da892837a5ed97c0bcedc0bf2ff8ce06828515d9ad437464303f8ed897addba6",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e99adbfbc7fa5512",
+      "name": "仙台市 仙台市議会 議員名簿",
+      "url": "https://www.gikai.city.sendai.jp/list/district/aoba/index.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "ead464d618b990f42c66a5d2f2c3ba11dd5defbe15b0c3c4802b2a8694f44ed1",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f9b57b244e432ab3",
+      "name": "仙台市 国民民主党 議員 - 宮城県",
+      "url": "https://new-kokumin.jp/member_tag/miyagi",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d8f5c6f2c6c1a615fe4c32a5202a2da382343e0958e71f9745c61db9c0aab540",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-786e69267b064ab6",
+      "name": "仙台市 仙台市議会 議員名簿",
+      "url": "https://www.gikai.city.sendai.jp/list/district/izumi/index.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "baf09b549d82bcb5f6c8be570abef7ad542be612a7594c986c54c5d4af5fa2c2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-c8df5d4e79229d1f",
+      "name": "女川町 日本共産党中央委員会 地方議員検索（宮城県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%AE%AE%E5%9F%8E%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "7f972931844e155d51c2fe59b5d6e3ce8b831cd29441da66836a74f87d6f8798",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-398dd4e2bbb61e4a",
+      "name": "仙台市 仙台市議会 議員名簿",
+      "url": "https://www.gikai.city.sendai.jp/list/district/miyagino/index.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0309a8783042ab7fa0cb30521128c4b8a561b09f35e81ae9d87fb22218cbe18a",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-223856fe23d1d697",
+      "name": "仙台市 仙台市議会 議員名簿",
+      "url": "https://www.gikai.city.sendai.jp/list/district/wakabayashi/index.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d60fd03286ceeae79188542a867cff69560dfd3b9ce92457f5c9cd7dce13f643",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-8750a58d1d4f1dab",
+      "name": "仙台市 市長メッセージ｜仙台市",
+      "url": "https://www.city.sendai.jp/invest/profile/message.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "f23e60d86ce42a66411a03f74f88ca140ce04f4889a31dce49f06217ef608603",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-020f11c7f846d9ae",
+      "name": "白河市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:4",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "615e925b435563ab0f17ff9939b9c460380846be4e930a47b949644d056368f3",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-617288db944dad18",
+      "name": "東成瀬村 日本共産党中央委員会 地方議員検索（秋田県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%A7%8B%E7%94%B0%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "725e7cc0ae7c24757be9bf206196f32a9f999a42c4dc83dd9ec098497ccf008c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2a3c6ccdc1cbc9e7",
+      "name": "秋田市 秋田市議会議員選挙 （秋田 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/735",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "5667f84e67970fc43f618a15e17e87e9936593266e9bdd9291027fabdedf3580",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1008448ce7984bbf",
+      "name": "秋田市 初登庁式あいさつ｜秋田市公式サイト",
+      "url": "https://www.city.akita.lg.jp/shicho/aisatsu.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c8a72461e5ddecfc91709a1ea800b93a520eea7a04f3f9e5462ac82f08cbf554",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-683646ba61579844",
+      "name": "横手市 国民民主党 議員 - 秋田県",
+      "url": "https://new-kokumin.jp/member_tag/akita",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "05b010ed13ee05210075c2984ce380e74645beb8b5274b3b4386041cbefdeb0c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-421a4704d501fec6",
+      "name": "大館市 大館市議会議員選挙 （秋田 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/788",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "380d32236e223d7af013353542903d0e51e2254e2a3321ee1baebf29aa3bc971",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-322c31e83d9f85a0",
+      "name": "庄内町 日本共産党中央委員会 地方議員検索（山形県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B1%B1%E5%BD%A2%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "283b928033c31a6e39d3d45961c046739305a3a57d7d055223edb634d3d1f132",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0b6f894a0fa95810",
+      "name": "山形市 市長プロフィール｜山形市公式ホームページ",
+      "url": "https://www.city.yamagata-yamagata.lg.jp/shiseijoho/shicho/1005809.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "207a556c5fbdd38430bda7ac90dde2124c7d997b2ed422deedc1335821586a2d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-49d66188b8d7fda5",
+      "name": "庄内町 国民民主党 議員 - 山形県",
+      "url": "https://new-kokumin.jp/member_tag/yamagata",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "1f570c014b0f20721a4fcb66b88ad70cd67c366653a50ab63fb80fa854ab0af3",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e43d0464dbff2580",
+      "name": "飯舘村 日本共産党中央委員会 地方議員検索（福島県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%A6%8F%E5%B3%B6%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "3c2e81123e3e2c542df9cff9676b20b248ba87318740ba0c4b538329775562e5",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ea4534532b40ecc0",
+      "name": "浪江町 国民民主党 議員 - 福島県",
+      "url": "https://new-kokumin.jp/member_tag/fukushima",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "50a7de7e25770db5f42f9d31d1be652561caefa54b0a2eb149e7efb523099bf7",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2b68bff24038cd7b",
+      "name": "福島市 市長のプロフィール／福島市公式ホームページ",
+      "url": "https://www.city.fukushima.fukushima.jp/shichonoheya/16354.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c604e4335cb4a8f1f11a837e480620d86a22d88e3b85bf6b7db9dda2e23dcf45",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-4d0f566e9c7addaf",
+      "name": "稲敷市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:5",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0a6deaaf78085d05b3b4792638baa59c82383d696aceb352e0c1c66d7bd522d4",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-43cd25a26a79c866",
+      "name": "利根町 日本共産党中央委員会 地方議員検索（茨城県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E8%8C%A8%E5%9F%8E%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0cd22249b7f9944d8fe68c2029a37739e6c6c8334924c5101b76190750a6e407",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-510f670497eaab51",
+      "name": "水戸市 水戸市議会議員選挙 （茨城 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/702",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2b7ddddf534ed0b44c437d4b5bc2d12e8d384f08d096c065767714de9adca1d3",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-b316ff80a8856c61",
+      "name": "阿見町 国民民主党 議員 - 茨城県",
+      "url": "https://new-kokumin.jp/member_tag/ibaraki",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d1f0fc9217c08c2a05dbf397af6a49dce3d7bcfb91e052e9ab85f45e5174e68e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2fb2ecd6407dd496",
+      "name": "水戸市 市長プロフィール - 水戸市長の部屋 - 水戸市ホームページ",
+      "url": "https://www.city.mito.lg.jp/site/mayor/3196.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d91a4b99d2f8f4fe202b2d9aa19941d30540ebda72a5a6308f26d6b1aeb8a569",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9dc9f24dfbcca57b",
+      "name": "常総市 常総市議会議員選挙 （茨城 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/719",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "6a4db113f22528bc8c6b8af665941dc582da3e9ee322e32f3c1679e5230555c8",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0fbcaed34bf962a3",
+      "name": "高崎市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:6",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0ffaa7d2cc86073824a1a0d1c61a62923bc96fbdb797a2294ba4196f54ece071",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-8aed4665a1bea47c",
+      "name": "宇都宮市 市長室から｜宇都宮市公式Webサイト",
+      "url": "https://www.city.utsunomiya.lg.jp/shichoshitsu/index.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d2e742aecbdc496603789953bdb0537056ed73d9302b400f4dc83654bffe8388",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-8b41683dd8d36fd8",
+      "name": "那珂川町 日本共産党中央委員会 地方議員検索（栃木県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%A0%83%E6%9C%A8%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a28190e1811e632418cd9f2518e41dd3e9628c8d6547f330115414a75371c7c9",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-86a869acaac1edca",
+      "name": "壬生町 国民民主党 議員 - 栃木県",
+      "url": "https://new-kokumin.jp/member_tag/tochigi",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "40161745e084bf51f4be27bf9807d16bd33d007470bd95445e819416668f95ab",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ed5f3ceee9ea8f85",
+      "name": "小山市 市長プロフィール | 市長の部屋 | 小山市公式ホームページ",
+      "url": "https://www.city.oyama.tochigi.jp/mayor/mayor-profile.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "40d2b552c8bc8b85e12e2d9ab79cad51ff1ca75aa1fe5e0b509ee057ab619425",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-d7ef780de85e2b56",
+      "name": "邑楽町 日本共産党中央委員会 地方議員検索（群馬県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%BE%A4%E9%A6%AC%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2dbffa2a52d76e7e78057a271378d256e89f4a9918a0735d540eabcc3b45016b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2ed8d33f0cc2c787",
+      "name": "前橋市 小川市長のプロフィール／前橋市",
+      "url": "https://www.city.maebashi.gunma.jp/gyosei/mayor/40050.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "70d87d4e04a26984e113c850ee5568a56f4f9a2084c999983048cfa2eeec7971",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-701b0abb8b1da072",
+      "name": "大泉町 国民民主党 議員 - 群馬県",
+      "url": "https://new-kokumin.jp/member_tag/gunma",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e166b6731f85e2b70a8c87e67ff1db671e9e78e88ddf23d67503e9ae4b11f5ca",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f436cdcc24730a70",
+      "name": "行田市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:7",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "39dfdf6fde9142f3451186fe480a8968a529cd69e1ea6280ec92d2191144633e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-165927005a594b62",
+      "name": "藤岡市 藤岡市議会議員選挙 （群馬 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/842",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "ae2019e7288583b6852d53f44f0c0ab6782eae5fc0c95759029e8a4eb1b782b6",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5e9e9da69d72575e",
+      "name": "板倉町 板倉町議会議員選挙 （群馬 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/843",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "864dd7afca3aafe1ea96bb7414297c493a8b3d5b08da8bfc151b9ef98749ff09",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9bd46e6095b3fc79",
+      "name": "さいたま市 さいたま市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/734",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "fd2e07e57213784686ec338835d1ab6672b4b2dc08bbee2a5ee9d2e75ae8e52a",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-813e7960ac959e18",
+      "name": "松伏町 日本共産党中央委員会 地方議員検索（埼玉県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%9F%BC%E7%8E%89%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "5343d46b3d9ae66f0dcec8c2fd0e2e8c6a4dff831534c5e32b90e4ed07e2078d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-11c776589c639174",
+      "name": "さいたま市 さいたま市議会 議員名簿",
+      "url": "https://www.city.saitama.lg.jp/gikai/001/002/001/index.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a9f643f8f278b31dfe20fa8d2fa109356128eab06465ca83afd93d782336c8d4",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1d286c645db2162b",
+      "name": "嵐山町 国民民主党 議員 - 埼玉県",
+      "url": "https://new-kokumin.jp/member_tag/saitama",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a048a81f71c0deb330cc5f589e61a4de684708a49bb1c3086b7be8f5777034ee",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-8382a486ef2d9d22",
+      "name": "さいたま市 さいたま市／さいたま市長プロフィール",
+      "url": "https://www.city.saitama.jp/006/003/003/006/p008635.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e682390c92c030f191d000362195db3045866ce8540c3404ed8dd666a1ab5007",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-eb8511af4fbb3367",
+      "name": "川越市 川越市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/861",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0ce89aea68011c53b8868dbebc6e463aaa2e53e19a983f1125afe2dc2ffff003",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-166c5dc4d8d5c912",
+      "name": "新座市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:8",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "4007ebda683f3045c1265af79d8b8517cdd6234ae53982f5c0ed41fe03be34fd",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5dad2d7cad173e59",
+      "name": "所沢市 所沢市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/777",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "7adc16aa7609c0ea919cf2aebb1a0da120dd3fc4a4c3b3e314265fdf24191a2c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2f8b33aea80c267e",
+      "name": "加須市 加須市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/778",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "1121e53f7331fb2344e69a4eac96067c38364dc100df69a95903f55ca80f53a7",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ed3543cc1ba027dc",
+      "name": "越谷市 越谷市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/779",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "76334af6f585030e329ca563571621a0ec917409f508ea69463154e2ee887f34",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0d3b2ae9020d9d6f",
+      "name": "松伏町 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:9",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "59098e26646a0d3655c0f4ce3d641f35514d4c4fbe5cb36cfd6f1c62d125574e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e22d15c1f3a75fa3",
+      "name": "ふじみ野市 ふじみ野市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/862",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "643256093215873df8be823f6331ddb63d5b1aa53bce928461c503c742957b6c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9c2ccec06da6c355",
+      "name": "鋸南町 日本共産党中央委員会 地方議員検索（千葉県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%8D%83%E8%91%89%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "351f164659d9066533cb67361d0e5b8eaf8c56a30ad3c7059a7071c9463be90d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9c5a54897e23a561",
+      "name": "千葉市 千葉市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/776",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "f24dcf1699b610ee7826510576a98b31982a54f2c2854a7da439ac6aa975a562",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-b197aceeca99d2b8",
+      "name": "千葉市 千葉市議会 議員名簿",
+      "url": "https://www.city.chiba.jp/shigikai/list_kaiha_miraiminsyuchiba.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "adb7bd614e0f8b604a68425cb67bfe8f8993d8d2fbec2e4146aebc1587b32cc2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2fb36494765745f5",
+      "name": "千葉市 千葉市議会 議員名簿",
+      "url": "https://www.city.chiba.jp/shigikai/list_kaiha_jimin.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "bc72141b13fe15eb3af1c6ac4c5dcf3f4ec0c97eb6b107092195aa1f7282ea1e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f6478837f316fc49",
+      "name": "千葉市 千葉市議会 議員名簿",
+      "url": "https://www.city.chiba.jp/shigikai/list_kaiha_kyousan.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "698e6d104ced3f2b17a9db68072ee9277dbac01f7041e49080667b53aea239c2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f43b9c3df940022c",
+      "name": "千葉市 千葉市議会 議員名簿",
+      "url": "https://www.city.chiba.jp/shigikai/list_kaiha_koumei.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "88eb745f066a6352ccb369824d617dcba9effc9edf43381d95d26c15d530ff04",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-18df5b7598fb89f9",
+      "name": "柏市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:10",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "84fa25b6ea36a92e356c4e326b98cae2b58c6604f7ef9a1f61d77b53dd6102fd",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-53e52dfd0fc7a82a",
+      "name": "千葉市 千葉市議会 議員名簿",
+      "url": "https://www.city.chiba.jp/shigikai/list_kaiha_mu.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e086b43be673f6c3358537bfda0032db63bf3c841c12a274b32302ae35da9567",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-7efaec5c3e91ff53",
+      "name": "千葉市 千葉市議会 議員名簿",
+      "url": "https://www.city.chiba.jp/shigikai/list_kaiha_ishin.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c0767f13c913ff37e1d7458c1b9f354be23cd6dc26e1982b4b4566b14e22fa20",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-07faebe67bc4bdfd",
+      "name": "千葉市 千葉市：市長プロフィール",
+      "url": "https://www.city.chiba.jp/sogoseisaku/shichokoshitsu/hisho/profilekamiya.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c53ede86012eb214de718ae31ac9cb69e8b45874609001888cfb41787dbd0d3b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0623755c9ba65f52",
+      "name": "銚子市 銚子市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/905",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "1201895089ff027dfac756032fbfdfe88ba494e134458716c1ee334044244fee",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-c6792e4255d82d12",
+      "name": "市川市 市川市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/743",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "1e222b9c58c9113844e7abc9f0ecf70b1edd25a67f87f96cfa9b4c5ff58b38f2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1cce034a7fe68daf",
+      "name": "船橋市 船橋市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/744",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "ee0911d3e307be1ac9f040c844967dcf87216c4e1b0130e7a9890505b764e7b0",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-39ea303dfa6d3897",
+      "name": "木更津市 木更津市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/836",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "723a31b1e91a3eb027ad9655b9fb16ccaf49700727a508911984939ec3d1ce2a",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f500262c39db9e5b",
+      "name": "袖ケ浦市 国民民主党 議員 - 千葉県",
+      "url": "https://new-kokumin.jp/member_tag/chiba",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "8673d96624b4f2f33a3b10b5e426a6f8a6f4340f56a5e0371fe6c40cb7b04f45",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-713d158458d1296e",
+      "name": "成田市 成田市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/780",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "486f027e361401a2c0f70316b712593a24777d32cbdd04ae0e5a2da2db381754",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-db2b88f64f2a3182",
+      "name": "習志野市 習志野市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/745",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "4aceea8b71a87d541422d4bdf34fe9d83066bcf78b4a3a2625ee5cf172bdab00",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-36232d6559a680e3",
+      "name": "大多喜町 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:11",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c36b08118c6427969add1aaadf71ce18668e4924f13ef7bfb2324b83e3cf4b18",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-bd502216eb82566e",
+      "name": "流山市 流山市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/795",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "be2223870ab22d6a6d1dfabc10ee6fb3c4680811c0ea6f0c4d8a031f831d31e2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-185760ae0d000b29",
+      "name": "鎌ケ谷市 鎌ケ谷市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/837",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "7e17a6bd8147acefa85aa5509fc12332256fe7db0f9869123635443a1c465747",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-210769396d10051c",
+      "name": "浦安市 浦安市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/746",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "25fe6df17e611435094f38170b3e2d22fa391ccf9eff76653ddd80b6f0f9c5eb",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2aa8142e0bbe90a2",
+      "name": "印西市 印西市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/747",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "afaaf28a318f7d2175482d1de5e107c37a23d53e79cda2052df5434359874614",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-c635468ba5ea2e3b",
+      "name": "白井市 白井市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/748",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "f01db77788efaa69dd7cb9257945f4e109187a784fbb634f5c9b7534a084851f",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-138644ec62d18ac2",
+      "name": "富里市 富里市議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/849",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d6b8eabae841a83f7205720c4678aad97da7b61545ff09572d6f6f7d267db323",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-c47207230d6d5353",
+      "name": "酒々井町 酒々井町議会議員選挙 （千葉 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/749",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e94c6717b149ef0639ac1aa49773c08509118c150c365f029ea148483da0d328",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1efd01d3141f663c",
+      "name": "瑞穂町 令和9年統一地方選挙 第1次公認・推薦候補予定者名簿（13ページ）",
+      "url": "https://election-special.tokyo-jimin.jp/wp-content/uploads/2026/10/%E8%B3%87%E6%96%99%EF%BC%9AR9%E7%B5%B1%E4%B8%80%E5%9C%B0%E6%96%B9%E9%81%B8_%E7%AC%AC1%E6%AC%A1%E5%85%AC%E8%AA%8D%E6%8E%A8%E8%96%A6%E6%B1%BA%E5%AE%9A%E8%80%85%E4%B8%80%E8%A6%A720261013.pdf",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b44c588859f211fe6560eefda42db42183f932c6f7e5912d310942dc03f8ca41",
+      "extractorVersion": 4,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-c19c64abc9d46bdb",
+      "name": "千代田区 千代田区議会議員選挙 （東京 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/864",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c1f88c5b622f7031c0889919ae67e3137d563a6765489f06e292fcb5400938cf",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-a1ad046600b5d995",
+      "name": "大田区 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:12",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "9038af51f116c6cceeefa4941a1028747a9311834f2649124deb4a11e43e497c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-6865f5fffeae91e4",
+      "name": "御蔵島村 日本共産党中央委員会 地方議員検索（東京都）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%9D%B1%E4%BA%AC%E9%83%BD",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "520719550f573eeeec7f107de061fc8cc7fb27c077832a098b271d227b32e71e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-bc0346731724bb3b",
+      "name": "西東京市 2027年統一地方選挙 公認候補予定者一覧｜国民民主党東京都連",
+      "url": "https://r9-toitsu.new-kokumin.tokyo/candidates.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a463bf035ae2dd08bef4bd9fa787a310b65d911e1abd1725a2faad2615754595",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-049a98b64bf7b886",
+      "name": "東久留米市 国民民主党 議員 - 東京都",
+      "url": "https://new-kokumin.jp/member_tag/tokyo",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "7602a61f8b0515340a7e1a28fe06c741e8ad1a37f1d126e7ab6d2a78f04aad66",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-4909dd0c122eaaa8",
+      "name": "中央区 中央区議会議員選挙 （東京 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/865",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2e2052ef4d9fd00e6cb94903852b577bc5a5350b3acefd803bfba799d9b54ad6",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-b78fed6b6cb8dd32",
+      "name": "港区 港区議会議員選挙 （東京 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/866",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b53bf08c7434a7f662eb290b53aab35e900ded9d562d425425d359be70527104",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-256f8d1da3352dff",
+      "name": "港区 港区議会 議員名簿",
+      "url": "https://www.gikai.city.minato.tokyo.jp/0000002539.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "01924139a3e64b91b55b3fa4ee51ccead9eaaeadc5ff7eb2571c6fb20190f3bf",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-daa6a4b5901e1991",
+      "name": "新宿区 プロフィール：新宿区",
+      "url": "https://www.city.shinjuku.lg.jp/kucho/rireki.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "23140ff7a2e50e1ea59322b90c72802eb990ffbe8fb1970df2b8ee8027cfdbc2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-a1adb7f2ff65f334",
+      "name": "新宿区 新宿区議会議員選挙 （東京 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/867",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a869a97f0e72f982b6a93b2c71df121dfdf1f0065dce3990415b9c0cdbdc1f5f",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-aa7a50e7494e2d2f",
+      "name": "大田区 大田区議会 議員名簿",
+      "url": "https://www.city.ota.tokyo.jp/gikai/shoukai/giinsyokai.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e8a9bb4c939a4473b1d8911cdfd51e5225b0349b82f1b7a2fc133c62c74fa26d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-8ec1a093fb541d51",
+      "name": "足立区 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:13",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "f23f82c84be3d5f154610ecbebefc4374d25e56f1ffabb8bc4117c22f7e4c69d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-260ab2b5ce17e4d9",
+      "name": "杉並区 杉並区議会 議員名簿",
+      "url": "https://www.city.suginami.tokyo.jp/kugikai/s117/4101.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "185197bfed3b2a58016daa4c2d2d2c976abca1eefa52f051986803a51eef01b3",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-bb0adefca21fa21c",
+      "name": "練馬区 練馬区議会 議員名簿",
+      "url": "https://www.city.nerima.tokyo.jp/gikai/giin/20ichiran.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "6d807911961d9870d9df22cd37e5df5d55344937473e1b3e20064c50bfc5591b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-c7163b02a1700146",
+      "name": "日野市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:14",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "f8711610de7452ac0c424c11bee347ede206b51407d929a8e77c59255994c2cd",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-06a291879c6b3ec3",
+      "name": "江戸川区 江戸川区議会 議員名簿",
+      "url": "https://www.gikai.city.edogawa.tokyo.jp/g07_giinlist.asp?Hmode=20",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "356942108df72cf7ae72aae0ccf50b919f871ee2e49a02cf9166f28727ed57c4",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-66a22ed93633247f",
+      "name": "横浜市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:15",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "4dc302fbc977455b590aa2f441077353d38a5c39b917ddc2dc43c8ca33a72080",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-37942e8f45f940ee",
+      "name": "横浜市 横浜市議会 議員名簿",
+      "url": "https://www.city.yokohama.lg.jp/shikai/giin/kaihabetsu.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "004162d0f0a3e8af03c7d2cd1235c62aa441b9b7087e49eb9684bfb4a54367b0",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-bb28b91b7f8e26d8",
+      "name": "横浜市 横浜市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/756",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d98b87098d2bf186ee5a6947ec6240d29084fe77c3781b7192ebc93f4e8fa874",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9a7c8997958e3ec8",
+      "name": "愛川町 日本共産党中央委員会 地方議員検索（神奈川県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "8dcc8bff16a3bfccdfbd1c62096b762fcbd4a0ff2fd6d065f28d3db9d5816185",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1c44408a78612fc6",
+      "name": "海老名市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:16",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d7bb6330e2ce9ee382840ff188a14a00d09163c31643af8fd8dbdf92f4de4a7d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9f1f22f93448af7f",
+      "name": "大井町 国民民主党 議員 - 神奈川県",
+      "url": "https://new-kokumin.jp/member_tag/kanagawa",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "5d741bbaad83732beaeff2af7126d21be92a51da6072b57c815ea3970f04c7e6",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-fa0363a42c4d4b73",
+      "name": "川崎市 川崎市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/757",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "7550f33d04bb00f588d9b1d3c49dd12126d36342f5b68abbd3ab68139ac0400c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5b44642e60bbd6a9",
+      "name": "川崎市 川崎市議会 議員名簿",
+      "url": "https://www.city.kawasaki.jp/shisei/category/40-3-4-0-0-0-0-0-0-0.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2ec62de361a8bcbaeb64e28c127d1c10e160cb856ecca0115f7078d0100d1ad5",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f53102d7de12733b",
+      "name": "川崎市 川崎市 : プロフィール",
+      "url": "https://www.city.kawasaki.jp/shisei/category/37-2-0-0-0-0-0-0-0-0.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "dcc35c13001c2e306426bef72beee99c38ced76106dd4a6ba1dd6b26b8b56e14",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-6d62dc3a059774fe",
+      "name": "相模原市 相模原市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/758",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "107b77a2dadded91519c2dd6ef33cbc71b8cf010f1107e0c6cbab0bb2b1df024",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2358415af7fac8e3",
+      "name": "相模原市 市長プロフィール｜相模原市",
+      "url": "https://www.city.sagamihara.kanagawa.jp/shisei/1026709/mayor/1009600.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "543a736bbe7fa8dfa3c9fc1e7285e289de9d8c5fff23033fa1f08167679b59f5",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2d39e1532c1118a8",
+      "name": "横須賀市 横須賀市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/850",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "119ec371d4f9d3d4a8de3fc7adf98d3843dd9c0b7762e814604be9f9630de524",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ec74b2eca3e47b4a",
+      "name": "平塚市 平塚市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/750",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "4e309cd9b6d503add26bd93e5d07d05fd64e0a361d041971ecb85ebb7e0b1f1c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-dd90fdde024ce3cf",
+      "name": "藤沢市 プロフィール｜藤沢市",
+      "url": "https://www.city.fujisawa.kanagawa.jp/hisho/shise/gaiyo/shicho/profile.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e44608408105fe6d993e1f11fa9d28821140a152ab4c178d22563c50045df319",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5c203837d209f23c",
+      "name": "小田原市 小田原市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/752",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "34303971d9e3de6b3cbebd7449eceaff71c8eac057b6b20bfc449e4b5c6a0511",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-cc8d465ed2fb415f",
+      "name": "大和市 大和市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/753",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b9aa5d77968085eb5c34cd60f641d9f284d50b192ae8e818f22c88f576231947",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1e7b69441f9e742d",
+      "name": "伊勢原市 伊勢原市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/754",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "cc2f8de0505e77e82c40adcd11cdec90a97be35a0876a84376233a3716ffaa71",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-39ecc0ecf063b5d8",
+      "name": "金沢市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:17",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "908f3f87d59b90d46076a7134d070ab1c3bfbab88fe74d7e1c5768a2fa36f31c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-d5f6eb0cc945f412",
+      "name": "葉山町 葉山町議会議員選挙 （神奈川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/807",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "68047cabe0c281139042b47a5e0c3ec2119b061ee4fb7587e6c290e2c0e79b84",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5872716c403064a7",
+      "name": "刈羽村 日本共産党中央委員会 地方議員検索（新潟県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%96%B0%E6%BD%9F%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b16e017eed4f133827f27c4a7c84e8c7106bd82084b86813979140ec8523e860",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-27e9fc5150d505b7",
+      "name": "新潟市 市長プロフィール　新潟市",
+      "url": "https://www.city.niigata.lg.jp/shisei/mayor/mayor/profile.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a08757bfc3a3582b8cdc9122b9fe7a8305188b6a16f0a2ccaffbd7fcb1760e1f",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-904e482827a33e5d",
+      "name": "新潟市 議員名簿（会派別） 新潟市議会",
+      "url": "https://www.city.niigata.lg.jp/shigikai/index_meibo/meibo_02kaihabetsu.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "4ae884ef432079632b8ad7f6eeaf56c05ebaefb73132f8a8921d4877b61e57bc",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9d6503e51a11cecc",
+      "name": "胎内市 国民民主党 議員 - 新潟県",
+      "url": "https://new-kokumin.jp/member_tag/niigata",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "fe48ea4783e4c8e7f8bf7a930d404817933878edaf68d7e4579c705ecb015e96",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-45b01f8fddcdea76",
+      "name": "長岡市 長岡市議会議員選挙 （新潟 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/907",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2e75e512798084b373fbe2edced79381220ceca5af2ee734f1c9565c15a5b809",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-34e89fc8bc124dfb",
+      "name": "新発田市 新発田市議会議員選挙 （新潟 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/851",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a1d25c2eb6861987e80458fdb50cf74f209dce621627a8af70974fbb234dcd89",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-8bad3a5a177946a8",
+      "name": "富山市 会派別議員名簿｜富山市公式ウェブサイト",
+      "url": "https://www.city.toyama.lg.jp/gikai/giinmeibo/1007104.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "84dabc3d9eea92d2d5a0da9d43394d83e48afb2bc0a9eb587b54665bdd24552c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0c8b2d8088bf1f5e",
+      "name": "富山市 国民民主党 議員 - 富山県",
+      "url": "https://new-kokumin.jp/member_tag/toyama",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "76f62eb26b6a744c384e511564d9fa320da9671e918d30635a38ba279ada989b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-81d0c2c11c3e155f",
+      "name": "富山市 プロフィール｜富山市公式ウェブサイト",
+      "url": "https://www.city.toyama.lg.jp/shisei/mayor/1010721/1002549.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a04488ccb537d95db78eea997992f8a81f71acb4ca82de31f163c0f5b3a93ecc",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1eac10c9ab6bd14d",
+      "name": "朝日町 日本共産党中央委員会 地方議員検索（富山県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%AF%8C%E5%B1%B1%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "58666a55f78931923b9ce4a4432ad39e24333a0b046b2ba74ddfe0634bd5a232",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-d14ec33d963f0a3c",
+      "name": "金沢市 金沢市議会議員選挙 （石川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/804",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b45660a68e90a9f41eccae51bda46b18e6456afb43fb6a3a7b74cd337147b415",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-c390bde198ac01a0",
+      "name": "金沢市 議員名簿(会派等別)／金沢市公式ホームページ いいね金沢",
+      "url": "https://www4.city.kanazawa.lg.jp/soshikikarasagasu/gikaijimukyokugijichosaka/gyomuannai/1/5/3800.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d10dbd541510d004cdfa8cd6850ff3cfa31898d6c10be8d82fa86863cc3ce40a",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-8bd1ebdc8a7d64ab",
+      "name": "飯田市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:18",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "980c4e63bb6b448db169bc8b25c03d6895fcd3cc22aa8ff190f138f895982587",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-a8262cae34a3e2ea",
+      "name": "志賀町 日本共産党中央委員会 地方議員検索（石川県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%9F%B3%E5%B7%9D%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "fa3d352b591c470fabe92063bd867340a92e7fdf92752ca97679aad20969a217",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-7a20cd5de99582cb",
+      "name": "金沢市 市長プロフィール／金沢市公式ホームページ いいね金沢",
+      "url": "https://www4.city.kanazawa.lg.jp/soshikikarasagasu/kohokochoka/gyomuannai/9/4878.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "36ad0f6afc3efea873d0ed2cdd4cc2d672aa05d6ce7f49a7527cd6927d47e061",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e0c81a6613853538",
+      "name": "宝達志水町 国民民主党 議員 - 石川県",
+      "url": "https://new-kokumin.jp/member_tag/ishikawa",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "50f836092d56c4a44dc633896966d6850ba935dc24ad3f9df47bcb5382dbf6eb",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-fc68fc516172ea21",
+      "name": "津幡町 津幡町議会議員選挙 （石川27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/805",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "85fe8773e283ad7a4bd0bd96ea44a343ad6bf26f7e064b05b1dc5fb1303704b7",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-8ffedfc6a53a11c8",
+      "name": "内灘町 内灘町議会議員選挙 （石川 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/806",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "edff6eff466abe86a37fe9c3e0dc908b865b6a4dc7400c5f8806a08216b46d2e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-8db6c0ed926a5211",
+      "name": "福井市 議員名簿",
+      "url": "https://www.city.fukui.lg.jp/sisei/gikai/giin/p020856.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2a0c03c505271876d15671e2fa62fb63b1c87aa93edd08b58401300a7dd57386",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e52355e89db9989b",
+      "name": "高浜町 国民民主党 議員 - 福井県",
+      "url": "https://new-kokumin.jp/member_tag/fukui",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "575f4236022b848ff489dd4f727ec1a2a6c996b398721ccb201a3c776ed78479",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-b037181511c8101a",
+      "name": "若狭町 日本共産党中央委員会 地方議員検索（福井県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%A6%8F%E4%BA%95%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "98953641c9005b3b16513e8f8c0ab0837eed82756055e4c81b075b5e45d482e9",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-61f7fdf30e5862f6",
+      "name": "福井市 プロフィール",
+      "url": "https://www.city.fukui.lg.jp/fukuisi/mayor/profile/p026577.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "74c339ccf0e00799c0840a9d3bc488110bee797c1567120d07a8585d7c44f976",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ddd37e969f1c27f7",
+      "name": "富士河口湖町 日本共産党中央委員会 地方議員検索（山梨県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B1%B1%E6%A2%A8%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "6bcf186c7dd50aa82f10696e563d0f7cd53b17eefd5569a6d85ac5d2b5db8e24",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-edf837000c8696b5",
+      "name": "富士吉田市 市長のプロフィール - 富士吉田市公式ホームページ（秘書課）",
+      "url": "https://www.city.fujiyoshida.yamanashi.jp/page/2170.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e75117556e9d533e14cbb8a35a0131de0399fd45e67671ba2668e2ba2824a926",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-cbf173b38005bfab",
+      "name": "韮崎市 国民民主党 議員 - 山梨県",
+      "url": "https://new-kokumin.jp/member_tag/yamanashi",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "37f9f5cbb4989a047f8bf206e48de0fd823de3c435b9d33d3377f1a357d38cb0",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-05059bb3984eb66a",
+      "name": "長野市 議員名簿 - 長野市公式ホームページ",
+      "url": "https://www.city.nagano.nagano.jp/n440500/shigikai/p005267.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d60e51164bfd68be528be6f69ca5f8c1e5e196bda24193766d94daeb48e3422d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f4b9ce1b7eba5d7f",
+      "name": "栄村 日本共産党中央委員会 地方議員検索（長野県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%95%B7%E9%87%8E%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "9ad98ed3809d14b5eaf2183ae2554743f6832b4e3394569f32b9dae7a75de133",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ede66398f1b5971d",
+      "name": "長野市 市長プロフィール - 長野市公式ホームページ",
+      "url": "https://www.city.nagano.nagano.jp/n040500/mayor/p004094.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "12693b17ce1ff8340731d815eb6191b608f333408b41967cef60a2554748f3f0",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-827132b517857fc8",
+      "name": "松本市 議員名簿 - 松本市ホームページ",
+      "url": "https://www.city.matsumoto.nagano.jp/site/gikai/6162.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "5a642b01cb989b07d784db1a5a5e856ba72ec2a0fe8da09abdc51a972a8a56d2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5608b9cd8c237b67",
+      "name": "飯綱町 国民民主党 議員 - 長野県",
+      "url": "https://new-kokumin.jp/member_tag/nagano",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a8a34258db1ee0f4593b6dbbd06f8a00c660d6b5be6cb557426b48e417d3ec8c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e4a695c4c76edabc",
+      "name": "坂祝町 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:19",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "f0a128e3bbf0108d7d28a3aac9deda7cbd0ff9311bd5956a16b12fdafff95644",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-60dd99055adb944b",
+      "name": "岐阜市 岐阜市議会議員選挙 （岐阜 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/725",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "9eedb1598dd17f8c887576b917552f348a5523f4126df4765fdd21c0d9473cc3",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-48fce308e2090b66",
+      "name": "坂祝町 日本共産党中央委員会 地方議員検索（岐阜県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B2%90%E9%98%9C%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "024856c209cfcc338d30faf205c334e7b521c9ab58812f8d67dc8ee6a30077b2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-bedbbe4061330dfa",
+      "name": "岐阜市 市長のプロフィール｜岐阜市公式ホームページ-Gifu city",
+      "url": "https://www.city.gifu.lg.jp/info/sichounoheya/1006212.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "07a35fb69a1e749185499d4a43f8465cf8db392e3a7e83a6831f05d00b7392d6",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-26b857f9ffab0a5f",
+      "name": "各務原市 国民民主党 議員 - 岐阜県",
+      "url": "https://new-kokumin.jp/member_tag/gifu",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "1ad29839abf597048ba02a967d89b54ee486a47ef211a78588477b79e9f72d7c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-08a653012089b397",
+      "name": "羽島市 羽島市議会議員選挙 （岐阜 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/726",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "cb3e94a423167396f92fcfc3708eb35855df70440b46ce0685eefbeda0da5277",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-00f21dade32dee65",
+      "name": "名古屋市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:20",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e273170967e6a05cc6c3fea29f707dddf3b71becb02b8a8974775fe55773645c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-df57a0f7bae0e6e6",
+      "name": "静岡市 議員名簿（50音順）：静岡市公式ホームページ",
+      "url": "https://www.city.shizuoka.lg.jp/gikai/s900078.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "5b3384c37d40d091b6f05b5d9688c3496f7f7e16e0915d3c2faf29a46aac29e8",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2cdec3fbbcc36cae",
+      "name": "森町 日本共産党中央委員会 地方議員検索（静岡県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%9D%99%E5%B2%A1%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "59db971e336d32eb56cf3ec1352b4ee00fb68fe88c6fc3f0252d6b1a9dc2e9a4",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-92dd5c5c1bd9c792",
+      "name": "森町 国民民主党 議員 - 静岡県",
+      "url": "https://new-kokumin.jp/member_tag/shizuoka",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "8770a3ab4beb6920db324f8ec0e7284571188da9057475f188b2f0ebfe294cd2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-3ef09d8f81423d91",
+      "name": "静岡市 市長のプロフィール／静岡市公式ホームページ",
+      "url": "https://www.city.shizuoka.lg.jp/s6543/s006653.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "07ca5bd91dc8b7948a80949dd0fd80c75cc75a55f721554d6f3822cd7caf6b47",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-fb45ff0b9a539cc8",
+      "name": "浜松市 議員名簿（50音順）／浜松市",
+      "url": "https://www.city.hamamatsu.shizuoka.jp/gikai/iinkai/meibo50.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e86b594df832648d0615bc9065523829ac6d6ded3aeb06445817b395e852ba93",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9cf0c5aeb6586a97",
+      "name": "名古屋市 会派別議員名簿｜名古屋市公式ウェブサイト",
+      "url": "https://www.city.nagoya.jp/shikai/about/1030778/1030799.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "4bf7da77804037e89347c1913d89b4899857b3dd6d8e93451ca2155250a24612",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-79a5b2d50a78c0e9",
+      "name": "名古屋市 名古屋市議会議員選挙 （愛知 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/828",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "1d2792f46398982825b7986d3e7da7f202c73d90d0bfecf9ca37c087c54245b1",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-43729c9d19885276",
+      "name": "東栄町 日本共産党中央委員会 地方議員検索（愛知県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%84%9B%E7%9F%A5%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "34c6da66dd7e456a6182b06f8910786ceaf8e496cfb9462d6ba528f9e3fcc855",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f78eb7ea260e997d",
+      "name": "東浦町 国民民主党 議員 - 愛知県",
+      "url": "https://new-kokumin.jp/member_tag/aichi",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "7e0b5ea4efe1286c9cf5f8d5d45b91567167199927a51f3e554f34564a825202",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9b65d136d598f5a6",
+      "name": "田原市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:21",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "824e1c0c06167a6e3cbc607c3c0b77eb9f15bce8fc5fce63f14fc0842a96426d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5a84f81bb739dce1",
+      "name": "名古屋市 プロフィール｜名古屋市公式ウェブサイト",
+      "url": "https://www.city.nagoya.jp/mayor/1002561.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "bebf835cf9b4668954669fc58d18f2f290d717c4d2e2dfd947641dc3af013a37",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-fc46e25744da30a8",
+      "name": "豊橋市 豊橋市議会議員名簿（会派別）/豊橋市議会",
+      "url": "https://www.city.toyohashi.lg.jp/item/9866.htm",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "56b9e5c43fffc23ba1c5453e281e71a3e7f0a3379b8377279773a8b5b86811c7",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-508a4d20c33f5ec3",
+      "name": "岡崎市 議員名簿（会派別）（令和7年11月14日現在）｜岡崎市公式ホームページ",
+      "url": "https://www.city.okazaki.lg.jp/shigikai/meibo/1009848.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "f95a77a528caf8ba14247398d3b03db9b293cb6619bc569546ea91d09314a26c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-43ce1e719ea2549a",
+      "name": "一宮市 一宮市議会議員選挙 （愛知 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/829",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c9a76d1df607db1933b166a25014457577850d1d3413afa59d42876764a1e690",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-c24f93880241a9cf",
+      "name": "春日井市 第21期市議会議員 名簿 ｜春日井市公式ホームページ",
+      "url": "https://www.city.kasugai.lg.jp/shisei/shigikai/giinmeibo.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "3847c4380ccb86e530dbad68413ed675a25728b6738a78fafe55ed8a896766b8",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-d75f4f3ebd676fd7",
+      "name": "春日井市 春日井市議会議員選挙 （愛知 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/830",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "bd662dff650a01e4aece1e842636ba676b4889281dceac2a3432e69dee92572e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-31473ad3c8ea19dc",
+      "name": "津島市 津島市議会議員選挙 （愛知 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/831",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "505f36152af24caa06a32ca0fd7936ad6c8a7da21915442ab29f24127f9cbe30",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-d3350988ddae7c51",
+      "name": "豊田市 50音別名簿 | 豊田市議会",
+      "url": "https://www.toyota-shigikai.jp/lawmaker.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b83de938b06fe78d0b1f62030eb193087dca78d3811a6f609b5fb93cc707cec4",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e2b78b8139c54e8f",
+      "name": "常滑市 常滑市議会議員選挙 （愛知 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/832",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e50048baae0b33768821c81d6c49f5149b1932fb85b53703063f2e4ea84bd0ba",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-92447db53051e253",
+      "name": "江南市 江南市議会議員選挙 （愛知 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/859",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b9e1013a607eca86fe5ace6a3a576f415c845a9b557b8a498c128ac1b9f425a2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-d8c3658e675a74f6",
+      "name": "豊明市 豊明市議会議員選挙 （愛知 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/833",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "10cdf7c5a98c37372d164f8c2204ced82177d83f43d244c1c1f8e289d73942fc",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0b38e3c88884c1ce",
+      "name": "近江八幡市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:22",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "8361f328df4ef865c1830128dc438e7cd6c72e7eadf8d1eeb97373d500ec9c59",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-dffd048de6bab2fe",
+      "name": "長久手市 長久手市議会議員選挙 （愛知 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/834",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "f93ea5208a885b36e360d9cfe716034160a79ff4816627950401c6f6d4e07e26",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-fdd97a60e125b98f",
+      "name": "蟹江町 蟹江町議会議員選挙 （愛知 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/835",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "8fa3fcde2dc617d7e8affac55259ec6d22ee927a3eef304a3341a85ba5f52cd4",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-a4184fb15dc7d1eb",
+      "name": "阿久比町 阿久比町議会議員選挙 （愛知 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/914",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "071be7ec67bb22d55af4372b052e1c3bc332d4ae81901407144517bd0c35c147",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-bfa12faa8a22209c",
+      "name": "紀宝町 日本共産党中央委員会 地方議員検索（三重県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E4%B8%89%E9%87%8D%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b0f012846320ec7309873994e7ae1989ba5045059413d4ea04947b38fde574f7",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0a528499f999f48f",
+      "name": "菰野町 国民民主党 議員 - 三重県",
+      "url": "https://new-kokumin.jp/member_tag/mie",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "517af4ecb72414e5ebbda7f36f964374f88e0b1ee36eb673a278c8c1c0ed69f8",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9c7212b54856d983",
+      "name": "津市 市長プロフィール｜津市公式ウェブサイト－Official Website of Tsu City",
+      "url": "https://www.info.city.tsu.mie.jp/shisei/shichounoheya/1009968/1005495/1005496.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a2e261de80fbf952fb1c9703a971a79c68e04bf25abdf96daea4140d391af46b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e53b0b06d9a5eb1f",
+      "name": "大津市 大津市議会議員選挙 - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/916",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b1403cc40dcc49e3f49c45b2ca7da688e1f357c072751d4a08ed9226ff264902",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-40e33949da9c607b",
+      "name": "大津市 議員名簿（写真入り）／大津市",
+      "url": "https://www.city.otsu.lg.jp/gikai/giin/1430447099023.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "da7e4c0b38a89b0f421e2a91100c353fec2af7d492e30856ca71f845ffa5b4a8",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e8bb2ef6e756da1f",
+      "name": "大津市 大津市長のプロフィール／大津市",
+      "url": "https://www.city.otsu.lg.jp/soshiki/001/1002/g/otsumayor/30445.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "fb5f825ed9b6e8461501894b9d5c280c4ce9588d046173555b8a5eddf7aea6c1",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-554a5043fd31f680",
+      "name": "甲賀市 国民民主党 議員 - 滋賀県",
+      "url": "https://new-kokumin.jp/member_tag/shiga",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c517f323b7cfcddaaefdf5a7c467d0acfe9b67a298110e181d1b2d26699883d2",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-bebe74112e6031dd",
+      "name": "多賀町 日本共産党中央委員会 地方議員検索（滋賀県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%BB%8B%E8%B3%80%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "ac6f368bf8861fe2eb8ead0a80aedccbff9c074e5a38f3c3a29ab2ef15f6328e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-39e3201977ea3340",
+      "name": "草津市 草津市議会議員名簿｜草津市",
+      "url": "https://www.city.kusatsu.shiga.jp/shigikai/shoukai/giin.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2346d99c99c424351a8493c13ae5b700f480ffc6d9ebb08063aa90ea23389540",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-52a1180a95b07ee6",
+      "name": "京丹波町 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:23",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "3820a1627e5e33d5dd6e89a624ca18a4c710675324e0ef0f6646071018cbc06a",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-72bc8af8bc821aca",
+      "name": "京都市 五十音順｜京都市会",
+      "url": "https://www2.city.kyoto.lg.jp/shikai/meibo/gojuon.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "94f50997b4a49ebea1a1120ff04481da337811dd91b06d847cc85537a15f185c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-9b4f20790d66559a",
+      "name": "与謝野町 日本共産党中央委員会 地方議員検索（京都府）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E4%BA%AC%E9%83%BD%E5%BA%9C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "968731a33ed40c61153f9f8271d540396fc97d3e03a137d2e0ece87f91bae0bd",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-eab6be19d777dc92",
+      "name": "京田辺市 国民民主党 議員 - 京都府",
+      "url": "https://new-kokumin.jp/member_tag/kyoto",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0eba2763b3000c17dac27c1a290643e78380333423bf1e8a0772a37b3a3134b7",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-88dba48b1fe6debd",
+      "name": "京都市 京都市議会議員選挙 （京都 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/787",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2fecdd695f45354e5de4f44f28996a1bc4d5556082c71ea9350e29edcfcb1430",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1377babe150c8f05",
+      "name": "京都市 京都市：京都市長のページ　　市長プロフィール",
+      "url": "https://www.city.kyoto.lg.jp/sogo/page/0000032585.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d6de52ab4d192fe655af9d9658b63be48027660e84071e5642934702e94f8bf7",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-43b7720501667ca6",
+      "name": "八幡市 八幡市議会議員選挙（京都 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/789",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "ae821d2d8a1dc66c7bdc8cfc7791683522d32e7d04a83461fb006d184fe094cc",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-d2a1615264389791",
+      "name": "大阪市 大阪市大阪市会：大阪維新の会大阪市会議員団（42人） （議員名簿）",
+      "url": "https://www.city.osaka.lg.jp/shikai/page/0000077823.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "1a6400162177ec9e38cd47591f2d5c84f2ae82094a6427f409d8f5f26cef45d1",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-a29f99abd2891c38",
+      "name": "大阪市 大阪市大阪市会：公明党大阪市会議員団（17人） （議員名簿）",
+      "url": "https://www.city.osaka.lg.jp/shikai/page/0000002276.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "26534052e77b65fe3617915a2079d43a918c0d2d791a5f861a333b3514318393",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0f3862efdaf41cd2",
+      "name": "貝塚市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:24",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "135456b54edfd9d9ce51ba4a5efe3d7885a81a6f25c36bf13d728f1a8c19b80d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1d7a14213d03a20b",
+      "name": "千早赤阪村 日本共産党中央委員会 地方議員検索（大阪府）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%A4%A7%E9%98%AA%E5%BA%9C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2c9dee50e0e7fd77901b94dd13122e1331bb6ae2aff8cd9e5287193740fe1857",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1a7c5924dcb615e7",
+      "name": "大阪市 大阪市大阪市会：日本共産党大阪市会議員団（2人） （議員名簿）",
+      "url": "https://www.city.osaka.lg.jp/shikai/page/0000002279.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "9d36456039ac00d9979bea973ffec9cde1f415bd997d9357a5b1ed165af36724",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-44a2012fcc86a100",
+      "name": "大阪市 大阪市大阪市会：総活躍社会実現の会大阪市会議員団（1人） （議員名簿）",
+      "url": "https://www.city.osaka.lg.jp/shikai/page/0000671345.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "04cabe1e1d9782410699881d394f9d8489affbdecadce8b33c134ff329660daa",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-984b60227a8e3b2c",
+      "name": "大阪市 大阪市大阪市会：自由民主党・市民クラブ大阪市会議員団（10人） （議員名簿）",
+      "url": "https://www.city.osaka.lg.jp/shikai/page/0000002274.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "ef1beb3396b9d7d0536a242bf2343c8155140452e1f41506a84885c5af5a9145",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-87da5a3c4005678c",
+      "name": "大阪市 大阪市大阪市会：自由民主党・国民民主党・市民とつながる・くらしが第一大阪市会議員団（5人） （議員名簿）",
+      "url": "https://www.city.osaka.lg.jp/shikai/page/0000512977.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c7611d802266671b2e6253e66ac97524775cc90a1f8f6b8faef315ec77dbe6a6",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-cc02525db771f46b",
+      "name": "大阪市 大阪市大阪市会：福島クラブ大阪市会議員団（1人） （議員名簿）",
+      "url": "https://www.city.osaka.lg.jp/shikai/page/0000651789.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a792ff7828fd01857013df7ddb47cc75f3bc2101ba540aaaa18a08120abbbbdb",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5967aab523efb949",
+      "name": "大阪市 大阪市大阪市会：大阪平野大阪市会議員団（1人） （議員名簿）",
+      "url": "https://www.city.osaka.lg.jp/shikai/page/0000671341.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "30844cb4697bc92594081b43da8fcc6ef41ca2619c85fa7753e4f684af3e7746",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-a2b51a86de47f7b6",
+      "name": "大阪市 大阪市：市長プロフィール （…>大阪市長　横山 英幸>プロフィール）",
+      "url": "https://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000013641.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "39ddc8312260a9b24d0ece1bab707e5b21235f0ce21d7ffba4b6054e72de3907",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-fae3ebf5129dfcd9",
+      "name": "大阪市 大阪市大阪市会：無所属大阪市会議員団（1人） （議員名簿）",
+      "url": "https://www.city.osaka.lg.jp/shikai/page/0000637343.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "98f5dc87fa5ca5f666022cb996ca906e18dfebf17a8f5a5556d7912c6702c3e4",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f066db2a36d0f43f",
+      "name": "熊取町 国民民主党 議員 - 大阪府",
+      "url": "https://new-kokumin.jp/member_tag/osaka",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "17dd493eb097964b93ef651ae04ee350dab89236367953b5336deb9bf107aebf",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-793b8d18bd2950ff",
+      "name": "大阪市 大阪市大阪市会：大阪にし大阪市会議員団（1人） （議員名簿）",
+      "url": "https://www.city.osaka.lg.jp/shikai/page/0000647837.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2c8b46199bd6305f259b70b527268b9d40dd9cc2f8673491d7ca5be0d9b390f3",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-51c26510df51c966",
+      "name": "堺市 五十音順 堺市",
+      "url": "https://www.city.sakai.lg.jp/shigikai/meibo/50on.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "4f1e430e446c4fcd24fa334b39c48178f753da764011d32d097eeb75fa992fc3",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f46ce8a1b419c9ae",
+      "name": "堺市 堺市議会議員選挙 （大阪府 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/808",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b713395d0b3f33719bea33bc9d107359f543eebea87890b11a15541626324f53",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-4bf695b425888801",
+      "name": "堺市 市長プロフィール　堺市",
+      "url": "https://www.city.sakai.lg.jp/shicho_heya/shichopr.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "d0349d6a9f3a761703f72ef404a63313fed7ef504470cc18e20ddffe6966a04d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-18c2403d342bef78",
+      "name": "豊中市 市議会議員名簿 豊中市",
+      "url": "https://www.city.toyonaka.osaka.jp/shigikai/giinsyokai/giin/index.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "15c56582a2b15bed8f645c3af1c1bc9a0cecf66e2cdfdb218764970a5a7ecb3a",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-3e7575c1dc23f606",
+      "name": "豊中市 豊中市議会議員選挙（大阪 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/790",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c898d2a78a614609eeeda45165d4d74c513fee6c471ae627f9930f86aa4961b3",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-dbe70d51931b6988",
+      "name": "吹田市 吹田市議会議員選挙（大阪 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/791",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "bf6bcf9fd8a6225f68812d38cf8a550f884e0c3981cfae5ce6fbec6fa5c34f3c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-3dab34b06385a659",
+      "name": "吹田市 議席番号順｜吹田市公式ウェブサイト",
+      "url": "https://www.city.suita.osaka.jp/shigikai/1017062/1012849.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "ae94fe57d0df804e57b7df3571b1398c6639e3fdc530652f7acc1c103a3c2a06",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-bc5062a22b703ddb",
+      "name": "泉大津市 泉大津市議会議員選挙 （大阪 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/729",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "18626888c5ebf903bd9699fd1ec98de5adea877d90bd5d791fe385b5614c2558",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0b11bd0ba1720b3a",
+      "name": "高槻市 議員名簿(「あ行」から「た行」) - 高槻市議会 - 高槻市ホームページ（議会事務局）",
+      "url": "https://www.city.takatsuki.osaka.jp/site/takatsukishigikai/1016.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "62a92cbe9167a4c48c69e135c089732e6f562e8f495ab1531e47be68546bc173",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-b236659336da3320",
+      "name": "高槻市 高槻市議会議員選挙（大阪 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/792",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "10ef7d6fd2ae3dda62af1250007fd65785708062f25f878f5631e2885e0518e9",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f070580b89e5723c",
+      "name": "高槻市 議員名簿(「な行」から「わ行」) - 高槻市議会 - 高槻市ホームページ（議会事務局）",
+      "url": "https://www.city.takatsuki.osaka.jp/site/takatsukishigikai/1017.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "dce9f1ef3876c05c5aa2d9d6168f259cafc1d2a4822a4e2b942d309982a469a0",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ee46bd52a9a4798e",
+      "name": "高石市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:25",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "fdcf93450c96bc89a81b064431167abc069fb7fea604372a1c6e4452bacfb03b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-47ab783b200f1995",
+      "name": "貝塚市 貝塚市議会議員選挙 （大阪 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/730",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "27038eb08d97994cf4a30839d70a1f9ba6cb385d58f519ce35a593d695e94d9b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-2bae59d1b5ea8a9a",
+      "name": "枚方市 議員名簿 | 枚方市ホームページ",
+      "url": "https://www.city.hirakata.osaka.jp/0000000172.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "267dd08b8806f668440d753a73e10968cbaf9f8d5389cb6920a496c856d10ad9",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-4bb226dcb624ad33",
+      "name": "枚方市 枚方市議会議員選挙 （大阪 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/809",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "964b4f7f547d42db932214f553810bfade090d3b8b64f49d9bc593d0333b56cc",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-57bb8447637ed52f",
+      "name": "八尾市 八尾市議会議員選挙 （大阪 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/810",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0f3f246a3082d8b043dacea87ddcf6ebb7e1e2f59dcace910332ceeab38be623",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5f34e4b1c4f8c602",
+      "name": "寝屋川市 寝屋川市議会議員選挙 （大阪 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/731",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a8bfa8d34def59f89146b090a821d5a0525ca1ba99449cb73f76e5118758562c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-cccf256e89370ed4",
+      "name": "高石市 高石市議会議員選挙 （大阪 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/793",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "1309e994a3a4cc5a62c60dbdb7eaa2b7f2b3d20936d03ea6455f5343791774c1",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-54cbf891fdbb1490",
+      "name": "尼崎市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:26",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2eaec0de632a7f001a5731bccdbdfd7ecec33c5f7a7247f4c90399e3c6a48596",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-fc95e93ce9f6c406",
+      "name": "岬町 岬町議会議員選挙 （大阪 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/794",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "6c774f060d8a4db9c592e53a1658b2f95403abe760d2ba4365d0dee87c48300d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-26cce13a6d832bd5",
+      "name": "神戸市 神戸市：神戸市会 50音順の議員名簿",
+      "url": "https://www.city.kobe.lg.jp/a71064/shise/municipal/giinnmeibo/50onmeibo.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "aafec25bb82612de678b4f40d015cf551811f19859fe3b586ef83e8734a8a071",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-c80b759a8ccdf0b6",
+      "name": "神戸市 神戸市議会議員選挙 （兵庫 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/765",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "cb253e9c9cd05b0c47054c416fcd370f8242b82a6bb394fc984549210b666867",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-28f9f4addf0bf131",
+      "name": "神戸市 神戸市：市長の部屋へようこそ",
+      "url": "https://www.city.kobe.lg.jp/a24533/shise/shichoshitsu/index.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "37a94451ed391772e8bb19bfccaf0d91a2e520adad12937ea84b93011a8cdce9",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-dccf4260e30c00a4",
+      "name": "新温泉町 日本共産党中央委員会 地方議員検索（兵庫県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%85%B5%E5%BA%AB%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2cd782ec928ebea583a958362d0d20b25678c400b4857d90ec2825a5b95c87cf",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-78dd5664ceb2b18b",
+      "name": "猪名川町 国民民主党 議員 - 兵庫県",
+      "url": "https://new-kokumin.jp/member_tag/hyogo",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "dacc52d774d22ab17c696b42b0b7c806c50f3192117b736987c1673596f74077",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-b427ec3be04329c0",
+      "name": "姫路市 市議会議員名簿（議席順） | 姫路市",
+      "url": "https://www.city.himeji.lg.jp/shisei/0000007766.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "a09253929b66927f8ec750a1021b4dade4cf8ffa52debb7aaa7dbfd9357d4391",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f8b0944117a4ce82",
+      "name": "たつの市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:27",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e5805b01f79341f2d321d87c98bc8b898ca00453329f63ec31b98bfbd93806e5",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-49d2d8c223047cfa",
+      "name": "西宮市 西宮市議会議員選挙 （兵庫 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/766",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b6dd17b1f0c9e5bde9e0fea8edc8cc1a3b2d93a2c2466f1cc635dcacdbd0c666",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ccefaa951ebf1e3b",
+      "name": "伊丹市 伊丹市議会議員選挙 （兵庫 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/767",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0fabffbfb2e9c54e6ec6d863ad400b9f93afa2095a17a44d78c600b854155262",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-624fbd8ad0b0c3da",
+      "name": "宝塚市 宝塚市議会議員選挙 （兵庫 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/908",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "570920d9c127ea7a7ff7b4103baff0957e9731bc3f6da7ee6f797b62ce571a9d",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-df346bd16e31bd0b",
+      "name": "新宮市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:28",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "4aa1f42f5b63b29bfcb2ffe2b4bd0423196bb58d0fabb9dfb80dd2d0a55a4e6e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e3b27cb7752658c8",
+      "name": "奈良市 議員名簿（議席順） - 奈良市議会 - 奈良市ホームページ（議会事務局）",
+      "url": "https://www.city.nara.lg.jp/site/narasigikai/115225.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "efd71e37007bee28021ae8715e6de0c3e1581f8471a09f8369caaa181a0a955b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-377d90f6f3fcc8a0",
+      "name": "奈良市 市長のプロフィール - 市長の部屋 - 奈良市ホームページ（秘書課）",
+      "url": "https://www.city.nara.lg.jp/site/mayor-room/117881.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "fd5fad4624e04afd39767b43468afe6e5ba50a1ec629689f84bdbe7ae86b1e65",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-44d99e67612fb074",
+      "name": "高取町 国民民主党 議員 - 奈良県",
+      "url": "https://new-kokumin.jp/member_tag/nara",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "eb5d8693ce4a62bc4d4e69d9038b377518ac210d62106f143702c3042c1a1330",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-565ef1680d15b092",
+      "name": "川上村 日本共産党中央委員会 地方議員検索（奈良県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%A5%88%E8%89%AF%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "1df8fbba37d975821916605a9e5ebbfea70874adfd8e5f19c8cdab6a24736077",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-d75c9e29cfee1735",
+      "name": "天理市 天理市議会議員選挙 （奈良 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/760",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "11653329e22c778bc67c9c01bb112aeacfc35c58ca1b7ef4e206911264d3b020",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f52501e42e872259",
+      "name": "生駒市 生駒市議会議員選挙 （奈良 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/761",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "edee6e738aefee8055c0f508ad1074795eb7cbbf8bb15146ca916020d1e36ea1",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0a6e7662b0179347",
+      "name": "串本町 日本共産党中央委員会 地方議員検索（和歌山県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "e21a845c94159c4ad71aa9ae800ffb94b066c7f272b05ace3ba4a8055a9dbf38",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-36a94c3d99b6b912",
+      "name": "和歌山市 市長プロフィール｜和歌山市",
+      "url": "https://www.city.wakayama.wakayama.jp/1009555/1002823.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "9eeff485b00f75ea0c05ee7e42e391f7d963dc23c0ba35909137f64bde347bb3",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-54f5698dbd3de771",
+      "name": "和歌山市 国民民主党 議員 - 和歌山県",
+      "url": "https://new-kokumin.jp/member_tag/wakayama",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "781b42cde819ebd280d55098d689185b8ee0d80d5777b8e582af4ac46a33f150",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-83881c950dd43bfe",
+      "name": "玉野市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:29",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "1fbae6c69ab0463856db23885400f937803263f4237d97699dfcbe49df600f1c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-3c703cf08c50068a",
+      "name": "鳥取市 鳥取市議会 公式議員名簿",
+      "url": "https://www.city.tottori.lg.jp/site/shigikai/6355.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0ae5753e77d8aa1e59c851262262d79e699861d1f669fdbaca08ec1652792f88",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-b6ff13f804354e2e",
+      "name": "日野町 日本共産党中央委員会 地方議員検索（鳥取県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%B3%A5%E5%8F%96%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-658d210d9c13af13",
+      "name": "鳥取市 市長室 - 鳥取市公式ウェブサイト",
+      "url": "https://www.city.tottori.lg.jp/site/mayor/",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "026dd58b14fa331f53bd0e9924906f56e81844f3a7f5125819d00938bb96cf70",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-c264a27e9e9fed29",
+      "name": "隠岐の島町 日本共産党中央委員会 地方議員検索（島根県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B3%B6%E6%A0%B9%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-7c71c49cd4e32880",
+      "name": "松江市 松江市長プロフィール／松江市ホームページ",
+      "url": "https://www.city.matsue.lg.jp/gyoseijoho/WEB_shichoshitsu/9917.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "ae15a3daba6d4fcbdff8624c79616b07eb878e09f74eec0ed96a0bc0ec7910af",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-a15b9ccf0afe1a5c",
+      "name": "奥出雲町 国民民主党 議員 - 島根県",
+      "url": "https://new-kokumin.jp/member_tag/shimane",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-5a9c21cd618f1f69",
+      "name": "吉備中央町 日本共産党中央委員会 地方議員検索（岡山県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B2%A1%E5%B1%B1%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "5ac45d102d782184383e92f88c1d6f931cd8329c5344f00f1b6577fdafbdbdc0",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-43a1a8dbfc5cbad5",
+      "name": "岡山市 岡山市議会 公式議員名簿",
+      "url": "https://www.city.okayama.jp/gikai/0000015787.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "f68bfe5a164e793f2cbc4b59ab9a17bd264f1c8ff16936f6b9393c54e58692ab",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e58ffbbd9bf1c272",
+      "name": "岡山市 市長・副市長紹介 | 岡山市",
+      "url": "https://www.city.okayama.jp/0000069245.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "5517f5b95fe4da52c2b7fbecc8603dedfbf3cde405688f116894c3130872b9f7",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-e9845364a86368ff",
+      "name": "岡山市 岡山市議会議員選挙 （岡山 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/954",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "11b23a670d2b01b93363b223a4899b7a67cf4c4bd67230884d35936babb3d21b",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-85413b02c1de6d7e",
+      "name": "総社市 国民民主党 議員 - 岡山県",
+      "url": "https://new-kokumin.jp/member_tag/okayama",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "6d7613b95be28517dd0ff911cff818545e5987ccf8e5da4d449642a1837c0099",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-aaff12487ebf1ba6",
+      "name": "倉敷市 倉敷市議会 公式議員名簿",
+      "url": "https://www.city.kurashiki.okayama.jp/cityinfo/assembly/1008324/1008325.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "57a0341544185f2e6e8d66afc6071ed312758fec78e9c5b9a0cd68a4055e2baf",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-ed7b614896e60aff",
+      "name": "津山市 津山市議会議員選挙 （岡山 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/919",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "db0fa32237dc17d309f261cc55e5eb9d0de8c5ab9e794814cbf75ef05cc19e28",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-8582fda1c73b8f08",
+      "name": "神石高原町 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:30",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "6c8aca09f385a1c809f3f66f4191291f89773819175a8fa5e38091444a1547ca",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-d9a9b4fc165daa9c",
+      "name": "広島市 広島市議会 公式議員名簿",
+      "url": "https://www.city.hiroshima.lg.jp/gikai/giin-shoukai/1010261.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c3a1763bf285f4cdbbf76c62ad7d1c984b971d392edbbd1bd88284a308399c52",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0abbc78bf1076c7c",
+      "name": "世羅町 日本共産党中央委員会 地方議員検索（広島県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%BA%83%E5%B3%B6%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0f0d16f78869a3bb35952b127f1f1a68301942d8108dd195da94f2823c8c3bda",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-34cb257669967d67",
+      "name": "広島市 国民民主党 議員 - 広島県",
+      "url": "https://new-kokumin.jp/member_tag/hiroshima",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "57449980d6c8768fb34cd4a4bf1fbaf3dea85323e8bc8b82b507bf718e3edb5a",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-fc59c10c976b498c",
+      "name": "広島市 市長のプロフィール｜広島市公式ウェブサイト",
+      "url": "https://www.city.hiroshima.lg.jp/mayor/1008575.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c65fa54d439b59923af1cd452dcd1670146c27c289bfef0feaac5a654d2b292c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f66d74ebb5ec3647",
+      "name": "呉市 呉市議会 公式議員名簿",
+      "url": "https://www.city.kure.lg.jp/site/gikai/giinmeibo.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "febc1c97d16cc7297bf88684ed8b3612c2197ba21dcf287edcb0e66b2f12b2b8",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-a337197f8efd853c",
+      "name": "福山市 福山市議会 公式議員名簿",
+      "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/gikaisyomu/94812.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "eb11ba0fce15b284d2e9dc05f0a4cd4d4b5c5f1316be1e6aafd66a330eb845f9",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-14aa7e02ffdb18e4",
+      "name": "東広島市 東広島市議会 公式議員名簿",
+      "url": "https://www.city.higashihiroshima.lg.jp/shgikai/3/2860.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "b4236196963653b649042e5ebe780369c99807ff86148fb7441f14d06460bc99",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-bd8e1383964789be",
+      "name": "多度津町 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:31",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "f2fb1d67b89c5421ae789fc77cc674d7a5bf6b692ced64ff87348e26e036ee67",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-0bb284b9e05651f6",
+      "name": "阿武町 日本共産党中央委員会 地方議員検索（山口県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B1%B1%E5%8F%A3%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c305fc9481187182d389ccd2543221b37e4063b1361d6f39a9f7bd8a74b302fc",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-986d12b55938814b",
+      "name": "宇部市 宇部市議会 公式議員名簿",
+      "url": "https://www.city.ube.yamaguchi.jp/shisei/1006704/giin/1006713.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "01872c375d85635444df4c8222c3223046570854992907ded322a5757b79d178",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-650d6fd9469c230c",
+      "name": "山口市 山口市議会 公式議員名簿",
+      "url": "https://www.city.yamaguchi.lg.jp/site/gikai/114504.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "ac27f6c14bfe291db1bb578f218a2022e0d689eae10b0b59550797ef89583dcb",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-f293ab8d8b281099",
+      "name": "山口市 市長プロフィール - 山口市ウェブサイト",
+      "url": "https://www.city.yamaguchi.lg.jp/site/shicho/5977.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "439cc53807518eec37fc15d00699a9f42cb47a5a953fc5087e4130ff863dec2c",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-faaee849608309cf",
+      "name": "周南市 国民民主党 議員 - 山口県",
+      "url": "https://new-kokumin.jp/member_tag/yamaguchi",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "70a3eb427c50c3434db5de830f56a5f485874ead0188b1f862204136310e17f0",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-dba8b9085554e906",
+      "name": "周南市 周南市議会 公式議員名簿",
+      "url": "https://www.city.shunan.lg.jp/site/gk/21127.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "0f179f76ef6018ad49f7fb8bb397ff0765d59fc63c2390fcbe382d83aa8c37c6",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-d01654cade96939b",
+      "name": "上板町 日本共産党中央委員会 地方議員検索（徳島県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%BE%B3%E5%B3%B6%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "07704fadf72bf4f3f4c9ddc54b45fa342f4945fcc7d86ba54239b146e1aee0e7",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-b18799d4b50a5cec",
+      "name": "徳島市 徳島市議会 公式議員名簿",
+      "url": "https://www.city.tokushima.tokushima.jp/shigikai/giin_meibo/member.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "4b0211eec516a989c02292d5293269dad2f7cc1a876a128cc0b2f03d8266ef08",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-5f27c5608f4105eb",
+      "name": "徳島市 遠藤市長のプロフィール：徳島市公式ウェブサイト",
+      "url": "https://www.city.tokushima.tokushima.jp/smph/shisei/mayor/mayor_profile.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "2f2c7229dab95b7f50158b454c7748628f68c355fa5f9e573b1bb76b2c282ac1",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "expanded-1c1ed70933225a30",
+      "name": "那賀町 国民民主党 議員 - 徳島県",
+      "url": "https://new-kokumin.jp/member_tag/tokushima",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-79a62f5a191f8561",
+      "name": "高松市 高松市議会 公式議員名簿",
+      "url": "https://www.city.takamatsu.kagawa.jp/kurashi/shigikai/about/giin/shokai.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-d4c6ea0eda579d67",
+      "name": "まんのう町 国民民主党 議員 - 香川県",
+      "url": "https://new-kokumin.jp/member_tag/kagawa",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-ea5dd619d64877ad",
+      "name": "高松市 市長のプロフィール｜高松市",
+      "url": "https://www.city.takamatsu.kagawa.jp/kurashi/shichoushitsu/sicho_up20180823.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-b7664c309684f366",
+      "name": "綾川町 日本共産党中央委員会 地方議員検索（香川県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%A6%99%E5%B7%9D%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-837d635838ac6350",
+      "name": "大月町 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:32",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-2803e2cf261c0cac",
+      "name": "松山市 松山市議会 公式議員名簿",
+      "url": "https://www.city.matsuyama.ehime.jp/shigikai/syoukai/syoukai.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-d90b1e846507a714",
+      "name": "上島町 国民民主党 議員 - 愛媛県",
+      "url": "https://new-kokumin.jp/member_tag/ehime",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "id": "expanded-a65865e8b489b4af",
+      "name": "砥部町 日本共産党中央委員会 地方議員検索（愛媛県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%84%9B%E5%AA%9B%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-e0df487638b959ce",
+      "name": "松山市 野志克仁（のし　かつひと）市長　松山市公式ホームページ PCサイト",
+      "url": "https://www.city.matsuyama.ehime.jp/shicho/profile/noshi.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-f7d1d30e2ab94d37",
+      "name": "今治市 今治市議会 公式議員名簿",
+      "url": "https://www.city.imabari.ehime.jp/gikai/meibo/kaiha.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-93d72a05ffebf2f3",
+      "name": "黒潮町 日本共産党中央委員会 地方議員検索（高知県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%AB%98%E7%9F%A5%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-eae190e6abb1e656",
+      "name": "高知市 高知市議会 公式議員名簿",
+      "url": "https://www.city.kochi.kochi.jp/soshiki/97/meibo.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-82f1a246c3e51a79",
+      "name": "高知市 市長プロフィール - 高知市ホームページ（秘書課）",
+      "url": "https://www.city.kochi.kochi.jp/soshiki/174/puro.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-71d897934d16ecec",
+      "name": "越知町 国民民主党 議員 - 高知県",
+      "url": "https://new-kokumin.jp/member_tag/kochi",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-2aec42bfd014981a",
+      "name": "築上町 日本共産党中央委員会 地方議員検索（福岡県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%A6%8F%E5%B2%A1%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-5cb608a3b1a86a75",
+      "name": "北九州市 北九州市議会 公式議員名簿",
+      "url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0056.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-b968b87161091fda",
+      "name": "宮若市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:33",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-1e8b19c5c76410cc",
+      "name": "志免町 国民民主党 議員 - 福岡県",
+      "url": "https://new-kokumin.jp/member_tag/fukuoka",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-5bd902361da04cba",
+      "name": "福岡市 福岡市議会 公式議員名簿",
+      "url": "https://gikai.city.fukuoka.lg.jp/member/alphabet",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-a7a0f7718084f4cf",
+      "name": "福岡市 福岡市議会議員選挙 （福岡 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/738",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-7013a2c8f0257945",
+      "name": "福智町 2027年統一地方選挙公認状況（2026年9月24日現在）",
+      "url": "https://komei-fukuoka.jp/news/xz4n74n_u/",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-22d1592d0323d958",
+      "name": "福岡市 福岡市 市長のオフィス",
+      "url": "https://www.city.fukuoka.lg.jp/shisei/mayor/",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-91e20e72c1dd62c7",
+      "name": "大牟田市 大牟田市議会議員選挙 - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/915",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-4891339fd19ecdf5",
+      "name": "久留米市 久留米市議会 公式議員名簿",
+      "url": "https://www.city.kurume.fukuoka.jp/1100keikaku/2040shigikai/3020meibo/2019-0509-1504-175t1.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-be6a47d092d897a7",
+      "name": "久留米市 久留米市議会議員選挙 （福岡 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/838",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-f0ee87366f043a9b",
+      "name": "飯塚市 飯塚市議会議員選挙 （福岡 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/781",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-3efc0585c660c3fe",
+      "name": "筑紫野市 筑紫野市議会議員選挙 （福岡 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/839",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-8bf2e01f86c49432",
+      "name": "大野城市 大野城市議会議員選挙 （福岡 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/840",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-db101ae24b80a9ff",
+      "name": "嘉麻市 嘉麻市議会議員選挙 （福岡 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/782",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-faec00d953763daf",
+      "name": "雲仙市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:34",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-7cbb2d424e8813df",
+      "name": "篠栗町 篠栗町議会議員選挙 （福岡 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/732",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-05fe3f6033cdfcab",
+      "name": "佐賀市 佐賀市議会 公式議員名簿",
+      "url": "https://sagashi-gikai.gijiroku.com/g07_giinlist_s.asp",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-a75f73cb58af884d",
+      "name": "佐賀市 プロフィール／佐賀市公式ホームページ",
+      "url": "https://www.city.saga.lg.jp/shisei/shichonoheya/1/4540.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-83e9eed880955ed8",
+      "name": "白石町 日本共産党中央委員会 地方議員検索（佐賀県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E4%BD%90%E8%B3%80%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-5bfcfc00ced3f5c0",
+      "name": "佐賀市 国民民主党 議員 - 佐賀県",
+      "url": "https://new-kokumin.jp/member_tag/saga",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-33d51b78dc8fe481",
+      "name": "長崎市 長崎市議会 公式議員名簿",
+      "url": "https://www.city.nagasaki.lg.jp/site/gikai/6773.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-cd2a569eb48843c7",
+      "name": "時津町 国民民主党 議員 - 長崎県",
+      "url": "https://new-kokumin.jp/member_tag/nagasaki",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-31aee351fc9101f3",
+      "name": "佐々町 日本共産党中央委員会 地方議員検索（長崎県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%95%B7%E5%B4%8E%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-9289d9427d1fbe41",
+      "name": "長崎市 長崎市議会議員選挙 （長崎 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/720",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-cf66d5fd02dbef79",
+      "name": "長崎市 ようこそ、市長の部屋へ - 市長の部屋 - 長崎市ウェブサイト（秘書課）",
+      "url": "https://www.city.nagasaki.lg.jp/site/mayor/44493.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-07d6430d72aaaa18",
+      "name": "佐世保市 佐世保市議会 公式議員名簿",
+      "url": "https://www.city.sasebo.lg.jp/gikai/gikai/ginshokai/listgiin.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-f439e680f6f76472",
+      "name": "日南市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:35",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-e019ba81ce8aa699",
+      "name": "長与町 長与町議会議員選挙 （長崎27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/768",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-500aae82c0473e2e",
+      "name": "多良木町 日本共産党中央委員会 地方議員検索（熊本県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%86%8A%E6%9C%AC%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-252ca5373ff18ad5",
+      "name": "熊本市 熊本市議会 公式議員名簿",
+      "url": "https://kumamoto-shigikai.jp/kihon/pub/default.aspx?c_id=3",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-38fdabd9e2bb6f8b",
+      "name": "熊本市 熊本市議会議員選挙 （熊本 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/763",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-7a4609d780e18268",
+      "name": "熊本市 市長のプロフィール / 市長室TOP / 熊本市公式サイト",
+      "url": "https://www.city.kumamoto.jp/sicho/kiji0037065/",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-89a25e19c31ce7eb",
+      "name": "長洲町 国民民主党 議員 - 熊本県",
+      "url": "https://new-kokumin.jp/member_tag/kumamoto",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-d9c446c09cc0f1fa",
+      "name": "菊陽町 菊陽町議会議員選挙 （熊本 27統一） - 立憲民主党",
+      "url": "https://cdp-japan.jp/election/852",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-8b66bcd776bc802a",
+      "name": "国東市 日本共産党中央委員会 地方議員検索（大分県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%A4%A7%E5%88%86%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-72a102f3d9729548",
+      "name": "大分市 大分市議会 公式議員名簿",
+      "url": "https://www.city.oita.oita.jp/o185/shigikai/shokai/202103kaomeibo.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-55dd07aec98219a3",
+      "name": "大分市 大分市／プロフィール",
+      "url": "https://www.city.oita.oita.jp/o014/shisejoho/shichoshitsu/profile/20230424.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-311fa5bec5c337e1",
+      "name": "豊後大野市 国民民主党 議員 - 大分県",
+      "url": "https://new-kokumin.jp/member_tag/oita",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-b0c5db1c551100df",
+      "name": "別府市 別府市議会 公式議員名簿",
+      "url": "https://www.city.beppu.oita.jp/gikai/03meibo/list_all.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-ff979e5c6dbf2e01",
+      "name": "門川町 日本共産党中央委員会 地方議員検索（宮崎県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%AE%AE%E5%B4%8E%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-ff14cdb0bd8f9c67",
+      "name": "宮崎市 プロフィール -  宮崎市 [Miyazaki City]",
+      "url": "https://www.city.miyazaki.miyazaki.jp/mayor/profile.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-7e58214c37ec2e1b",
+      "name": "日之影町 国民民主党 議員 - 宮崎県",
+      "url": "https://new-kokumin.jp/member_tag/miyazaki",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-649fc5405f1d595c",
+      "name": "宮古島市 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:36",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-dc9ef54fe5f51814",
+      "name": "鹿児島市 鹿児島市議会 公式議員名簿",
+      "url": "https://www.city.kagoshima.lg.jp/gikai/gksoumu/shigikai/shokai/ichiran2.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-8b1d47ecf4cc20db",
+      "name": "姶良市 国民民主党 議員 - 鹿児島県",
+      "url": "https://new-kokumin.jp/member_tag/kagoshima",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-efc5414b5016ba47",
+      "name": "鹿児島市 市長プロフィール｜鹿児島市",
+      "url": "https://www.city.kagoshima.lg.jp/soumu/shichoshitu/hisyo/shise/shicho/profile.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-a7b40ef729645853",
+      "name": "喜界町 日本共産党中央委員会 地方議員検索（鹿児島県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-3fb117915abebe33",
+      "name": "那覇市 那覇市議会 公式議員名簿",
+      "url": "https://www.city.naha.okinawa.jp/sigikai/giin/1005312/1005313.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-aa6c63c83ac90f9d",
+      "name": "竹富町 国民民主党 議員 - 沖縄県",
+      "url": "https://new-kokumin.jp/member_tag/okinawa",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-bec66d66ae302e48",
+      "name": "八重瀬町 日本共産党中央委員会 地方議員検索（沖縄県）",
+      "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%B2%96%E7%B8%84%E7%9C%8C",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-9f17523cbf611cf1",
+      "name": "那覇市 市長プロフィール｜那覇市公式ホームページ",
+      "url": "https://www.city.naha.okinawa.jp/mayor/mayorinfo/1005299.html",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-a51cadb16b654576",
+      "name": "浦添市 浦添市議会 公式議員名簿",
+      "url": "https://www.city.urasoe.lg.jp/gikai/2025032800020/",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "expanded-de21dddfee7a0db5",
+      "name": "竹富町 公明党公式 所属議員検索",
+      "url": "https://www.komei.or.jp/member/result/n:80/page:37",
+      "checkedAt": "2026-11-04T13:31:42.013036+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
     }
   ],
   "changes": [
@@ -527,7 +4381,23 @@
       "oldHash": "4f4b7d33c67fdc5c0909cb5b94858e0c41d92e63059ab29a8236a61033864e13",
       "hash": "c3358e650ad0428db07f41216f3161bf46d65ee6606b388161b7afbe0cfca13b",
       "message": "公開ページの本文に変更を検出しました。人物の所属・役職・実績の変更を示すとは限りません。原資料を確認してください。"
+    },
+    {
+      "id": "profile-p5-c50d918e76302aff",
+      "name": "山田ひろこ プロフィール等",
+      "url": "https://hirokoyamada.com/free/profile",
+      "detectedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "c50d918e76302aff89b1af97ac007c28e2f1b1ce65502fe628f597da7fe6d8ed",
+      "message": "公開資料の変更を検出。所属・経歴・実績・出馬の変化かは未確認です。"
+    },
+    {
+      "id": "profile-p32-759106e308f05d23",
+      "name": "たかはまなおき プロフィール等",
+      "url": "https://takahamanaoki.com/profile",
+      "detectedAt": "2026-11-04T13:31:42.013036+00:00",
+      "hash": "759106e308f05d23a6449dcce4b14f617d26cd28228f4a3711d1da387a5940c5",
+      "message": "公開資料の変更を検出。所属・経歴・実績・出馬の変化かは未確認です。"
     }
   ],
-  "updatedAt": "2026-11-04T13:00:29.988160+00:00"
+  "updatedAt": "2026-11-04T13:31:42.013036+00:00"
 }

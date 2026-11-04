@@ -1,0 +1,533 @@
+{
+  "records": [],
+  "checks": [
+    {
+      "id": "groups",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "ad44f768cab1876b545d8f527a0c6180830f3394c92dc870af7592793bb26308",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "committees",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "c34c42ef979efcc7668233fbe2859aa7d6a6e03b467e85da81168ce69a7777de",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "mayor",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "32a4a079c29146e9ff9e2c5910e8ace1ae3223fe66b7714ce21023023ba7a26e",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "minutes",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "1f96e02b065006c5911008e241d36f754e26dc97fbeaf2b214768decb9e9ea61",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "policy",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "fb5535ea5292b5914fe6d8294723c6ad56bf1bf173dc93bf1ee2ca34af4a72b7",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "council",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "f9a7a1c7ac305e470775ff489a0ebb72f0a9242e06f09746f009c4af5d6613bc",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "roster",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "ad351e3a1e8e16fc8b2493f8af33d3a70b5bd4c2ec43fb6dcda5b36420123d53",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "questions-02",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "16e4bb204520f17c2f7195b252b316594751cd173c1ce73c719024412a543d23",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "questions-06",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "39959edbc993b5669954a557d30e7437124fa5b8c4bdd5edb64cdfe8b153d139",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "questions-09",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "cc7ca35234dedb4782ad79f51fa4885109e30e8a313544389ee9f9e7ae020594",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "mayor-policy",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "e2b5646edffbdb98ee7ffecf455de73236fd888f763313b5c83f84199e34507f",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p1",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "8585133b2d5913f5997bc3e8cd0287498be0a753edafacfe74fcd41ab464c053",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p2",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "aae598c86e6a11c16181c0fe18ae7225be4e19e3eb7a66688988d534c099b446",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p3",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "8baf424ea1880640d2acd56efad789aab1c07b954518a88ffcbfd7dd5c58ab86",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p4",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "166d78142815a1e25e3bcf77e971c8b3a33f5edc16b9db9765d4d240d2ed67f3",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p5",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "3a00cd5c6d3fa2410bb9a0823441f0371530f3cfaebed11fd6543853370e7e55",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p6",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "677f3165c9819b2d81b2233f1a24d1d67f1f3a9cd79cea791f6937dcbb148ab3",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p7",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "118aff744f1a771f03e11778ff16225f98996474768013e15394e02ca5103b01",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p8",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "4c695275f1a04f1fa4131f2b70f43c0f7c712cb1b8ad86a0cedb9a7c1de1eff5",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p9",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "e548e766370cfe8a3071ce5e613613b980ee0db6cf8978861b981585f408d953",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p10",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "5817f4bf62e3d884c3b6dc55b464b356ad328b91c1a0519b059ff54a61c042f3",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p11",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "6791ae1305947c40f6c30a8766099dd167c4769c7aee1fd814b5dc25bb192a77",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p12",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "378882457830d48d93f67f363215027670ac746789a5430eec480c70e11aa149",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p13",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "cfc7f4d76c7ba8c1ea20de68827fe018d2ce7b563b90323ef5037678fe7a0429",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p14",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "9fd97dd589a0e5807337f95565a50aac83d0307a201a52e2d01d002d6e183121",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p15",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "aff599e875ac2bde363e0ee30d60f1e50e967c8a0a1ca297bd63ef51a3a29772",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p16",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "20921f648bf62ed89ca751e8573b8e6bfceb51c183ad1f0fa6b808ff5c65577f",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p17",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "a30e82100705108c6996677f3e27225a1cdc44247e6249266da2d8a0425b08b9",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p18",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "5b815f9438cc9347856ac6f2e2460a85f10af2f8e1a7babf043441ef1cf1aafb",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p19",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "de5d3c07970feabcb508974cf3cea0b18d478dbdd77919ab96982215180f9f53",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p20",
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "error": null,
+      "hash": "0d62cb26e8afa0433296976d128aa413310bef2d8f05e6e11e966f869e1b1373",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "changed": false
+    },
+    {
+      "id": "profile-p21",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "b0afdaebf3362d5873929627f7d1a2a0b48ad6b1576e4693587b9b11f2e75d01",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p22",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "a87ffd247ff65aafe1d3d9f191a6e5caf749ef0777b5cef71875716be40ea6b7",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p23",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "33d13c08503318effe1d3da5c3dff1312a22dcb48786926723b7b988f9a967a9",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p24",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "3f49fa1a8a9464d230a126f3627a6a11de6512b41b053d3b5e6f28bbdfb633cb",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p25",
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "error": null,
+      "hash": "bfee557d0828f014d42d5c067fa25c21b3b0857958c60f0f78d89b4f9d5feaaf",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "changed": false
+    },
+    {
+      "id": "profile-p26",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "450448ddef693ecc5260da4b034afde2e1fdbeb8ecf5a9cd52374ab70bf9b1ca",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p27",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "e6a0e12326df2054191e1a8bc7d818b55dec76645cc41064ff460a4588fb7f0a",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p28",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "832decf8abc50bde2b83f3aefa284d5cf258c2f1547b4bec37b668b91b198f48",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p29",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "2893419e874bacd9239d5ea829fa30d1ce6ebc448041cb021fe120a1f628c33f",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p30",
+      "extractorVersion": 2,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T11:47:42.915Z",
+      "hash": "4f3746ea2afad445dc12e95401fe308ff58e292b85ec0cd43e63452c4a39c9d9",
+      "error": "HTTP Error 503: Service Unavailable",
+      "changed": false
+    },
+    {
+      "id": "profile-p31",
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "error": "本文または期待する見出しを確認できません"
+    },
+    {
+      "id": "profile-p32",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "41515797023dbebd40b65a3127322ced4cce118ffbe98c093c4400e1fb274bcd",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-p33",
+      "extractorVersion": 2,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T12:49:17.754Z",
+      "hash": "faaf5f180a5e79f8a4ac0bac6c50b65a23fb51519507f1b041216ca53752ded4",
+      "error": "'ascii' codec can't encode characters in position 5-15: ordinal not in range(128)",
+      "changed": false
+    },
+    {
+      "id": "election-calendar",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "adc1e781666fcd0b20c5509af933e2c7492dcec6372a88adfe3ee5041d7a0e5e",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "election-types",
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "error": null,
+      "hash": "160fdfc7f4753a0d7e0fff7b9a93f5902f4a68cdd0299d721527b2ce04e3e58e",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "changed": false
+    },
+    {
+      "id": "election-mayor-list",
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "error": "本文または期待する見出しを確認できません"
+    },
+    {
+      "id": "election-council-list",
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "error": "本文または期待する見出しを確認できません"
+    },
+    {
+      "id": "election-jimin",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "89d41fa5eeedb4b94f6c18f5028c6b9c8df8c93c305d40aa66ee37ef94a896d0",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "election-support",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "a581bddd4e5edd8ce468d3c84e73700b9ca051da3f55534b783c49f89527b578",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "election-cdp",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "d01a82427cceaae01f3348a905551d4bee34540b1edd807554bbef573097e0d6",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "election-ishin",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "7d20cfc2bfcaebc51c9e35366e5bd2f4b7735feab8ce948cbb86ff963806399b",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-candidate-koboku",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "3de9f51f2e6e495465d725e2127270120394d282d4b9d8772e95fda644aec944",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-candidate-ebisawa",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "3118acbd395b58606f90b623ab23bcb05c2c0b139e9dd65471bccfa6c8770905",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "profile-candidate-kawahata-ayako",
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "error": "本文または期待する見出しを確認できません"
+    },
+    {
+      "id": "profile-candidate-honda-kaori",
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "error": "本文または期待する見出しを確認できません"
+    },
+    {
+      "id": "profile-candidate-fukuzawa-naoto",
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "error": "本文または期待する見出しを確認できません"
+    },
+    {
+      "id": "election-tomin",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "4c94314046a359382670905f25a4772e3100260f18d4e15992b83a54b6567c2d",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "election-jcp",
+      "extractorVersion": 3,
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "0868b88c8d1fb1b03d0d3d91f87039d735c08e3565e18d4bb5172dac1a3e7b02",
+      "error": null,
+      "changed": false
+    },
+    {
+      "id": "national-mayor-publication",
+      "checkedAt": "2026-11-04T13:00:29.988160+00:00",
+      "hash": "6628af0e674e83446ed93bd6704454bbae9ee6a89f5f65ff4af64e7ebf021063",
+      "extractorVersion": 3,
+      "lastSuccessAt": "2026-11-04T13:00:29.988160+00:00",
+      "error": null,
+      "changed": false
+    }
+  ],
+  "changes": [
+    {
+      "id": "profile-p32-c3358e650ad0428d",
+      "name": "たかはまなおき プロフィール等",
+      "url": "https://takahamanaoki.com/profile",
+      "detectedAt": "2026-11-04T12:49:17.754Z",
+      "oldHash": "4f4b7d33c67fdc5c0909cb5b94858e0c41d92e63059ab29a8236a61033864e13",
+      "hash": "c3358e650ad0428db07f41216f3161bf46d65ee6606b388161b7afbe0cfca13b",
+      "message": "公開ページの本文に変更を検出しました。人物の所属・役職・実績の変更を示すとは限りません。原資料を確認してください。"
+    }
+  ],
+  "updatedAt": "2026-11-04T13:00:29.988160+00:00"
+}

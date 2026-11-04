@@ -1,0 +1,157 @@
+{
+  "hiroshima": [
+    "34100",
+    "広島市",
+    "https://www.city.hiroshima.lg.jp/gikai/giin-shoukai/1010261.html"
+  ],
+  "fukuyama": [
+    "34207",
+    "福山市",
+    "https://www.city.fukuyama.hiroshima.jp/soshiki/gikaisyomu/94812.html"
+  ],
+  "kagoshima": [
+    "46201",
+    "鹿児島市",
+    "https://www.city.kagoshima.lg.jp/gikai/gksoumu/shigikai/shokai/ichiran2.html"
+  ],
+  "kumamoto": [
+    "43100",
+    "熊本市",
+    "https://kumamoto-shigikai.jp/kihon/pub/default.aspx?c_id=3"
+  ],
+  "fukuoka": [
+    "40130",
+    "福岡市",
+    "https://gikai.city.fukuoka.lg.jp/member/alphabet"
+  ],
+  "kitakyushu": [
+    "40100",
+    "北九州市",
+    "https://www.city.kitakyushu.lg.jp/sigikai/file_0056.html"
+  ],
+  "okayama": [
+    "33100",
+    "岡山市",
+    "https://www.city.okayama.jp/gikai/0000015787.html"
+  ],
+  "kochi": [
+    "39201",
+    "高知市",
+    "https://www.city.kochi.kochi.jp/soshiki/97/meibo.html"
+  ],
+  "tokushima": [
+    "36201",
+    "徳島市",
+    "https://www.city.tokushima.tokushima.jp/shigikai/giin_meibo/member.html"
+  ],
+  "matsuyama": [
+    "38201",
+    "松山市",
+    "https://www.city.matsuyama.ehime.jp/shigikai/syoukai/syoukai.html"
+  ],
+  "takamatsu": [
+    "37201",
+    "高松市",
+    "https://www.city.takamatsu.kagawa.jp/kurashi/shigikai/about/giin/shokai.html"
+  ],
+  "naha": [
+    "47201",
+    "那覇市",
+    "https://www.city.naha.okinawa.jp/sigikai/giin/1005312/1005313.html"
+  ],
+  "nagasaki": [
+    "42201",
+    "長崎市",
+    "https://www.city.nagasaki.lg.jp/site/gikai/6773.html"
+  ],
+  "yamaguchi": [
+    "35203",
+    "山口市",
+    "https://www.city.yamaguchi.lg.jp/site/gikai/114504.html"
+  ],
+  "kurashiki": [
+    "33202",
+    "倉敷市",
+    "https://www.city.kurashiki.okayama.jp/cityinfo/assembly/1008324/1008325.html"
+  ],
+  "saga": [
+    "41201",
+    "佐賀市",
+    "https://sagashi-gikai.gijiroku.com/g07_giinlist_s.asp"
+  ],
+  "tottori": [
+    "31201",
+    "鳥取市",
+    "https://www.city.tottori.lg.jp/site/shigikai/6355.html"
+  ],
+  "shimonoseki": [
+    "35201",
+    "下関市",
+    "https://www.city.shimonoseki.lg.jp/site/gikai/107798.html"
+  ],
+  "miyazaki": [
+    "45201",
+    "宮崎市",
+    "https://www.city.miyazaki.miyazaki.jp/parliament/list/300461.html"
+  ],
+  "kure": [
+    "34202",
+    "呉市",
+    "https://www.city.kure.lg.jp/site/gikai/giinmeibo.html"
+  ],
+  "higashihiroshima": [
+    "34212",
+    "東広島市",
+    "https://www.city.higashihiroshima.lg.jp/shgikai/3/2860.html"
+  ],
+  "sasebo": [
+    "42202",
+    "佐世保市",
+    "https://www.city.sasebo.lg.jp/gikai/gikai/ginshokai/listgiin.html"
+  ],
+  "kurume": [
+    "40203",
+    "久留米市",
+    "https://www.city.kurume.fukuoka.jp/1100keikaku/2040shigikai/3020meibo/2019-0509-1504-175t1.html"
+  ],
+  "shunan": [
+    "35215",
+    "周南市",
+    "https://www.city.shunan.lg.jp/site/gk/21127.html"
+  ],
+  "ube": [
+    "35202",
+    "宇部市",
+    "https://www.city.ube.yamaguchi.jp/shisei/1006704/giin/1006713.html"
+  ],
+  "matsue": [
+    "32201",
+    "松江市",
+    "https://www.city.matsue.lg.jp/gyoseijoho/matsueshigikai/giinjoho/9883.html"
+  ],
+  "urasoe": [
+    "47208",
+    "浦添市",
+    "https://www.city.urasoe.lg.jp/gikai/2025032800020/"
+  ],
+  "oita": [
+    "44201",
+    "大分市",
+    "https://www.city.oita.oita.jp/o185/shigikai/shokai/202103kaomeibo.html"
+  ],
+  "beppu": [
+    "44202",
+    "別府市",
+    "https://www.city.beppu.oita.jp/gikai/03meibo/list_all.html"
+  ],
+  "marugame": [
+    "37202",
+    "丸亀市",
+    "https://www.city.marugame.lg.jp/site/gikai/1323.html"
+  ],
+  "imabari": [
+    "38202",
+    "今治市",
+    "https://www.city.imabari.ehime.jp/gikai/meibo/kaiha.html"
+  ]
+}

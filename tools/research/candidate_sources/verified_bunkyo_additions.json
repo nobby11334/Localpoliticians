@@ -1,0 +1,191 @@
+[
+  {
+    "municipalityCode": "13105",
+    "municipalityName": "文京区",
+    "name": "本田かおり",
+    "office": "新人（公職未確認）",
+    "party": "都民ファーストの会",
+    "candidate": {
+      "target": "区議会議員選挙",
+      "status": "公認発表",
+      "announcedAt": "2026-08-27",
+      "sources": [
+        {
+          "url": "https://tomin1st.jp/wp-content/uploads/2026/08/623e100a9aca34a3816c9454dc32e99f.pdf",
+          "title": "令和9年執行予定 統一地方選挙 公認候補予定者（四次）",
+          "publisher": "都民ファーストの会",
+          "date": "2026-08-27"
+        },
+        {
+          "url": "https://go2senkyo.com/local/senkyo/24560",
+          "title": "文京区議会議員選挙（2027年）予想される顔ぶれ",
+          "publisher": "選挙ドットコム",
+          "date": "2026-11-04確認"
+        }
+      ],
+      "note": "党の四次公認発表では本田香緒利（ほんだかおり）・新人と記載。正式な立候補届出前。"
+    },
+    "findings": [
+      {
+        "category": "party",
+        "title": "2027年統一地方選挙の公認候補予定者",
+        "period": "2026年8月27日発表",
+        "organization": "都民ファーストの会",
+        "summary": "文京区の公認候補予定者（四次）。名簿の氏名表記は本田香緒利。",
+        "source": "令和9年執行予定 統一地方選挙 公認候補予定者（四次）",
+        "url": "https://tomin1st.jp/wp-content/uploads/2026/08/623e100a9aca34a3816c9454dc32e99f.pdf",
+        "sourceType": "政党公式",
+        "asOf": "2026-08-27"
+      },
+      {
+        "category": "career",
+        "title": "2023年の文京区議会議員選挙に立候補",
+        "period": "2023年4月",
+        "organization": "文京区議会議員選挙",
+        "summary": "選挙管理委員会の候補者一覧に本田かおりとして掲載。当時の党派は無所属。",
+        "source": "令和5年4月23日執行 文京区議会議員選挙 立候補者一覧",
+        "url": "https://www.city.bunkyo.lg.jp/documents/6195/2023417101324.pdf",
+        "sourceType": "行政資料",
+        "asOf": "2023-04-16"
+      }
+    ],
+    "website": {
+      "url": "https://go2senkyo.com/seijika/187820",
+      "title": "本田かおり｜選挙ドットコム",
+      "kind": "platform"
+    }
+  },
+  {
+    "municipalityCode": "13105",
+    "municipalityName": "文京区",
+    "name": "福澤直人",
+    "office": "新人（公職未確認）",
+    "party": "日本保守党",
+    "candidate": {
+      "target": "区議会議員選挙",
+      "status": "公認発表",
+      "announcedAt": "2026-08-10",
+      "sources": [
+        {
+          "url": "https://hoshuto.jp/press-release-260810/",
+          "title": "政策委員（公認候補予定者）決定のお知らせ",
+          "publisher": "日本保守党",
+          "date": "2026-08-10"
+        },
+        {
+          "url": "https://hoshuto.jp/contents/wp-content/uploads/2026/08/Press_Release_20260810.pdf",
+          "title": "日本保守党 政策委員（公認候補予定者）決定",
+          "publisher": "日本保守党",
+          "date": "2026-08-10"
+        },
+        {
+          "url": "https://go2senkyo.com/local/senkyo/24560",
+          "title": "文京区議会議員選挙（2027年）予想される顔ぶれ",
+          "publisher": "選挙ドットコム",
+          "date": "2026-11-04確認"
+        }
+      ],
+      "note": "党公式発表が政策委員を「公認候補予定者」と明記。文京区での政策委員決定と2027年区議選予想一覧を照合。正式な立候補届出前。"
+    },
+    "findings": [
+      {
+        "category": "party",
+        "title": "文京区政策委員（公認候補予定者）",
+        "period": "2026年8月10日発表",
+        "organization": "日本保守党",
+        "summary": "日本保守党の公式発表で文京区担当として掲載。",
+        "source": "日本保守党 政策委員（公認候補予定者）決定",
+        "url": "https://hoshuto.jp/contents/wp-content/uploads/2026/08/Press_Release_20260810.pdf",
+        "sourceType": "政党公式",
+        "asOf": "2026-08-10"
+      },
+      {
+        "category": "career",
+        "title": "会社員",
+        "period": "2026年8月10日資料現在",
+        "organization": "勤務先未公表",
+        "summary": "党公式発表の経歴欄に会社員と記載。勤務先名・在職期間は確認できない。",
+        "source": "日本保守党 政策委員（公認候補予定者）決定",
+        "url": "https://hoshuto.jp/contents/wp-content/uploads/2026/08/Press_Release_20260810.pdf",
+        "sourceType": "政党公式",
+        "asOf": "2026-08-10"
+      },
+      {
+        "category": "career",
+        "title": "慶應義塾大学卒業",
+        "period": "卒業年不明",
+        "organization": "慶應義塾大学",
+        "summary": "党公式発表の経歴欄に記載。学部・卒業年は資料に記載なし。",
+        "source": "日本保守党 政策委員（公認候補予定者）決定",
+        "url": "https://hoshuto.jp/contents/wp-content/uploads/2026/08/Press_Release_20260810.pdf",
+        "sourceType": "政党公式",
+        "asOf": "2026-08-10"
+      }
+    ],
+    "website": {
+      "url": "https://hoshuto.jp/press-release-260810/",
+      "title": "日本保守党公式｜福澤直人 政策委員決定",
+      "kind": "party"
+    }
+  },
+  {
+    "municipalityCode": "13105",
+    "municipalityName": "文京区",
+    "name": "依田翼",
+    "office": "区議会議員",
+    "party": "都民ファーストの会",
+    "candidate": {
+      "target": "区議会議員選挙",
+      "status": "公認発表",
+      "announcedAt": "2026-05-11",
+      "sources": [
+        {
+          "url": "https://tomin1st.jp/wp-content/uploads/2026/05/196f3cac5f27b04f0d5f11dd308a357d.pdf",
+          "title": "令和9年執行予定 統一地方選挙 公認候補予定者（一次）",
+          "publisher": "都民ファーストの会",
+          "date": "2026-05-11"
+        },
+        {
+          "url": "https://go2senkyo.com/local/senkyo/24560",
+          "title": "文京区議会議員選挙（2027年）予想される顔ぶれ",
+          "publisher": "選挙ドットコム",
+          "date": "2026-11-04確認"
+        }
+      ],
+      "note": "都民ファーストの会の一次公認候補予定者名簿で確認。正式な立候補届出前。"
+    },
+    "findings": [],
+    "website": {
+      "url": "https://tomin1st.jp/wp-content/uploads/2026/05/196f3cac5f27b04f0d5f11dd308a357d.pdf",
+      "title": "令和9年執行予定 統一地方選挙 公認候補予定者（一次）",
+      "kind": "party"
+    }
+  },
+  {
+    "municipalityCode": "13105",
+    "municipalityName": "文京区",
+    "name": "石沢のりゆき",
+    "office": "区議会議員",
+    "party": "日本共産党",
+    "candidate": {
+      "target": "区議会議員選挙",
+      "status": "政党予定者掲載",
+      "announcedAt": "不明",
+      "sources": [
+        {
+          "url": "https://www.jcp.or.jp/list/member/1310595",
+          "title": "文京区議会選挙（2027統一） 石沢のりゆき",
+          "publisher": "日本共産党",
+          "date": "2026-11-04確認"
+        }
+      ],
+      "note": "党公式の「文京区議会選挙（2027統一）」ページに掲載。ページに公認・推薦という明示がなく、公認発表とは区別する。選挙ドットコムの予想22人一覧には未掲載。"
+    },
+    "findings": [],
+    "website": {
+      "url": "https://www.jcp.or.jp/list/member/1310595",
+      "title": "文京区議会選挙（2027統一） 石沢のりゆき",
+      "kind": "party"
+    }
+  }
+]

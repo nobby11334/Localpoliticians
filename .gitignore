@@ -1,3 +1,17 @@
 node_modules/
 __pycache__/
 .openai/
+data/regions/
+dist/data/regions/
+tools/research/cache/
+tools/research/*-cache/
+tools/research/profiles/
+tools/research/*.html
+tools/research/*.raw
+tools/research/*.txt
+tools/research/*-members.json
+tools/research/council-*.json
+tools/research/mayor-careers.json
+!tools/research/requirements.txt
+tools/research/*-biography-candidates.json
+tools/research/*-biography-jobs.json

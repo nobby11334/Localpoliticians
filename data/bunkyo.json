@@ -3699,8 +3699,7 @@
       ],
       "website": {
         "url": "https://bunkyotaizo.amebaownd.com/",
-        "title": "本人公式サイト",
-        "sourceUrl": "https://new-kokumin.jp/member/takayama-taizo",
+        "title": "本人公式HP（政党公式からリンク）",
         "kind": "personal"
       },
       "party": "国民民主党",
@@ -3709,19 +3708,18 @@
       "isIncumbent": true,
       "candidate": {
         "target": "区議会議員選挙",
-        "status": "情報サイト掲載",
+        "status": "公認発表",
         "announcedAt": "不明",
         "sources": [
           {
-            "url": "https://go2senkyo.com/local/senkyo/24560",
-            "title": "文京区議会議員選挙（2027年）予想される顔ぶれ",
-            "publisher": "選挙ドットコム",
+            "url": "https://r9-toitsu.new-kokumin.tokyo/candidates.html",
+            "title": "2027年統一地方選挙 公認候補予定者一覧｜国民民主党東京都連",
             "date": "2026-11-04確認"
           }
         ],
-        "note": "選挙ドットコムの「予想される顔ぶれ」に掲載。今回の調査では2027年の本人出馬表明または当該本人の公認・推薦を確定できる一次資料を確認できず。掲載だけで立候補確定とは扱わない。",
-        "checkedAt": "2026-11-04",
-        "electionId": "bunkyo-council-2027"
+        "note": "2027年党公式名簿の表示：公認・現職6期。公認・推薦決定日そのものは未確認。正式届出前。",
+        "electionId": "bunkyo-council-2027",
+        "checkedAt": "2026-11-04"
       }
     },
     {

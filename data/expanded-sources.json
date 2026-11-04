@@ -1,0 +1,4103 @@
+[
+  {
+    "id": "expanded-ab7be054c1300324",
+    "name": "札幌市 札幌市議会議員選挙 （北海道 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/821",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-40b2de909dad6d9c",
+    "name": "札幌市 札幌市議会 議員名簿",
+    "url": "https://ckan.pf-sapporo.jp/dataset/9c3902ea-43a1-4f1e-9281-101eac218818/resource/98df3fa7-4e35-4fa3-b5ce-f308aba5cb65/download/20260417citycouncilroster.csv",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-04-17",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-9141280cbae42a65",
+    "name": "標津町 日本共産党中央委員会 地方議員検索（北海道）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%8C%97%E6%B5%B7%E9%81%93",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-62b41a91727f7b36",
+    "name": "宮崎市 2027年実施予定 地方議会議員選挙 公認候補予定者",
+    "url": "https://o-ishin.jp/election/candidate/2027kounin/",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-69c0511047a2870a",
+    "name": "滝川市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:1",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-64dc4ddcf3b00652",
+    "name": "千歳市 国民民主党 議員 - 北海道",
+    "url": "https://new-kokumin.jp/member_tag/hokkaido",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-ba80167a47be2f2e",
+    "name": "札幌市 秋元克広（あきもとかつひろ）市長のプロフィール／札幌市",
+    "url": "https://www.city.sapporo.jp/city/mayor/profile/akimoto_profile.html",
+    "scope": "行政の首長紹介",
+    "asof": "2023-05-02",
+    "expected": [
+      "秋元克広"
+    ]
+  },
+  {
+    "id": "expanded-2099f251d5419f13",
+    "name": "小樽市 小樽市議会議員選挙 （北海道 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/811",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-e9c568f3e5d054ea",
+    "name": "室蘭市 室蘭市議会議員選挙 （北海道 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/812",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-9365410578d636ba",
+    "name": "岩見沢市 岩見沢市議会議員選挙 （北海道 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/813",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-aa61070cca343111",
+    "name": "滝川市 滝川市議会議員選挙 （北海道 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/814",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-cbacb664e5bdd356",
+    "name": "八戸市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:2",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f73286faba9b4eca",
+    "name": "恵庭市 恵庭市議会議員選挙 （北海道 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/815",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-ceec28887b4169e0",
+    "name": "伊達市 伊達市議会議員選挙 （北海道 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/816",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-5e5b5fc3108dddee",
+    "name": "北広島市 北広島市議会議員選挙 （北海道 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/817",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-3173d9a566518d4d",
+    "name": "倶知安町 倶知安町議会議員選挙 （北海道 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/818",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-9042a828f9f09fce",
+    "name": "浦河町 浦河町議会議員選挙 （北海道 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/819",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-77dfd081d4072e7e",
+    "name": "青森市 国民民主党 議員 - 青森県",
+    "url": "https://new-kokumin.jp/member_tag/aomori",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-85d5fb746bbc707a",
+    "name": "青森市 市長あいさつ │ 青森市",
+    "url": "https://www.city.aomori.aomori.jp/shisei/shichounoheya/1005416.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-05-08",
+    "expected": [
+      "西秀記"
+    ]
+  },
+  {
+    "id": "expanded-7e95a147719d9f3f",
+    "name": "東北町 日本共産党中央委員会 地方議員検索（青森県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%9D%92%E6%A3%AE%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-a615b05842ec891b",
+    "name": "柴田町 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:3",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-a3cfa69a385d676b",
+    "name": "洋野町 日本共産党中央委員会 地方議員検索（岩手県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B2%A9%E6%89%8B%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-702c0edb7ff7ce87",
+    "name": "盛岡市 市長のプロフィール｜盛岡市公式ホームページ",
+    "url": "https://www.city.morioka.iwate.jp/shisei/shichoshitsu/1008874.html",
+    "scope": "行政の首長紹介",
+    "asof": "2024-04-01",
+    "expected": [
+      "内舘茂"
+    ]
+  },
+  {
+    "id": "expanded-5fbcff4a31eec270",
+    "name": "滝沢市 国民民主党 議員 - 岩手県",
+    "url": "https://new-kokumin.jp/member_tag/iwate",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-3d1641819bab287c",
+    "name": "仙台市 仙台市議会 議員名簿",
+    "url": "https://www.gikai.city.sendai.jp/list/district/taihaku/index.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e99adbfbc7fa5512",
+    "name": "仙台市 仙台市議会 議員名簿",
+    "url": "https://www.gikai.city.sendai.jp/list/district/aoba/index.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f9b57b244e432ab3",
+    "name": "仙台市 国民民主党 議員 - 宮城県",
+    "url": "https://new-kokumin.jp/member_tag/miyagi",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-786e69267b064ab6",
+    "name": "仙台市 仙台市議会 議員名簿",
+    "url": "https://www.gikai.city.sendai.jp/list/district/izumi/index.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-c8df5d4e79229d1f",
+    "name": "女川町 日本共産党中央委員会 地方議員検索（宮城県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%AE%AE%E5%9F%8E%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-398dd4e2bbb61e4a",
+    "name": "仙台市 仙台市議会 議員名簿",
+    "url": "https://www.gikai.city.sendai.jp/list/district/miyagino/index.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-223856fe23d1d697",
+    "name": "仙台市 仙台市議会 議員名簿",
+    "url": "https://www.gikai.city.sendai.jp/list/district/wakabayashi/index.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-8750a58d1d4f1dab",
+    "name": "仙台市 市長メッセージ｜仙台市",
+    "url": "https://www.city.sendai.jp/invest/profile/message.html",
+    "scope": "行政の首長紹介",
+    "asof": "2022-10-13",
+    "expected": [
+      "郡和子"
+    ]
+  },
+  {
+    "id": "expanded-020f11c7f846d9ae",
+    "name": "白河市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:4",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-617288db944dad18",
+    "name": "東成瀬村 日本共産党中央委員会 地方議員検索（秋田県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%A7%8B%E7%94%B0%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-2a3c6ccdc1cbc9e7",
+    "name": "秋田市 秋田市議会議員選挙 （秋田 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/735",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-1008448ce7984bbf",
+    "name": "秋田市 初登庁式あいさつ｜秋田市公式サイト",
+    "url": "https://www.city.akita.lg.jp/shicho/aisatsu.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-06-27",
+    "expected": [
+      "沼谷純"
+    ]
+  },
+  {
+    "id": "expanded-683646ba61579844",
+    "name": "横手市 国民民主党 議員 - 秋田県",
+    "url": "https://new-kokumin.jp/member_tag/akita",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-421a4704d501fec6",
+    "name": "大館市 大館市議会議員選挙 （秋田 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/788",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-322c31e83d9f85a0",
+    "name": "庄内町 日本共産党中央委員会 地方議員検索（山形県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B1%B1%E5%BD%A2%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-0b6f894a0fa95810",
+    "name": "山形市 市長プロフィール｜山形市公式ホームページ",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/shiseijoho/shicho/1005809.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-06-02",
+    "expected": [
+      "佐藤孝弘"
+    ]
+  },
+  {
+    "id": "expanded-49d66188b8d7fda5",
+    "name": "庄内町 国民民主党 議員 - 山形県",
+    "url": "https://new-kokumin.jp/member_tag/yamagata",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e43d0464dbff2580",
+    "name": "飯舘村 日本共産党中央委員会 地方議員検索（福島県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%A6%8F%E5%B3%B6%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-ea4534532b40ecc0",
+    "name": "浪江町 国民民主党 議員 - 福島県",
+    "url": "https://new-kokumin.jp/member_tag/fukushima",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-2b68bff24038cd7b",
+    "name": "福島市 市長のプロフィール／福島市公式ホームページ",
+    "url": "https://www.city.fukushima.fukushima.jp/shichonoheya/16354.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-12-08",
+    "expected": [
+      "馬場雄基"
+    ]
+  },
+  {
+    "id": "expanded-4d0f566e9c7addaf",
+    "name": "稲敷市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:5",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-43cd25a26a79c866",
+    "name": "利根町 日本共産党中央委員会 地方議員検索（茨城県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E8%8C%A8%E5%9F%8E%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-510f670497eaab51",
+    "name": "水戸市 水戸市議会議員選挙 （茨城 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/702",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-b316ff80a8856c61",
+    "name": "阿見町 国民民主党 議員 - 茨城県",
+    "url": "https://new-kokumin.jp/member_tag/ibaraki",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-2fb2ecd6407dd496",
+    "name": "水戸市 市長プロフィール - 水戸市長の部屋 - 水戸市ホームページ",
+    "url": "https://www.city.mito.lg.jp/site/mayor/3196.html",
+    "scope": "行政の首長紹介",
+    "asof": "2022-06-13",
+    "expected": [
+      "高橋靖"
+    ]
+  },
+  {
+    "id": "expanded-9dc9f24dfbcca57b",
+    "name": "常総市 常総市議会議員選挙 （茨城 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/719",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-0fbcaed34bf962a3",
+    "name": "高崎市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:6",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-8aed4665a1bea47c",
+    "name": "宇都宮市 市長室から｜宇都宮市公式Webサイト",
+    "url": "https://www.city.utsunomiya.lg.jp/shichoshitsu/index.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-09-01",
+    "expected": [
+      "佐藤栄一"
+    ]
+  },
+  {
+    "id": "expanded-8b41683dd8d36fd8",
+    "name": "那珂川町 日本共産党中央委員会 地方議員検索（栃木県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%A0%83%E6%9C%A8%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-86a869acaac1edca",
+    "name": "壬生町 国民民主党 議員 - 栃木県",
+    "url": "https://new-kokumin.jp/member_tag/tochigi",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-ed5f3ceee9ea8f85",
+    "name": "小山市 市長プロフィール | 市長の部屋 | 小山市公式ホームページ",
+    "url": "https://www.city.oyama.tochigi.jp/mayor/mayor-profile.html",
+    "scope": "行政の首長紹介",
+    "asof": "2024-07-31",
+    "expected": [
+      "浅野正富"
+    ]
+  },
+  {
+    "id": "expanded-d7ef780de85e2b56",
+    "name": "邑楽町 日本共産党中央委員会 地方議員検索（群馬県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%BE%A4%E9%A6%AC%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-2ed8d33f0cc2c787",
+    "name": "前橋市 小川市長のプロフィール／前橋市",
+    "url": "https://www.city.maebashi.gunma.jp/gyosei/mayor/40050.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-01-16",
+    "expected": [
+      "小川晶"
+    ]
+  },
+  {
+    "id": "expanded-701b0abb8b1da072",
+    "name": "大泉町 国民民主党 議員 - 群馬県",
+    "url": "https://new-kokumin.jp/member_tag/gunma",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f436cdcc24730a70",
+    "name": "行田市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:7",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-165927005a594b62",
+    "name": "藤岡市 藤岡市議会議員選挙 （群馬 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/842",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-5e9e9da69d72575e",
+    "name": "板倉町 板倉町議会議員選挙 （群馬 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/843",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-9bd46e6095b3fc79",
+    "name": "さいたま市 さいたま市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/734",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-813e7960ac959e18",
+    "name": "松伏町 日本共産党中央委員会 地方議員検索（埼玉県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%9F%BC%E7%8E%89%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-11c776589c639174",
+    "name": "さいたま市 さいたま市議会 議員名簿",
+    "url": "https://www.city.saitama.lg.jp/gikai/001/002/001/index.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（不明（2026-11-04取得）取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-1d286c645db2162b",
+    "name": "嵐山町 国民民主党 議員 - 埼玉県",
+    "url": "https://new-kokumin.jp/member_tag/saitama",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-8382a486ef2d9d22",
+    "name": "さいたま市 さいたま市／さいたま市長プロフィール",
+    "url": "https://www.city.saitama.jp/006/003/003/006/p008635.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-05-27",
+    "expected": [
+      "清水勇人"
+    ]
+  },
+  {
+    "id": "expanded-eb8511af4fbb3367",
+    "name": "川越市 川越市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/861",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-166c5dc4d8d5c912",
+    "name": "新座市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:8",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-5dad2d7cad173e59",
+    "name": "所沢市 所沢市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/777",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-2f8b33aea80c267e",
+    "name": "加須市 加須市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/778",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-ed3543cc1ba027dc",
+    "name": "越谷市 越谷市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/779",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-0d3b2ae9020d9d6f",
+    "name": "松伏町 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:9",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e22d15c1f3a75fa3",
+    "name": "ふじみ野市 ふじみ野市議会議員選挙 （埼玉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/862",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-9c2ccec06da6c355",
+    "name": "鋸南町 日本共産党中央委員会 地方議員検索（千葉県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%8D%83%E8%91%89%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-9c5a54897e23a561",
+    "name": "千葉市 千葉市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/776",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-b197aceeca99d2b8",
+    "name": "千葉市 千葉市議会 議員名簿",
+    "url": "https://www.city.chiba.jp/shigikai/list_kaiha_miraiminsyuchiba.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-04-20",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-2fb36494765745f5",
+    "name": "千葉市 千葉市議会 議員名簿",
+    "url": "https://www.city.chiba.jp/shigikai/list_kaiha_jimin.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2025-04-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f6478837f316fc49",
+    "name": "千葉市 千葉市議会 議員名簿",
+    "url": "https://www.city.chiba.jp/shigikai/list_kaiha_kyousan.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2025-03-06",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f43b9c3df940022c",
+    "name": "千葉市 千葉市議会 議員名簿",
+    "url": "https://www.city.chiba.jp/shigikai/list_kaiha_koumei.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-04-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-18df5b7598fb89f9",
+    "name": "柏市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:10",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-53e52dfd0fc7a82a",
+    "name": "千葉市 千葉市議会 議員名簿",
+    "url": "https://www.city.chiba.jp/shigikai/list_kaiha_mu.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2025-03-07",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-7efaec5c3e91ff53",
+    "name": "千葉市 千葉市議会 議員名簿",
+    "url": "https://www.city.chiba.jp/shigikai/list_kaiha_ishin.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2025-03-07",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-07faebe67bc4bdfd",
+    "name": "千葉市 千葉市：市長プロフィール",
+    "url": "https://www.city.chiba.jp/sogoseisaku/shichokoshitsu/hisho/profilekamiya.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-03-17",
+    "expected": [
+      "神谷俊一"
+    ]
+  },
+  {
+    "id": "expanded-0623755c9ba65f52",
+    "name": "銚子市 銚子市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/905",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-c6792e4255d82d12",
+    "name": "市川市 市川市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/743",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-1cce034a7fe68daf",
+    "name": "船橋市 船橋市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/744",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-39ea303dfa6d3897",
+    "name": "木更津市 木更津市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/836",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-f500262c39db9e5b",
+    "name": "袖ケ浦市 国民民主党 議員 - 千葉県",
+    "url": "https://new-kokumin.jp/member_tag/chiba",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-713d158458d1296e",
+    "name": "成田市 成田市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/780",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-db2b88f64f2a3182",
+    "name": "習志野市 習志野市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/745",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-36232d6559a680e3",
+    "name": "大多喜町 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:11",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-bd502216eb82566e",
+    "name": "流山市 流山市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/795",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-185760ae0d000b29",
+    "name": "鎌ケ谷市 鎌ケ谷市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/837",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-210769396d10051c",
+    "name": "浦安市 浦安市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/746",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-2aa8142e0bbe90a2",
+    "name": "印西市 印西市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/747",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-c635468ba5ea2e3b",
+    "name": "白井市 白井市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/748",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-138644ec62d18ac2",
+    "name": "富里市 富里市議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/849",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-c47207230d6d5353",
+    "name": "酒々井町 酒々井町議会議員選挙 （千葉 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/749",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-1efd01d3141f663c",
+    "name": "瑞穂町 令和9年統一地方選挙 第1次公認・推薦候補予定者名簿（13ページ）",
+    "url": "https://election-special.tokyo-jimin.jp/wp-content/uploads/2026/10/%E8%B3%87%E6%96%99%EF%BC%9AR9%E7%B5%B1%E4%B8%80%E5%9C%B0%E6%96%B9%E9%81%B8_%E7%AC%AC1%E6%AC%A1%E5%85%AC%E8%AA%8D%E6%8E%A8%E8%96%A6%E6%B1%BA%E5%AE%9A%E8%80%85%E4%B8%80%E8%A6%A720261013.pdf",
+    "scope": "予定者の発表資料",
+    "asof": "2026-10-13",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-c19c64abc9d46bdb",
+    "name": "千代田区 千代田区議会議員選挙 （東京 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/864",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-a1ad046600b5d995",
+    "name": "大田区 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:12",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-6865f5fffeae91e4",
+    "name": "御蔵島村 日本共産党中央委員会 地方議員検索（東京都）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%9D%B1%E4%BA%AC%E9%83%BD",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-bc0346731724bb3b",
+    "name": "西東京市 2027年統一地方選挙 公認候補予定者一覧｜国民民主党東京都連",
+    "url": "https://r9-toitsu.new-kokumin.tokyo/candidates.html",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-049a98b64bf7b886",
+    "name": "東久留米市 国民民主党 議員 - 東京都",
+    "url": "https://new-kokumin.jp/member_tag/tokyo",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-4909dd0c122eaaa8",
+    "name": "中央区 中央区議会議員選挙 （東京 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/865",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-b78fed6b6cb8dd32",
+    "name": "港区 港区議会議員選挙 （東京 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/866",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-256f8d1da3352dff",
+    "name": "港区 港区議会 議員名簿",
+    "url": "https://www.gikai.city.minato.tokyo.jp/0000002539.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-13",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-daa6a4b5901e1991",
+    "name": "新宿区 プロフィール：新宿区",
+    "url": "https://www.city.shinjuku.lg.jp/kucho/rireki.html",
+    "scope": "行政の首長紹介",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "吉住健一"
+    ]
+  },
+  {
+    "id": "expanded-a1adb7f2ff65f334",
+    "name": "新宿区 新宿区議会議員選挙 （東京 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/867",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-bed4ba181bf3531a",
+    "name": "文京区 文京区・出典付き詳細調査",
+    "url": "https://www.city.bunkyo.lg.jp/kugikai/p007041.html",
+    "scope": "行政・議会等の調査",
+    "asof": "2026-01-05",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-aa7a50e7494e2d2f",
+    "name": "大田区 大田区議会 議員名簿",
+    "url": "https://www.city.ota.tokyo.jp/gikai/shoukai/giinsyokai.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-8ec1a093fb541d51",
+    "name": "足立区 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:13",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-260ab2b5ce17e4d9",
+    "name": "杉並区 杉並区議会 議員名簿",
+    "url": "https://www.city.suginami.tokyo.jp/kugikai/s117/4101.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-19",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-bb0adefca21fa21c",
+    "name": "練馬区 練馬区議会 議員名簿",
+    "url": "https://www.city.nerima.tokyo.jp/gikai/giin/20ichiran.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-07-24",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-c7163b02a1700146",
+    "name": "日野市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:14",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-06a291879c6b3ec3",
+    "name": "江戸川区 江戸川区議会 議員名簿",
+    "url": "https://www.gikai.city.edogawa.tokyo.jp/g07_giinlist.asp?Hmode=20",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（不明（2026-11-04取得）取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-66a22ed93633247f",
+    "name": "横浜市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:15",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-37942e8f45f940ee",
+    "name": "横浜市 横浜市議会 議員名簿",
+    "url": "https://www.city.yokohama.lg.jp/shikai/giin/kaihabetsu.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-04",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-bb28b91b7f8e26d8",
+    "name": "横浜市 横浜市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/756",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-9a7c8997958e3ec8",
+    "name": "愛川町 日本共産党中央委員会 地方議員検索（神奈川県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-1c44408a78612fc6",
+    "name": "海老名市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:16",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-9f1f22f93448af7f",
+    "name": "大井町 国民民主党 議員 - 神奈川県",
+    "url": "https://new-kokumin.jp/member_tag/kanagawa",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-fa0363a42c4d4b73",
+    "name": "川崎市 川崎市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/757",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-5b44642e60bbd6a9",
+    "name": "川崎市 川崎市議会 議員名簿",
+    "url": "https://www.city.kawasaki.jp/shisei/category/40-3-4-0-0-0-0-0-0-0.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-01-20",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f53102d7de12733b",
+    "name": "川崎市 川崎市 : プロフィール",
+    "url": "https://www.city.kawasaki.jp/shisei/category/37-2-0-0-0-0-0-0-0-0.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-11-19",
+    "expected": [
+      "福田紀彦"
+    ]
+  },
+  {
+    "id": "expanded-6d62dc3a059774fe",
+    "name": "相模原市 相模原市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/758",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-2358415af7fac8e3",
+    "name": "相模原市 市長プロフィール｜相模原市",
+    "url": "https://www.city.sagamihara.kanagawa.jp/shisei/1026709/mayor/1009600.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-10-01",
+    "expected": [
+      "本村賢太郎"
+    ]
+  },
+  {
+    "id": "expanded-2d39e1532c1118a8",
+    "name": "横須賀市 横須賀市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/850",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-ec74b2eca3e47b4a",
+    "name": "平塚市 平塚市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/750",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-dd90fdde024ce3cf",
+    "name": "藤沢市 プロフィール｜藤沢市",
+    "url": "https://www.city.fujisawa.kanagawa.jp/hisho/shise/gaiyo/shicho/profile.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-05-11",
+    "expected": [
+      "鈴木恒夫"
+    ]
+  },
+  {
+    "id": "expanded-5c203837d209f23c",
+    "name": "小田原市 小田原市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/752",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-cc8d465ed2fb415f",
+    "name": "大和市 大和市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/753",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-1e7b69441f9e742d",
+    "name": "伊勢原市 伊勢原市議会議員選挙 （神奈川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/754",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-39ecc0ecf063b5d8",
+    "name": "金沢市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:17",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-d5f6eb0cc945f412",
+    "name": "葉山町 葉山町議会議員選挙 （神奈川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/807",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-5872716c403064a7",
+    "name": "刈羽村 日本共産党中央委員会 地方議員検索（新潟県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%96%B0%E6%BD%9F%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-27e9fc5150d505b7",
+    "name": "新潟市 市長プロフィール　新潟市",
+    "url": "https://www.city.niigata.lg.jp/shisei/mayor/mayor/profile.html",
+    "scope": "行政の首長紹介",
+    "asof": "2022-11-18",
+    "expected": [
+      "中原八一"
+    ]
+  },
+  {
+    "id": "expanded-904e482827a33e5d",
+    "name": "新潟市 議員名簿（会派別） 新潟市議会",
+    "url": "https://www.city.niigata.lg.jp/shigikai/index_meibo/meibo_02kaihabetsu.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-27",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-9d6503e51a11cecc",
+    "name": "胎内市 国民民主党 議員 - 新潟県",
+    "url": "https://new-kokumin.jp/member_tag/niigata",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-45b01f8fddcdea76",
+    "name": "長岡市 長岡市議会議員選挙 （新潟 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/907",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-34e89fc8bc124dfb",
+    "name": "新発田市 新発田市議会議員選挙 （新潟 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/851",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-8bad3a5a177946a8",
+    "name": "富山市 会派別議員名簿｜富山市公式ウェブサイト",
+    "url": "https://www.city.toyama.lg.jp/gikai/giinmeibo/1007104.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-03-11",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-0c8b2d8088bf1f5e",
+    "name": "富山市 国民民主党 議員 - 富山県",
+    "url": "https://new-kokumin.jp/member_tag/toyama",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-81d0c2c11c3e155f",
+    "name": "富山市 プロフィール｜富山市公式ウェブサイト",
+    "url": "https://www.city.toyama.lg.jp/shisei/mayor/1010721/1002549.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-04-21",
+    "expected": [
+      "藤井裕久"
+    ]
+  },
+  {
+    "id": "expanded-1eac10c9ab6bd14d",
+    "name": "朝日町 日本共産党中央委員会 地方議員検索（富山県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%AF%8C%E5%B1%B1%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-d14ec33d963f0a3c",
+    "name": "金沢市 金沢市議会議員選挙 （石川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/804",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-c390bde198ac01a0",
+    "name": "金沢市 議員名簿(会派等別)／金沢市公式ホームページ いいね金沢",
+    "url": "https://www4.city.kanazawa.lg.jp/soshikikarasagasu/gikaijimukyokugijichosaka/gyomuannai/1/5/3800.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-04-08",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-8bd1ebdc8a7d64ab",
+    "name": "飯田市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:18",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-a8262cae34a3e2ea",
+    "name": "志賀町 日本共産党中央委員会 地方議員検索（石川県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%9F%B3%E5%B7%9D%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-7a20cd5de99582cb",
+    "name": "金沢市 市長プロフィール／金沢市公式ホームページ いいね金沢",
+    "url": "https://www4.city.kanazawa.lg.jp/soshikikarasagasu/kohokochoka/gyomuannai/9/4878.html",
+    "scope": "行政の首長紹介",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "村山卓"
+    ]
+  },
+  {
+    "id": "expanded-e0c81a6613853538",
+    "name": "宝達志水町 国民民主党 議員 - 石川県",
+    "url": "https://new-kokumin.jp/member_tag/ishikawa",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-fc68fc516172ea21",
+    "name": "津幡町 津幡町議会議員選挙 （石川27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/805",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-8ffedfc6a53a11c8",
+    "name": "内灘町 内灘町議会議員選挙 （石川 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/806",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-8db6c0ed926a5211",
+    "name": "福井市 議員名簿",
+    "url": "https://www.city.fukui.lg.jp/sisei/gikai/giin/p020856.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-25",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e52355e89db9989b",
+    "name": "高浜町 国民民主党 議員 - 福井県",
+    "url": "https://new-kokumin.jp/member_tag/fukui",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-b037181511c8101a",
+    "name": "若狭町 日本共産党中央委員会 地方議員検索（福井県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%A6%8F%E4%BA%95%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-61f7fdf30e5862f6",
+    "name": "福井市 プロフィール",
+    "url": "https://www.city.fukui.lg.jp/fukuisi/mayor/profile/p026577.html",
+    "scope": "行政の首長紹介",
+    "asof": "2024-02-01",
+    "expected": [
+      "西行茂"
+    ]
+  },
+  {
+    "id": "expanded-ddd37e969f1c27f7",
+    "name": "富士河口湖町 日本共産党中央委員会 地方議員検索（山梨県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B1%B1%E6%A2%A8%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-edf837000c8696b5",
+    "name": "富士吉田市 市長のプロフィール - 富士吉田市公式ホームページ（秘書課）",
+    "url": "https://www.city.fujiyoshida.yamanashi.jp/page/2170.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-01-06",
+    "expected": [
+      "堀内茂"
+    ]
+  },
+  {
+    "id": "expanded-cbf173b38005bfab",
+    "name": "韮崎市 国民民主党 議員 - 山梨県",
+    "url": "https://new-kokumin.jp/member_tag/yamanashi",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-05059bb3984eb66a",
+    "name": "長野市 議員名簿 - 長野市公式ホームページ",
+    "url": "https://www.city.nagano.nagano.jp/n440500/shigikai/p005267.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f4b9ce1b7eba5d7f",
+    "name": "栄村 日本共産党中央委員会 地方議員検索（長野県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%95%B7%E9%87%8E%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-ede66398f1b5971d",
+    "name": "長野市 市長プロフィール - 長野市公式ホームページ",
+    "url": "https://www.city.nagano.nagano.jp/n040500/mayor/p004094.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-02-04",
+    "expected": [
+      "荻原健司"
+    ]
+  },
+  {
+    "id": "expanded-827132b517857fc8",
+    "name": "松本市 議員名簿 - 松本市ホームページ",
+    "url": "https://www.city.matsumoto.nagano.jp/site/gikai/6162.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-05-15",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-5608b9cd8c237b67",
+    "name": "飯綱町 国民民主党 議員 - 長野県",
+    "url": "https://new-kokumin.jp/member_tag/nagano",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e4a695c4c76edabc",
+    "name": "坂祝町 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:19",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-60dd99055adb944b",
+    "name": "岐阜市 岐阜市議会議員選挙 （岐阜 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/725",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-48fce308e2090b66",
+    "name": "坂祝町 日本共産党中央委員会 地方議員検索（岐阜県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B2%90%E9%98%9C%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-bedbbe4061330dfa",
+    "name": "岐阜市 市長のプロフィール｜岐阜市公式ホームページ-Gifu city",
+    "url": "https://www.city.gifu.lg.jp/info/sichounoheya/1006212.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-03-17",
+    "expected": [
+      "柴橋正直"
+    ]
+  },
+  {
+    "id": "expanded-26b857f9ffab0a5f",
+    "name": "各務原市 国民民主党 議員 - 岐阜県",
+    "url": "https://new-kokumin.jp/member_tag/gifu",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-08a653012089b397",
+    "name": "羽島市 羽島市議会議員選挙 （岐阜 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/726",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-00f21dade32dee65",
+    "name": "名古屋市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:20",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-df57a0f7bae0e6e6",
+    "name": "静岡市 議員名簿（50音順）：静岡市公式ホームページ",
+    "url": "https://www.city.shizuoka.lg.jp/gikai/s900078.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-02",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-2cdec3fbbcc36cae",
+    "name": "森町 日本共産党中央委員会 地方議員検索（静岡県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%9D%99%E5%B2%A1%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-92dd5c5c1bd9c792",
+    "name": "森町 国民民主党 議員 - 静岡県",
+    "url": "https://new-kokumin.jp/member_tag/shizuoka",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-3ef09d8f81423d91",
+    "name": "静岡市 市長のプロフィール／静岡市公式ホームページ",
+    "url": "https://www.city.shizuoka.lg.jp/s6543/s006653.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-04-13",
+    "expected": [
+      "難波喬司"
+    ]
+  },
+  {
+    "id": "expanded-fb45ff0b9a539cc8",
+    "name": "浜松市 議員名簿（50音順）／浜松市",
+    "url": "https://www.city.hamamatsu.shizuoka.jp/gikai/iinkai/meibo50.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-01-20",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-9cf0c5aeb6586a97",
+    "name": "名古屋市 会派別議員名簿｜名古屋市公式ウェブサイト",
+    "url": "https://www.city.nagoya.jp/shikai/about/1030778/1030799.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-05-21",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-79a5b2d50a78c0e9",
+    "name": "名古屋市 名古屋市議会議員選挙 （愛知 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/828",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-43729c9d19885276",
+    "name": "東栄町 日本共産党中央委員会 地方議員検索（愛知県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%84%9B%E7%9F%A5%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f78eb7ea260e997d",
+    "name": "東浦町 国民民主党 議員 - 愛知県",
+    "url": "https://new-kokumin.jp/member_tag/aichi",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-9b65d136d598f5a6",
+    "name": "田原市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:21",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-5a84f81bb739dce1",
+    "name": "名古屋市 プロフィール｜名古屋市公式ウェブサイト",
+    "url": "https://www.city.nagoya.jp/mayor/1002561.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-10-16",
+    "expected": [
+      "広沢一郎"
+    ]
+  },
+  {
+    "id": "expanded-fc46e25744da30a8",
+    "name": "豊橋市 豊橋市議会議員名簿（会派別）/豊橋市議会",
+    "url": "https://www.city.toyohashi.lg.jp/item/9866.htm",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-07-16",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-508a4d20c33f5ec3",
+    "name": "岡崎市 議員名簿（会派別）（令和7年11月14日現在）｜岡崎市公式ホームページ",
+    "url": "https://www.city.okazaki.lg.jp/shigikai/meibo/1009848.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2025-11-14",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-43ce1e719ea2549a",
+    "name": "一宮市 一宮市議会議員選挙 （愛知 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/829",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-c24f93880241a9cf",
+    "name": "春日井市 第21期市議会議員 名簿 ｜春日井市公式ホームページ",
+    "url": "https://www.city.kasugai.lg.jp/shisei/shigikai/giinmeibo.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-04-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-d75f4f3ebd676fd7",
+    "name": "春日井市 春日井市議会議員選挙 （愛知 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/830",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-31473ad3c8ea19dc",
+    "name": "津島市 津島市議会議員選挙 （愛知 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/831",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-d3350988ddae7c51",
+    "name": "豊田市 50音別名簿 | 豊田市議会",
+    "url": "https://www.toyota-shigikai.jp/lawmaker.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e2b78b8139c54e8f",
+    "name": "常滑市 常滑市議会議員選挙 （愛知 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/832",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-92447db53051e253",
+    "name": "江南市 江南市議会議員選挙 （愛知 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/859",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-d8c3658e675a74f6",
+    "name": "豊明市 豊明市議会議員選挙 （愛知 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/833",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-0b38e3c88884c1ce",
+    "name": "近江八幡市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:22",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-dffd048de6bab2fe",
+    "name": "長久手市 長久手市議会議員選挙 （愛知 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/834",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-fdd97a60e125b98f",
+    "name": "蟹江町 蟹江町議会議員選挙 （愛知 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/835",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-a4184fb15dc7d1eb",
+    "name": "阿久比町 阿久比町議会議員選挙 （愛知 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/914",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-bfa12faa8a22209c",
+    "name": "紀宝町 日本共産党中央委員会 地方議員検索（三重県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E4%B8%89%E9%87%8D%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-0a528499f999f48f",
+    "name": "菰野町 国民民主党 議員 - 三重県",
+    "url": "https://new-kokumin.jp/member_tag/mie",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-9c7212b54856d983",
+    "name": "津市 市長プロフィール｜津市公式ウェブサイト－Official Website of Tsu City",
+    "url": "https://www.info.city.tsu.mie.jp/shisei/shichounoheya/1009968/1005495/1005496.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-11-28",
+    "expected": [
+      "前葉泰幸"
+    ]
+  },
+  {
+    "id": "expanded-e53b0b06d9a5eb1f",
+    "name": "大津市 大津市議会議員選挙 - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/916",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-40e33949da9c607b",
+    "name": "大津市 議員名簿（写真入り）／大津市",
+    "url": "https://www.city.otsu.lg.jp/gikai/giin/1430447099023.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-13",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e8bb2ef6e756da1f",
+    "name": "大津市 大津市長のプロフィール／大津市",
+    "url": "https://www.city.otsu.lg.jp/soshiki/001/1002/g/otsumayor/30445.html",
+    "scope": "行政の首長紹介",
+    "asof": "2024-02-01",
+    "expected": [
+      "佐藤健司"
+    ]
+  },
+  {
+    "id": "expanded-554a5043fd31f680",
+    "name": "甲賀市 国民民主党 議員 - 滋賀県",
+    "url": "https://new-kokumin.jp/member_tag/shiga",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-bebe74112e6031dd",
+    "name": "多賀町 日本共産党中央委員会 地方議員検索（滋賀県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%BB%8B%E8%B3%80%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-39e3201977ea3340",
+    "name": "草津市 草津市議会議員名簿｜草津市",
+    "url": "https://www.city.kusatsu.shiga.jp/shigikai/shoukai/giin.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-09",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-52a1180a95b07ee6",
+    "name": "京丹波町 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:23",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-72bc8af8bc821aca",
+    "name": "京都市 五十音順｜京都市会",
+    "url": "https://www2.city.kyoto.lg.jp/shikai/meibo/gojuon.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-02-18",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-9b4f20790d66559a",
+    "name": "与謝野町 日本共産党中央委員会 地方議員検索（京都府）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E4%BA%AC%E9%83%BD%E5%BA%9C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-eab6be19d777dc92",
+    "name": "京田辺市 国民民主党 議員 - 京都府",
+    "url": "https://new-kokumin.jp/member_tag/kyoto",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-88dba48b1fe6debd",
+    "name": "京都市 京都市議会議員選挙 （京都 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/787",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-1377babe150c8f05",
+    "name": "京都市 京都市：京都市長のページ　　市長プロフィール",
+    "url": "https://www.city.kyoto.lg.jp/sogo/page/0000032585.html",
+    "scope": "行政の首長紹介",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "松井孝治"
+    ]
+  },
+  {
+    "id": "expanded-43b7720501667ca6",
+    "name": "八幡市 八幡市議会議員選挙（京都 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/789",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-d2a1615264389791",
+    "name": "大阪市 大阪市大阪市会：大阪維新の会大阪市会議員団（42人） （議員名簿）",
+    "url": "https://www.city.osaka.lg.jp/shikai/page/0000077823.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-a29f99abd2891c38",
+    "name": "大阪市 大阪市大阪市会：公明党大阪市会議員団（17人） （議員名簿）",
+    "url": "https://www.city.osaka.lg.jp/shikai/page/0000002276.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-0f3862efdaf41cd2",
+    "name": "貝塚市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:24",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-1d7a14213d03a20b",
+    "name": "千早赤阪村 日本共産党中央委員会 地方議員検索（大阪府）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%A4%A7%E9%98%AA%E5%BA%9C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-1a7c5924dcb615e7",
+    "name": "大阪市 大阪市大阪市会：日本共産党大阪市会議員団（2人） （議員名簿）",
+    "url": "https://www.city.osaka.lg.jp/shikai/page/0000002279.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-44a2012fcc86a100",
+    "name": "大阪市 大阪市大阪市会：総活躍社会実現の会大阪市会議員団（1人） （議員名簿）",
+    "url": "https://www.city.osaka.lg.jp/shikai/page/0000671345.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-984b60227a8e3b2c",
+    "name": "大阪市 大阪市大阪市会：自由民主党・市民クラブ大阪市会議員団（10人） （議員名簿）",
+    "url": "https://www.city.osaka.lg.jp/shikai/page/0000002274.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-87da5a3c4005678c",
+    "name": "大阪市 大阪市大阪市会：自由民主党・国民民主党・市民とつながる・くらしが第一大阪市会議員団（5人） （議員名簿）",
+    "url": "https://www.city.osaka.lg.jp/shikai/page/0000512977.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-cc02525db771f46b",
+    "name": "大阪市 大阪市大阪市会：福島クラブ大阪市会議員団（1人） （議員名簿）",
+    "url": "https://www.city.osaka.lg.jp/shikai/page/0000651789.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-5967aab523efb949",
+    "name": "大阪市 大阪市大阪市会：大阪平野大阪市会議員団（1人） （議員名簿）",
+    "url": "https://www.city.osaka.lg.jp/shikai/page/0000671341.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-a2b51a86de47f7b6",
+    "name": "大阪市 大阪市：市長プロフィール （…>大阪市長　横山 英幸>プロフィール）",
+    "url": "https://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000013641.html",
+    "scope": "行政の首長紹介",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "横山英幸"
+    ]
+  },
+  {
+    "id": "expanded-fae3ebf5129dfcd9",
+    "name": "大阪市 大阪市大阪市会：無所属大阪市会議員団（1人） （議員名簿）",
+    "url": "https://www.city.osaka.lg.jp/shikai/page/0000637343.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f066db2a36d0f43f",
+    "name": "熊取町 国民民主党 議員 - 大阪府",
+    "url": "https://new-kokumin.jp/member_tag/osaka",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-793b8d18bd2950ff",
+    "name": "大阪市 大阪市大阪市会：大阪にし大阪市会議員団（1人） （議員名簿）",
+    "url": "https://www.city.osaka.lg.jp/shikai/page/0000647837.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-51c26510df51c966",
+    "name": "堺市 五十音順 堺市",
+    "url": "https://www.city.sakai.lg.jp/shigikai/meibo/50on.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-05-20",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f46ce8a1b419c9ae",
+    "name": "堺市 堺市議会議員選挙 （大阪府 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/808",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-4bf695b425888801",
+    "name": "堺市 市長プロフィール　堺市",
+    "url": "https://www.city.sakai.lg.jp/shicho_heya/shichopr.html",
+    "scope": "行政の首長紹介",
+    "asof": "2023-08-24",
+    "expected": [
+      "永藤英機"
+    ]
+  },
+  {
+    "id": "expanded-18c2403d342bef78",
+    "name": "豊中市 市議会議員名簿 豊中市",
+    "url": "https://www.city.toyonaka.osaka.jp/shigikai/giinsyokai/giin/index.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-3e7575c1dc23f606",
+    "name": "豊中市 豊中市議会議員選挙（大阪 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/790",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-dbe70d51931b6988",
+    "name": "吹田市 吹田市議会議員選挙（大阪 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/791",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-3dab34b06385a659",
+    "name": "吹田市 議席番号順｜吹田市公式ウェブサイト",
+    "url": "https://www.city.suita.osaka.jp/shigikai/1017062/1012849.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-30",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-bc5062a22b703ddb",
+    "name": "泉大津市 泉大津市議会議員選挙 （大阪 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/729",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-0b11bd0ba1720b3a",
+    "name": "高槻市 議員名簿(「あ行」から「た行」) - 高槻市議会 - 高槻市ホームページ（議会事務局）",
+    "url": "https://www.city.takatsuki.osaka.jp/site/takatsukishigikai/1016.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-14",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-b236659336da3320",
+    "name": "高槻市 高槻市議会議員選挙（大阪 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/792",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-f070580b89e5723c",
+    "name": "高槻市 議員名簿(「な行」から「わ行」) - 高槻市議会 - 高槻市ホームページ（議会事務局）",
+    "url": "https://www.city.takatsuki.osaka.jp/site/takatsukishigikai/1017.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-01-13",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-ee46bd52a9a4798e",
+    "name": "高石市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:25",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-47ab783b200f1995",
+    "name": "貝塚市 貝塚市議会議員選挙 （大阪 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/730",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-2bae59d1b5ea8a9a",
+    "name": "枚方市 議員名簿 | 枚方市ホームページ",
+    "url": "https://www.city.hirakata.osaka.jp/0000000172.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-4bb226dcb624ad33",
+    "name": "枚方市 枚方市議会議員選挙 （大阪 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/809",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-57bb8447637ed52f",
+    "name": "八尾市 八尾市議会議員選挙 （大阪 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/810",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-5f34e4b1c4f8c602",
+    "name": "寝屋川市 寝屋川市議会議員選挙 （大阪 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/731",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-cccf256e89370ed4",
+    "name": "高石市 高石市議会議員選挙 （大阪 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/793",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-54cbf891fdbb1490",
+    "name": "尼崎市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:26",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-fc95e93ce9f6c406",
+    "name": "岬町 岬町議会議員選挙 （大阪 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/794",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-26cce13a6d832bd5",
+    "name": "神戸市 神戸市：神戸市会 50音順の議員名簿",
+    "url": "https://www.city.kobe.lg.jp/a71064/shise/municipal/giinnmeibo/50onmeibo.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-08-04",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-c80b759a8ccdf0b6",
+    "name": "神戸市 神戸市議会議員選挙 （兵庫 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/765",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-28f9f4addf0bf131",
+    "name": "神戸市 神戸市：市長の部屋へようこそ",
+    "url": "https://www.city.kobe.lg.jp/a24533/shise/shichoshitsu/index.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-07-02",
+    "expected": [
+      "久元喜造"
+    ]
+  },
+  {
+    "id": "expanded-dccf4260e30c00a4",
+    "name": "新温泉町 日本共産党中央委員会 地方議員検索（兵庫県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%85%B5%E5%BA%AB%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-78dd5664ceb2b18b",
+    "name": "猪名川町 国民民主党 議員 - 兵庫県",
+    "url": "https://new-kokumin.jp/member_tag/hyogo",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-b427ec3be04329c0",
+    "name": "姫路市 市議会議員名簿（議席順） | 姫路市",
+    "url": "https://www.city.himeji.lg.jp/shisei/0000007766.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-29",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f8b0944117a4ce82",
+    "name": "たつの市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:27",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-49d2d8c223047cfa",
+    "name": "西宮市 西宮市議会議員選挙 （兵庫 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/766",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-ccefaa951ebf1e3b",
+    "name": "伊丹市 伊丹市議会議員選挙 （兵庫 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/767",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-624fbd8ad0b0c3da",
+    "name": "宝塚市 宝塚市議会議員選挙 （兵庫 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/908",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-df346bd16e31bd0b",
+    "name": "新宮市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:28",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e3b27cb7752658c8",
+    "name": "奈良市 議員名簿（議席順） - 奈良市議会 - 奈良市ホームページ（議会事務局）",
+    "url": "https://www.city.nara.lg.jp/site/narasigikai/115225.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-06-29",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-377d90f6f3fcc8a0",
+    "name": "奈良市 市長のプロフィール - 市長の部屋 - 奈良市ホームページ（秘書課）",
+    "url": "https://www.city.nara.lg.jp/site/mayor-room/117881.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-07-31",
+    "expected": [
+      "仲川げん"
+    ]
+  },
+  {
+    "id": "expanded-44d99e67612fb074",
+    "name": "高取町 国民民主党 議員 - 奈良県",
+    "url": "https://new-kokumin.jp/member_tag/nara",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-565ef1680d15b092",
+    "name": "川上村 日本共産党中央委員会 地方議員検索（奈良県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%A5%88%E8%89%AF%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-d75c9e29cfee1735",
+    "name": "天理市 天理市議会議員選挙 （奈良 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/760",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-f52501e42e872259",
+    "name": "生駒市 生駒市議会議員選挙 （奈良 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/761",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-0a6e7662b0179347",
+    "name": "串本町 日本共産党中央委員会 地方議員検索（和歌山県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-36a94c3d99b6b912",
+    "name": "和歌山市 市長プロフィール｜和歌山市",
+    "url": "https://www.city.wakayama.wakayama.jp/1009555/1002823.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-09-04",
+    "expected": [
+      "尾崎太郎"
+    ]
+  },
+  {
+    "id": "expanded-54f5698dbd3de771",
+    "name": "和歌山市 国民民主党 議員 - 和歌山県",
+    "url": "https://new-kokumin.jp/member_tag/wakayama",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-83881c950dd43bfe",
+    "name": "玉野市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:29",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-3c703cf08c50068a",
+    "name": "鳥取市 鳥取市議会 公式議員名簿",
+    "url": "https://www.city.tottori.lg.jp/site/shigikai/6355.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-08-24",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-b6ff13f804354e2e",
+    "name": "日野町 日本共産党中央委員会 地方議員検索（鳥取県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%B3%A5%E5%8F%96%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-658d210d9c13af13",
+    "name": "鳥取市 市長室 - 鳥取市公式ウェブサイト",
+    "url": "https://www.city.tottori.lg.jp/site/mayor/",
+    "scope": "行政の首長紹介",
+    "asof": "2026-03-01",
+    "expected": [
+      "深澤義彦"
+    ]
+  },
+  {
+    "id": "expanded-c264a27e9e9fed29",
+    "name": "隠岐の島町 日本共産党中央委員会 地方議員検索（島根県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B3%B6%E6%A0%B9%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-7c71c49cd4e32880",
+    "name": "松江市 松江市長プロフィール／松江市ホームページ",
+    "url": "https://www.city.matsue.lg.jp/gyoseijoho/WEB_shichoshitsu/9917.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-04-28",
+    "expected": [
+      "上定昭仁"
+    ]
+  },
+  {
+    "id": "expanded-a15b9ccf0afe1a5c",
+    "name": "奥出雲町 国民民主党 議員 - 島根県",
+    "url": "https://new-kokumin.jp/member_tag/shimane",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-5a9c21cd618f1f69",
+    "name": "吉備中央町 日本共産党中央委員会 地方議員検索（岡山県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B2%A1%E5%B1%B1%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-43a1a8dbfc5cbad5",
+    "name": "岡山市 岡山市議会 公式議員名簿",
+    "url": "https://www.city.okayama.jp/gikai/0000015787.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2025-10-06",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e58ffbbd9bf1c272",
+    "name": "岡山市 市長・副市長紹介 | 岡山市",
+    "url": "https://www.city.okayama.jp/0000069245.html",
+    "scope": "行政の首長紹介",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "大森雅夫"
+    ]
+  },
+  {
+    "id": "expanded-e9845364a86368ff",
+    "name": "岡山市 岡山市議会議員選挙 （岡山 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/954",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-85413b02c1de6d7e",
+    "name": "総社市 国民民主党 議員 - 岡山県",
+    "url": "https://new-kokumin.jp/member_tag/okayama",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-aaff12487ebf1ba6",
+    "name": "倉敷市 倉敷市議会 公式議員名簿",
+    "url": "https://www.city.kurashiki.okayama.jp/cityinfo/assembly/1008324/1008325.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-08",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-ed7b614896e60aff",
+    "name": "津山市 津山市議会議員選挙 （岡山 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/919",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-8582fda1c73b8f08",
+    "name": "神石高原町 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:30",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-d9a9b4fc165daa9c",
+    "name": "広島市 広島市議会 公式議員名簿",
+    "url": "https://www.city.hiroshima.lg.jp/gikai/giin-shoukai/1010261.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-06-11",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-0abbc78bf1076c7c",
+    "name": "世羅町 日本共産党中央委員会 地方議員検索（広島県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%BA%83%E5%B3%B6%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-34cb257669967d67",
+    "name": "広島市 国民民主党 議員 - 広島県",
+    "url": "https://new-kokumin.jp/member_tag/hiroshima",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-fc59c10c976b498c",
+    "name": "広島市 市長のプロフィール｜広島市公式ウェブサイト",
+    "url": "https://www.city.hiroshima.lg.jp/mayor/1008575.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-02-16",
+    "expected": [
+      "松井一實"
+    ]
+  },
+  {
+    "id": "expanded-f66d74ebb5ec3647",
+    "name": "呉市 呉市議会 公式議員名簿",
+    "url": "https://www.city.kure.lg.jp/site/gikai/giinmeibo.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-16",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-a337197f8efd853c",
+    "name": "福山市 福山市議会 公式議員名簿",
+    "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/gikaisyomu/94812.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-06-05",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-14aa7e02ffdb18e4",
+    "name": "東広島市 東広島市議会 公式議員名簿",
+    "url": "https://www.city.higashihiroshima.lg.jp/shgikai/3/2860.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-01-23",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-bd8e1383964789be",
+    "name": "多度津町 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:31",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-0bb284b9e05651f6",
+    "name": "阿武町 日本共産党中央委員会 地方議員検索（山口県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%B1%B1%E5%8F%A3%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-986d12b55938814b",
+    "name": "宇部市 宇部市議会 公式議員名簿",
+    "url": "https://www.city.ube.yamaguchi.jp/shisei/1006704/giin/1006713.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-29",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-650d6fd9469c230c",
+    "name": "山口市 山口市議会 公式議員名簿",
+    "url": "https://www.city.yamaguchi.lg.jp/site/gikai/114504.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-05-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f293ab8d8b281099",
+    "name": "山口市 市長プロフィール - 山口市ウェブサイト",
+    "url": "https://www.city.yamaguchi.lg.jp/site/shicho/5977.html",
+    "scope": "行政の首長紹介",
+    "asof": "2021-11-13",
+    "expected": [
+      "伊藤和貴"
+    ]
+  },
+  {
+    "id": "expanded-faaee849608309cf",
+    "name": "周南市 国民民主党 議員 - 山口県",
+    "url": "https://new-kokumin.jp/member_tag/yamaguchi",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-dba8b9085554e906",
+    "name": "周南市 周南市議会 公式議員名簿",
+    "url": "https://www.city.shunan.lg.jp/site/gk/21127.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-09-03",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-d01654cade96939b",
+    "name": "上板町 日本共産党中央委員会 地方議員検索（徳島県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%BE%B3%E5%B3%B6%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-b18799d4b50a5cec",
+    "name": "徳島市 徳島市議会 公式議員名簿",
+    "url": "https://www.city.tokushima.tokushima.jp/shigikai/giin_meibo/member.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-19",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-5f27c5608f4105eb",
+    "name": "徳島市 遠藤市長のプロフィール：徳島市公式ウェブサイト",
+    "url": "https://www.city.tokushima.tokushima.jp/smph/shisei/mayor/mayor_profile.html",
+    "scope": "行政の首長紹介",
+    "asof": "2024-04-18",
+    "expected": [
+      "遠藤彰良"
+    ]
+  },
+  {
+    "id": "expanded-1c1ed70933225a30",
+    "name": "那賀町 国民民主党 議員 - 徳島県",
+    "url": "https://new-kokumin.jp/member_tag/tokushima",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-79a62f5a191f8561",
+    "name": "高松市 高松市議会 公式議員名簿",
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/shigikai/about/giin/shokai.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-05-13",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-d4c6ea0eda579d67",
+    "name": "まんのう町 国民民主党 議員 - 香川県",
+    "url": "https://new-kokumin.jp/member_tag/kagawa",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-ea5dd619d64877ad",
+    "name": "高松市 市長のプロフィール｜高松市",
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/shichoushitsu/sicho_up20180823.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-03-24",
+    "expected": [
+      "大西秀人"
+    ]
+  },
+  {
+    "id": "expanded-b7664c309684f366",
+    "name": "綾川町 日本共産党中央委員会 地方議員検索（香川県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%A6%99%E5%B7%9D%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-837d635838ac6350",
+    "name": "大月町 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:32",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-2803e2cf261c0cac",
+    "name": "松山市 松山市議会 公式議員名簿",
+    "url": "https://www.city.matsuyama.ehime.jp/shigikai/syoukai/syoukai.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-30",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-d90b1e846507a714",
+    "name": "上島町 国民民主党 議員 - 愛媛県",
+    "url": "https://new-kokumin.jp/member_tag/ehime",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-a65865e8b489b4af",
+    "name": "砥部町 日本共産党中央委員会 地方議員検索（愛媛県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%84%9B%E5%AA%9B%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e0df487638b959ce",
+    "name": "松山市 野志克仁（のし　かつひと）市長　松山市公式ホームページ PCサイト",
+    "url": "https://www.city.matsuyama.ehime.jp/shicho/profile/noshi.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-10-28",
+    "expected": [
+      "野志克仁"
+    ]
+  },
+  {
+    "id": "expanded-f7d1d30e2ab94d37",
+    "name": "今治市 今治市議会 公式議員名簿",
+    "url": "https://www.city.imabari.ehime.jp/gikai/meibo/kaiha.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-22",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-93d72a05ffebf2f3",
+    "name": "黒潮町 日本共産党中央委員会 地方議員検索（高知県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%AB%98%E7%9F%A5%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-eae190e6abb1e656",
+    "name": "高知市 高知市議会 公式議員名簿",
+    "url": "https://www.city.kochi.kochi.jp/soshiki/97/meibo.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-06-15",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-82f1a246c3e51a79",
+    "name": "高知市 市長プロフィール - 高知市ホームページ（秘書課）",
+    "url": "https://www.city.kochi.kochi.jp/soshiki/174/puro.html",
+    "scope": "行政の首長紹介",
+    "asof": "2023-11-30",
+    "expected": [
+      "桑名龍吾"
+    ]
+  },
+  {
+    "id": "expanded-71d897934d16ecec",
+    "name": "越知町 国民民主党 議員 - 高知県",
+    "url": "https://new-kokumin.jp/member_tag/kochi",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-2aec42bfd014981a",
+    "name": "築上町 日本共産党中央委員会 地方議員検索（福岡県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%A6%8F%E5%B2%A1%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-5cb608a3b1a86a75",
+    "name": "北九州市 北九州市議会 公式議員名簿",
+    "url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0056.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-02-02",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-b968b87161091fda",
+    "name": "宮若市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:33",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-1e8b19c5c76410cc",
+    "name": "志免町 国民民主党 議員 - 福岡県",
+    "url": "https://new-kokumin.jp/member_tag/fukuoka",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-5bd902361da04cba",
+    "name": "福岡市 福岡市議会 公式議員名簿",
+    "url": "https://gikai.city.fukuoka.lg.jp/member/alphabet",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-a7a0f7718084f4cf",
+    "name": "福岡市 福岡市議会議員選挙 （福岡 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/738",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-7013a2c8f0257945",
+    "name": "福智町 2027年統一地方選挙公認状況（2026年9月24日現在）",
+    "url": "https://komei-fukuoka.jp/news/xz4n74n_u/",
+    "scope": "予定者の発表資料",
+    "asof": "2026-09-24",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-22d1592d0323d958",
+    "name": "福岡市 福岡市 市長のオフィス",
+    "url": "https://www.city.fukuoka.lg.jp/shisei/mayor/",
+    "scope": "行政の首長紹介",
+    "asof": "2026-09-02",
+    "expected": [
+      "高島宗一郎"
+    ]
+  },
+  {
+    "id": "expanded-91e20e72c1dd62c7",
+    "name": "大牟田市 大牟田市議会議員選挙 - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/915",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-4891339fd19ecdf5",
+    "name": "久留米市 久留米市議会 公式議員名簿",
+    "url": "https://www.city.kurume.fukuoka.jp/1100keikaku/2040shigikai/3020meibo/2019-0509-1504-175t1.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-be6a47d092d897a7",
+    "name": "久留米市 久留米市議会議員選挙 （福岡 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/838",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-f0ee87366f043a9b",
+    "name": "飯塚市 飯塚市議会議員選挙 （福岡 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/781",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-3efc0585c660c3fe",
+    "name": "筑紫野市 筑紫野市議会議員選挙 （福岡 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/839",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-8bf2e01f86c49432",
+    "name": "大野城市 大野城市議会議員選挙 （福岡 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/840",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-db101ae24b80a9ff",
+    "name": "嘉麻市 嘉麻市議会議員選挙 （福岡 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/782",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-faec00d953763daf",
+    "name": "雲仙市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:34",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-7cbb2d424e8813df",
+    "name": "篠栗町 篠栗町議会議員選挙 （福岡 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/732",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-05fe3f6033cdfcab",
+    "name": "佐賀市 佐賀市議会 公式議員名簿",
+    "url": "https://sagashi-gikai.gijiroku.com/g07_giinlist_s.asp",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-a75f73cb58af884d",
+    "name": "佐賀市 プロフィール／佐賀市公式ホームページ",
+    "url": "https://www.city.saga.lg.jp/shisei/shichonoheya/1/4540.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-06-01",
+    "expected": [
+      "坂井英隆"
+    ]
+  },
+  {
+    "id": "expanded-83e9eed880955ed8",
+    "name": "白石町 日本共産党中央委員会 地方議員検索（佐賀県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E4%BD%90%E8%B3%80%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-5bfcfc00ced3f5c0",
+    "name": "佐賀市 国民民主党 議員 - 佐賀県",
+    "url": "https://new-kokumin.jp/member_tag/saga",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-33d51b78dc8fe481",
+    "name": "長崎市 長崎市議会 公式議員名簿",
+    "url": "https://www.city.nagasaki.lg.jp/site/gikai/6773.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-08-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-cd2a569eb48843c7",
+    "name": "時津町 国民民主党 議員 - 長崎県",
+    "url": "https://new-kokumin.jp/member_tag/nagasaki",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-31aee351fc9101f3",
+    "name": "佐々町 日本共産党中央委員会 地方議員検索（長崎県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%95%B7%E5%B4%8E%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-9289d9427d1fbe41",
+    "name": "長崎市 長崎市議会議員選挙 （長崎 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/720",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-cf66d5fd02dbef79",
+    "name": "長崎市 ようこそ、市長の部屋へ - 市長の部屋 - 長崎市ウェブサイト（秘書課）",
+    "url": "https://www.city.nagasaki.lg.jp/site/mayor/44493.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-03-04",
+    "expected": [
+      "鈴木史朗"
+    ]
+  },
+  {
+    "id": "expanded-07d6430d72aaaa18",
+    "name": "佐世保市 佐世保市議会 公式議員名簿",
+    "url": "https://www.city.sasebo.lg.jp/gikai/gikai/ginshokai/listgiin.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-07-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-f439e680f6f76472",
+    "name": "日南市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:35",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-e019ba81ce8aa699",
+    "name": "長与町 長与町議会議員選挙 （長崎27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/768",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-500aae82c0473e2e",
+    "name": "多良木町 日本共産党中央委員会 地方議員検索（熊本県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E7%86%8A%E6%9C%AC%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-252ca5373ff18ad5",
+    "name": "熊本市 熊本市議会 公式議員名簿",
+    "url": "https://kumamoto-shigikai.jp/kihon/pub/default.aspx?c_id=3",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-38fdabd9e2bb6f8b",
+    "name": "熊本市 熊本市議会議員選挙 （熊本 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/763",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-7a4609d780e18268",
+    "name": "熊本市 市長のプロフィール / 市長室TOP / 熊本市公式サイト",
+    "url": "https://www.city.kumamoto.jp/sicho/kiji0037065/",
+    "scope": "行政の首長紹介",
+    "asof": "2022-12-03",
+    "expected": [
+      "大西一史"
+    ]
+  },
+  {
+    "id": "expanded-89a25e19c31ce7eb",
+    "name": "長洲町 国民民主党 議員 - 熊本県",
+    "url": "https://new-kokumin.jp/member_tag/kumamoto",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-d9c446c09cc0f1fa",
+    "name": "菊陽町 菊陽町議会議員選挙 （熊本 27統一） - 立憲民主党",
+    "url": "https://cdp-japan.jp/election/852",
+    "scope": "予定者の発表資料",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "公認",
+      "推薦",
+      "候補"
+    ]
+  },
+  {
+    "id": "expanded-8b66bcd776bc802a",
+    "name": "国東市 日本共産党中央委員会 地方議員検索（大分県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%A4%A7%E5%88%86%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-72a102f3d9729548",
+    "name": "大分市 大分市議会 公式議員名簿",
+    "url": "https://www.city.oita.oita.jp/o185/shigikai/shokai/202103kaomeibo.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2025-12-03",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-55dd07aec98219a3",
+    "name": "大分市 大分市／プロフィール",
+    "url": "https://www.city.oita.oita.jp/o014/shisejoho/shichoshitsu/profile/20230424.html",
+    "scope": "行政の首長紹介",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "足立信也"
+    ]
+  },
+  {
+    "id": "expanded-311fa5bec5c337e1",
+    "name": "豊後大野市 国民民主党 議員 - 大分県",
+    "url": "https://new-kokumin.jp/member_tag/oita",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-b0c5db1c551100df",
+    "name": "別府市 別府市議会 公式議員名簿",
+    "url": "https://www.city.beppu.oita.jp/gikai/03meibo/list_all.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-ff979e5c6dbf2e01",
+    "name": "門川町 日本共産党中央委員会 地方議員検索（宮崎県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E5%AE%AE%E5%B4%8E%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-ff14cdb0bd8f9c67",
+    "name": "宮崎市 プロフィール -  宮崎市 [Miyazaki City]",
+    "url": "https://www.city.miyazaki.miyazaki.jp/mayor/profile.html",
+    "scope": "行政の首長紹介",
+    "asof": "掲載日時不明（2026-11-04確認）",
+    "expected": [
+      "清山知憲"
+    ]
+  },
+  {
+    "id": "expanded-7e58214c37ec2e1b",
+    "name": "日之影町 国民民主党 議員 - 宮崎県",
+    "url": "https://new-kokumin.jp/member_tag/miyazaki",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-649fc5405f1d595c",
+    "name": "宮古島市 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:36",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-dc9ef54fe5f51814",
+    "name": "鹿児島市 鹿児島市議会 公式議員名簿",
+    "url": "https://www.city.kagoshima.lg.jp/gikai/gksoumu/shigikai/shokai/ichiran2.html",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-10",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-8b1d47ecf4cc20db",
+    "name": "姶良市 国民民主党 議員 - 鹿児島県",
+    "url": "https://new-kokumin.jp/member_tag/kagoshima",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-efc5414b5016ba47",
+    "name": "鹿児島市 市長プロフィール｜鹿児島市",
+    "url": "https://www.city.kagoshima.lg.jp/soumu/shichoshitu/hisyo/shise/shicho/profile.html",
+    "scope": "行政の首長紹介",
+    "asof": "2025-11-21",
+    "expected": [
+      "下鶴隆央"
+    ]
+  },
+  {
+    "id": "expanded-a7b40ef729645853",
+    "name": "喜界町 日本共産党中央委員会 地方議員検索（鹿児島県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-3fb117915abebe33",
+    "name": "那覇市 那覇市議会 公式議員名簿",
+    "url": "https://www.city.naha.okinawa.jp/sigikai/giin/1005312/1005313.html",
+    "scope": "行政・議会の名簿",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-aa6c63c83ac90f9d",
+    "name": "竹富町 国民民主党 議員 - 沖縄県",
+    "url": "https://new-kokumin.jp/member_tag/okinawa",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-bec66d66ae302e48",
+    "name": "八重瀬町 日本共産党中央委員会 地方議員検索（沖縄県）",
+    "url": "https://www.jcp.or.jp/list/search/?keyword=%E6%B2%96%E7%B8%84%E7%9C%8C",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-9f17523cbf611cf1",
+    "name": "那覇市 市長プロフィール｜那覇市公式ホームページ",
+    "url": "https://www.city.naha.okinawa.jp/mayor/mayorinfo/1005299.html",
+    "scope": "行政の首長紹介",
+    "asof": "2026-06-18",
+    "expected": [
+      "知念覚"
+    ]
+  },
+  {
+    "id": "expanded-a51cadb16b654576",
+    "name": "浦添市 浦添市議会 公式議員名簿",
+    "url": "https://www.city.urasoe.lg.jp/gikai/2025032800020/",
+    "scope": "行政・議会の名簿",
+    "asof": "2026-10-14",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-de21dddfee7a0db5",
+    "name": "竹富町 公明党公式 所属議員検索",
+    "url": "https://www.komei.or.jp/member/result/n:80/page:37",
+    "scope": "政党公式の所属議員掲載",
+    "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  }
+]

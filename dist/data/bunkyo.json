@@ -4460,6 +4460,192 @@
           "stage": "施政方針表明",
           "id": "f-aa283958442cd6",
           "checkedAt": "2026-11-04"
+        },
+        {
+          "id": "f-8cfb297e5ca894",
+          "category": "career",
+          "title": "駒澤大学法学部 卒業",
+          "period": "卒業年の記載なし",
+          "organization": "駒澤大学",
+          "summary": "区公式の学歴欄で卒業を確認。卒業年は同ページに記載されていない。",
+          "source": "文京区 区長プロフィール",
+          "url": "https://www.city.bunkyo.lg.jp/b005/p005393.html",
+          "sourceType": "行政・議会",
+          "asOf": "2026-07-14（更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-383dfad02c3a57",
+          "category": "career",
+          "title": "明治大学公共政策大学院 修了・修士（公共政策学）",
+          "period": "修了年の記載なし",
+          "organization": "明治大学",
+          "summary": "区公式の学歴欄で大学院修了と学位を確認。修了年は同ページに記載されていない。",
+          "source": "文京区 区長プロフィール",
+          "url": "https://www.city.bunkyo.lg.jp/b005/p005393.html",
+          "sourceType": "行政・議会",
+          "asOf": "2026-07-14（更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-3576f0e3fb85b0",
+          "category": "career",
+          "title": "文京区議会議長（第1次）",
+          "period": "2001年6月〜2002年6月",
+          "organization": "文京区議会",
+          "summary": "区公式プロフィールの議長在任期間。",
+          "source": "文京区 区長プロフィール",
+          "url": "https://www.city.bunkyo.lg.jp/b005/p005393.html",
+          "sourceType": "行政・議会",
+          "asOf": "2026-07-14（更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-3844a9957feb55",
+          "category": "career",
+          "title": "文京区議会議長（第2次）",
+          "period": "2005年6月〜2007年4月",
+          "organization": "文京区議会",
+          "summary": "区公式プロフィールでは2007年4月までの在任を掲載。Wikipedia本文の記述だけで終期を短縮せず、一次資料の期間を採用。",
+          "source": "文京区 区長プロフィール",
+          "url": "https://www.city.bunkyo.lg.jp/b005/p005393.html",
+          "sourceType": "行政・議会",
+          "asOf": "2026-07-14（更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-b6b086c3bdf7df",
+          "category": "career",
+          "title": "特別区議会議長会 会長",
+          "period": "2005年6月〜2006年6月",
+          "organization": "特別区議会議長会",
+          "summary": "区議会議長と同時期の対外役職として区公式プロフィールに掲載。",
+          "source": "文京区 区長プロフィール",
+          "url": "https://www.city.bunkyo.lg.jp/b005/p005393.html",
+          "sourceType": "行政・議会",
+          "asOf": "2026-07-14（更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-8173c6b931c601",
+          "category": "career",
+          "title": "文京区長 就任",
+          "period": "2007年4月〜（2026年7月の資料掲載時点）",
+          "organization": "文京区",
+          "summary": "区公式プロフィールの経歴欄による。次回選挙への出馬を意味しない。",
+          "source": "文京区 区長プロフィール",
+          "url": "https://www.city.bunkyo.lg.jp/b005/p005393.html",
+          "sourceType": "行政・議会",
+          "asOf": "2026-07-14（更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-109573e2e78156",
+          "category": "career",
+          "title": "暁星学園同窓会の紹介：1984年卒",
+          "period": "1984年卒（同窓会の掲載表記）",
+          "summary": "同窓会の2025年行事報告で1984年卒として紹介。幼稚園・小中学校までの在籍を一括認定する資料ではない。",
+          "url": "https://gyosei-ob.org/info/networking2025-report.html",
+          "source": "暁星学園同窓会 ビジネス交流会2025報告",
+          "sourceType": "団体公式",
+          "asOf": "2025-02-20",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-9f06a73d39a8cc",
+          "category": "party",
+          "title": "2003年区議選：民主党で当選",
+          "period": "2003-04-27",
+          "summary": "区選管の開票結果で、成沢ひろのぶ・民主党・当選・1,706票を確認。在籍の始期・終期や入離党日はこの結果から確定できない。",
+          "url": "https://www.city.bunkyo.lg.jp/b045/p006459.html",
+          "source": "文京区選管 平成15年区議会議員選挙結果",
+          "sourceType": "行政・議会",
+          "asOf": "2014-07-17（ページ更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-ebac9da95a8f6f",
+          "category": "activity",
+          "title": "育児のための休暇取得に関する本人聞き取り",
+          "period": "2010年報告書掲載（取得日の記載なし）",
+          "summary": "内閣府報告書が本人から聞いた事例として紹介。特別職には休暇制度・勤務時間がない点を同資料が明記しており、法定の育児休業制度利用と同一視しない。男性職員の取得後押しを理由の一つとしているが、改善効果は別途検証が必要。",
+          "url": "https://wwwa.cao.go.jp/wlb/government/top/hyouka/report-10/h_pdf/s2-1-4.pdf#page=2",
+          "source": "内閣府 仕事と生活の調和レポート2010・本文35頁",
+          "sourceType": "行政資料（本人聞き取り）",
+          "asOf": "2010年報告書",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-1e317cc066539c",
+          "category": "career",
+          "title": "ベストマザー賞の受賞に関する政府資料",
+          "period": "2010年報告書掲載（受賞日の記載なし）",
+          "summary": "内閣府報告書の本人聞き取り事例に受賞の説明がある。受賞日・部門はこの資料に明記されていないため補わない。",
+          "url": "https://wwwa.cao.go.jp/wlb/government/top/hyouka/report-10/h_pdf/s2-1-4.pdf#page=2",
+          "source": "内閣府 仕事と生活の調和レポート2010・本文35頁",
+          "sourceType": "行政資料（本人聞き取り）",
+          "asOf": "2010年報告書",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-59330d6ee213bb",
+          "category": "career",
+          "title": "2007年 文京区長選挙で当選",
+          "period": "2007-04-22",
+          "summary": "区選管の確定結果で当選、27,763票、届出党派は無所属。選挙日と区長の任期開始日を区別する。現在の党籍や次回出馬を示す情報ではない。",
+          "url": "https://www.city.bunkyo.lg.jp/b045/p006453.html",
+          "source": "文京区選管 区長選挙の確定結果",
+          "sourceType": "行政・議会",
+          "asOf": "2014-07-17（ページ更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-46832fbdd75736",
+          "category": "career",
+          "title": "2011年 文京区長選挙で当選",
+          "period": "2011-04-24",
+          "summary": "区選管の確定結果で当選、47,383票、届出党派は無所属。選挙日と区長の任期開始日を区別する。現在の党籍や次回出馬を示す情報ではない。",
+          "url": "https://www.city.bunkyo.lg.jp/b045/p006452.html",
+          "source": "文京区選管 区長選挙の確定結果",
+          "sourceType": "行政・議会",
+          "asOf": "2014-07-17（ページ更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-f730694e5cb9fe",
+          "category": "career",
+          "title": "2015年 文京区長選挙で当選",
+          "period": "2015-04-26",
+          "summary": "区選管の確定結果で当選、56,258票、届出党派は無所属。選挙日と区長の任期開始日を区別する。現在の党籍や次回出馬を示す情報ではない。",
+          "url": "https://www.city.bunkyo.lg.jp/b045/p006451.html",
+          "source": "文京区選管 区長選挙の確定結果",
+          "sourceType": "行政・議会",
+          "asOf": "2018-03-01（ページ更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-eafba148e5b853",
+          "category": "career",
+          "title": "2019年 文京区長選挙で当選",
+          "period": "2019-04-21",
+          "summary": "区選管の確定結果で当選、56,890票、届出党派は無所属。選挙日と区長の任期開始日を区別する。現在の党籍や次回出馬を示す情報ではない。",
+          "url": "https://www.city.bunkyo.lg.jp/b045/p006450.html",
+          "source": "文京区選管 区長選挙の確定結果",
+          "sourceType": "行政・議会",
+          "asOf": "2023-04-12（ページ更新日）",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "id": "f-454ff0eb58180f",
+          "category": "career",
+          "title": "2023年 文京区長選挙で当選",
+          "period": "2023-04-23",
+          "summary": "区選管の確定結果で当選、50,999票、届出党派は無所属。選挙日と区長の任期開始日を区別する。現在の党籍や次回出馬を示す情報ではない。",
+          "url": "https://www.city.bunkyo.lg.jp/b045/p006426.html",
+          "source": "文京区選管 区長選挙の確定結果",
+          "sourceType": "行政・議会",
+          "asOf": "2023-04-24（ページ更新日）",
+          "checkedAt": "2026-11-05"
         }
       ],
       "website": {
@@ -4468,8 +4654,8 @@
         "sourceUrl": "https://www.city.bunkyo.lg.jp/b005/p005393.html",
         "kind": "administration"
       },
-      "party": "未確認",
-      "researchNotes": "行政公式の経歴と外部団体公式役員名簿を調査。個人政治活動サイト narisawa.net は取得エラーのため公式HP欄には行政の区長ページを採用。PTA会長歴は今回未確認。外部団体の理事・名誉会長は職名として区別し、役職だけで活動実態や功績を認定していない。",
+      "party": "無所属（2023年区長選の届出党派）",
+      "researchNotes": "2026-11-05、Wikipediaと区公式プロフィールを対照し、学歴・議長歴・区長就任などの取り込み漏れを補完。卒業・修了年は公式ページに記載がないため不明と明示。公式情報は掲載目的に応じた記録であり、全経歴を網羅するとは限らない。PTA会長歴、自民党・新進党時代および党籍変更日・在籍期間は原資料で未確認。2003年区議選の届出党派が民主党であることは区選管結果で確認。外部団体の役職だけで報酬・活動実態・功績を認定しない。 2007・2011・2015・2019・2023年の区長選当選と届出党派は区選管の各確定結果で照合した。",
       "searched": true,
       "isIncumbent": true,
       "candidateReview": {
@@ -4478,7 +4664,33 @@
         "announcedAt": null,
         "sources": [],
         "note": "2026-11-04の検索で次回出馬・不出馬の本人/政党発表を確認できなかった。現職であることを理由に予定者へ自動分類しない。"
-      }
+      },
+      "biography": [
+        "f-383dfad02c3a57",
+        "f-8cfb297e5ca894",
+        "f-109573e2e78156",
+        "f-d43b146cfb615a",
+        "f-3576f0e3fb85b0",
+        "f-3844a9957feb55",
+        "f-b6b086c3bdf7df",
+        "f-59330d6ee213bb",
+        "f-8173c6b931c601",
+        "f-327c868516c011",
+        "f-46832fbdd75736",
+        "f-f730694e5cb9fe",
+        "f-74033bb3c16472",
+        "f-49fbb4c633ee75",
+        "f-eafba148e5b853",
+        "f-d5ed2e42700f38",
+        "f-454ff0eb58180f"
+      ],
+      "referencePages": [
+        {
+          "title": "Wikipedia（参考資料・原典照合の入口）",
+          "url": "https://ja.wikipedia.org/wiki/成澤廣修"
+        }
+      ],
+      "researchedAt": "2026-11-05"
     },
     {
       "id": "candidate-koboku",

@@ -1,5 +1,5 @@
 """Check public sources. Changes are review candidates, never automatic politician facts."""
-import concurrent.futures,datetime,hashlib,html,json,re,urllib.request,urllib.parse
+import concurrent.futures,datetime,hashlib,html,json,re,gzip,urllib.request,urllib.parse
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 now=datetime.datetime.now(datetime.timezone.utc).isoformat()
@@ -9,6 +9,17 @@ previous={c['id']:c for c in status['checks']}
 sources=seed['monitors']+[{'id':'national-mayor-publication','name':'全国首長名簿','url':'https://jichisoken.jp/publication/esearchpaper-142/','expected':'首長'}]
 expanded=ROOT/'data/expanded-sources.json'
 if expanded.exists():sources+=json.loads(expanded.read_text())
+# Enriched individual profiles rotate through 28 daily batches to limit load.
+profile_sources={};base_urls={s['url'] for s in sources}
+for path in sorted((ROOT/'data/enrichment').glob('*.json.gz')):
+    for person in json.loads(gzip.decompress(path.read_bytes())):
+        for finding in person.get('findings',[]):
+            u=finding['url']
+            if u in base_urls:continue
+            key=hashlib.sha256(u.encode()).hexdigest()
+            if int(key[:8],16)%28!=datetime.datetime.now(datetime.timezone.utc).date().toordinal()%28:continue
+            profile_sources[u]={'id':'profile-'+key[:16],'name':person['name']+' 公開プロフィール','url':u}
+sources+=list(profile_sources.values())
 sources=list({s['url']:s for s in sources}.values())
 def check(s):
     old=previous.get(s['id'],{});out={**old,'id':s['id'],'name':s['name'],'url':s['url'],'checkedAt':now}
@@ -34,7 +45,7 @@ def check(s):
         return out,event
     except Exception as e:out['error']=str(e)[:180];return out,None
 with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:results=list(pool.map(check,sources))
-status['checks']=[r[0] for r in results];known={x['id'] for x in status['changes']}
+checked={r[0]['id']:r[0] for r in results};status['checks']=list({**previous,**checked}.values());known={x['id'] for x in status['changes']}
 status['changes'] += [r[1] for r in results if r[1] and r[1]['id'] not in known]
 status['changes']=status['changes'][-500:];status['updatedAt']=now
 (ROOT/'data/status.json').write_text(json.dumps(status,ensure_ascii=False,indent=2)+'\n')

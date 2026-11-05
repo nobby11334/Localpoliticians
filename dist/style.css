@@ -4,3 +4,6 @@
 .stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px}.stat b{display:block;margin-bottom:5px}@media(max-width:600px){.stats{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 12px}}
 
 .biography{margin:24px 0;padding:22px;background:#eef2e8;border:1px solid var(--line);border-radius:5px}.biography h2{font-size:19px}.biography ol{list-style:none;padding:0;margin:18px 0 0}.biography li{display:grid;grid-template-columns:minmax(145px,.8fr) 2fr;gap:18px;padding:13px 0;border-top:1px solid #dbe3d3;font-size:12px}.biography b{display:block;font-weight:600}.biography small{display:block;color:var(--muted);font-size:10px;margin-top:5px}.bio-period{color:#62765a;font-size:11px}@media(max-width:600px){.biography{padding:16px}.biography li{grid-template-columns:1fr;gap:5px}}
+
+.research-status{margin:20px 0;padding:18px;border:1px solid var(--line,#d6dce5);border-radius:12px;background:#f7fafc}.research-status summary{cursor:pointer;font-weight:700}.research-status p{line-height:1.8}.snapshot-research{margin:18px 0;padding:18px;border-left:3px solid #497264;background:#f7faf9}.snapshot-research .research-fact{background:white}.biography li p{margin:6px 0;font-weight:400;line-height:1.7}
+.snapshot-research summary{cursor:pointer;font-weight:700}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.html
+*.raw
+*.log
+private-cache/
+research-output/

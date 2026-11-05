@@ -57,15 +57,18 @@ for path in sorted((ROOT/'data/imports').glob('*.json')):
 b=load(ROOT/'data/bunkyo.json');roster=next(s for s in b['sources'] if s['id']=='roster')
 for p in b['people']:
  merge({**p,'municipalityCode':'13105','asOf':p.get('asof') or b['verified'],'sourceURL':next(s['url'] for s in b['sources'] if s['id']=='mayor') if p['id']=='mayor' else roster['url'],'sourceTitle':'文京区 区長プロフィール' if p['id']=='mayor' else '文京区・出典付き詳細調査','rosterKind':'行政・議会等の調査','collectedAt':p.get('researchedAt',b['verified'])},'bunkyo')
+# Add source-scoped enrichment after identity normalization; never overwrite roster status.
+from enrichment import apply_enrichment
+research=apply_enrichment(ROOT,regions,registry,norm)
 coverage={};totals=collections.Counter();all_sources={}
 for code,byid in sorted(regions.items()):
  people=sorted(byid.values(),key=lambda p:p['name']);counts={'people':len(people),'council':sum(p['role']=='council' for p in people),'mayorProfiles':sum(p['role']=='mayor' for p in people),'candidates':sum(bool(p.get('candidate')) for p in people),'findings':sum(len(p['findings']) for p in people),'careerProfiles':sum(any(f['category']=='career' for f in p['findings']) for p in people)}
- totals.update(counts);coverage[code]={**counts,'names':' '.join(' '.join(p.get('sourceNames',[p['name']])) for p in people),'sources':len({s['url'] for p in people for s in p['sources']})}
- (ROOT/f'data/regions/{code}.json').write_text(json.dumps({'municipalityCode':code,'people':people,'counts':counts},ensure_ascii=False,separators=(',',':'))+'\n')
+ totals.update(counts);coverage[code]={**counts,'names':' '.join(' '.join(p.get('sourceNames',[p['name']])) for p in people),'sources':len({s['url'] for p in people for s in p['sources']}),'enrichment':bool(research.get(code)),'enrichedProfiles':sum(bool(p.get('enrichment',{}).get('addedFindings')) for p in people),'snapshotFindings':len(research.get(code,{}).get('findings',[])),'snapshotCareerFacts':sum(f.get('category')=='career' for f in research.get(code,{}).get('findings',[]))}
+ (ROOT/f'data/regions/{code}.json').write_text(json.dumps({'municipalityCode':code,'people':people,'counts':counts,'mayorResearch':research.get(code)},ensure_ascii=False,separators=(',',':'))+'\n')
  for p in people:
   for s in p['sources']:
    if url(s['url']):all_sources[s['url']]={'id':'expanded-'+hashlib.sha256(s['url'].encode()).hexdigest()[:16],'name':registry[code]['name']+' '+s['title'],'url':s['url'],'scope':s['kind'],'asof':s['asOf'],'expected':[norm(p['name'])] if p['role']=='mayor' else ['公認','推薦','候補'] if '予定者' in s['kind'] else ['議員','議会']}
-meta={'collectedAt':'2026-11-04','updatedAt':max(p.get('collectedAt','2026-11-04') for ps in regions.values() for p in ps.values()),'municipalities':len(coverage),'prefectures':len({registry[c]['pref'] for c in coverage}),'totals':dict(totals),'notes':'収録は一部。政党名簿は当該政党の掲載者に限る。現職・所属は資料掲載時点、出馬は発表の根拠別に表示。'}
+meta={'collectedAt':'2026-11-04','updatedAt':max(max(p.get('collectedAt','2026-11-04'),p.get('enrichment',{}).get('checkedAt','2026-11-04')) for ps in regions.values() for p in ps.values()),'municipalities':sum(bool(ps) for ps in regions.values()),'prefectures':len({registry[c]['pref'] for c in coverage}),'totals':dict(totals),'enrichment':research.get('_summary',{}),'notes':'収録は一部。政党名簿は当該政党の掲載者に限る。現職・所属は資料掲載時点、出馬は発表の根拠別に表示。'}
 (ROOT/'data/coverage.json').write_text(json.dumps({'meta':meta,'municipalities':coverage},ensure_ascii=False,separators=(',',':'))+'\n')
 (ROOT/'data/expanded-sources.json').write_text(json.dumps(list(all_sources.values()),ensure_ascii=False,indent=2)+'\n')
 print(json.dumps(meta,ensure_ascii=False));print('Rejected unmatched records:',len(rejected))

@@ -1,0 +1,4132 @@
+[
+  {
+    "municipalityCode": "13210",
+    "name": "白井亨",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "大阪府立牧野高等学校 卒業",
+        "summary": "市公式プロフィールの学歴に牧野高校卒業の記載がある。",
+        "period": "卒業年未確認",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "関西大学社会学部 卒業",
+        "summary": "関西大学社会学部を卒業したと市公式が紹介。",
+        "period": "卒業年未確認",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "民間企業で約15年勤務",
+        "summary": "市公式の略歴では、市議就任前の民間企業での経歴が約15年とされる。",
+        "period": "約15年（年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "小金井市議会議員 3期・約8年",
+        "summary": "市議としての経歴は3期、約8年と紹介されている。",
+        "period": "3期・約8年（年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "小金井市長の任期",
+        "summary": "市公式に示された任期は2022年11月27日から2026年11月26日。次回の出馬表明を示す資料ではない。",
+        "period": "2022年11月27日〜2026年11月26日",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "キャリアコンサルタント資格",
+        "summary": "市公式プロフィールの資格欄にキャリアコンサルタントを記載。",
+        "period": "取得年未確認",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "浅川清流環境組合 副管理者",
+        "summary": "小金井市の公式人物紹介で、主な役職として掲載。実務内容・報酬・在任開始日は未確認。",
+        "period": "資料掲載時点（開始・終了年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "湖南衛生組合 副管理者",
+        "summary": "小金井市の公式人物紹介で、主な役職として掲載。実務内容・報酬・在任開始日は未確認。",
+        "period": "資料掲載時点（開始・終了年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京たま広域資源循環組合 理事",
+        "summary": "小金井市の公式人物紹介で、主な役職として掲載。実務内容・報酬・在任開始日は未確認。",
+        "period": "資料掲載時点（開始・終了年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "昭和病院企業団開設者協議会 委員",
+        "summary": "小金井市の公式人物紹介で、主な役職として掲載。実務内容・報酬・在任開始日は未確認。",
+        "period": "資料掲載時点（開始・終了年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京都六市ボートレース事業組合 理事",
+        "summary": "小金井市の公式人物紹介で、主な役職として掲載。実務内容・報酬・在任開始日は未確認。",
+        "period": "資料掲載時点（開始・終了年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京都十一市競輪事業組合 管理者",
+        "summary": "小金井市の公式人物紹介で、主な役職として掲載。実務内容・報酬・在任開始日は未確認。",
+        "period": "資料掲載時点（開始・終了年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "日本赤十字社東京都支部 評議員",
+        "summary": "小金井市の公式人物紹介で、主な役職として掲載。実務内容・報酬・在任開始日は未確認。",
+        "period": "資料掲載時点（開始・終了年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "日本赤十字社東京都支部小金井市地区 地区長",
+        "summary": "小金井市の公式人物紹介で、主な役職として掲載。実務内容・報酬・在任開始日は未確認。",
+        "period": "資料掲載時点（開始・終了年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京都赤十字協賛委員支部協議会 委員",
+        "summary": "小金井市の公式人物紹介で、主な役職として掲載。実務内容・報酬・在任開始日は未確認。",
+        "period": "資料掲載時点（開始・終了年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京都共同募金会運営協議会 委員",
+        "summary": "小金井市の公式人物紹介で、主な役職として掲載。実務内容・報酬・在任開始日は未確認。",
+        "period": "資料掲載時点（開始・終了年月未確認）",
+        "url": "https://www.city.koganei.lg.jp/shisei/shichou/profile2.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "白井亨",
+          "sectionHeading": "市長プロフィール：略歴・資格・主な役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "12235",
+    "name": "宮内康幸",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "東総工業高等学校 卒業",
+        "summary": "匝瑳市の公式人物紹介に、東総工業高校の卒業を記載。",
+        "period": "卒業年未確認",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "民間企業の課長職を経て退社",
+        "summary": "市公式は民間企業で課長を務め、退社した経歴を紹介している。",
+        "period": "在職年月未確認",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "匝瑳市議会議員 第1期",
+        "summary": "市公式の略歴に2014年11月からの第1期を掲載。",
+        "period": "平成26年11月",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "匝瑳市議会議員 第2期",
+        "summary": "2018年11月から市議第2期の記載がある。",
+        "period": "平成30年11月",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "匝瑳市長 第1期",
+        "summary": "2022年2月から市長第1期と記載されている。",
+        "period": "令和4年2月",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "匝瑳市長 第2期の任期",
+        "summary": "公式プロフィールに示された第2期の任期は2026年2月26日から2030年2月25日。",
+        "period": "令和8年2月26日〜令和12年2月25日",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "匝瑳市議会産業建設常任委員会 委員長",
+        "summary": "市公式の略歴・その他の役職に掲載。退任時期・役職の実務内容は未確認。",
+        "period": "平成29年12月",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "匝瑳市議会文教福祉常任委員会 委員長",
+        "summary": "市公式の略歴・その他の役職に掲載。退任時期・役職の実務内容は未確認。",
+        "period": "平成30年11月",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "匝瑳市議会議会改革等特別委員会 委員長",
+        "summary": "市公式の略歴・その他の役職に掲載。退任時期・役職の実務内容は未確認。",
+        "period": "令和元年12月",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "匝瑳市議会総務常任委員会 委員長",
+        "summary": "市公式の略歴・その他の役職に掲載。退任時期・役職の実務内容は未確認。",
+        "period": "令和2年12月",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "JAちばみどり 第7期理事",
+        "summary": "市公式の略歴・その他の役職に掲載。退任時期・役職の実務内容は未確認。",
+        "period": "第7期（年月未確認）",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "匝瑳市倫理法人会 第6代会長",
+        "summary": "市公式の略歴・その他の役職に掲載。退任時期・役職の実務内容は未確認。",
+        "period": "第6代（年月未確認）",
+        "url": "https://www.city.sosa.lg.jp/sp/page/page000587.html",
+        "sourceType": "行政・議会",
+        "asOf": "掲載日時不明（2026-11-05閲覧）",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "宮内康幸",
+          "sectionHeading": "市長プロフィール：略歴・その他の役職",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "14321",
+    "name": "木村俊雄",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "寒川小学校・寒川中学校・茅ヶ崎北陵高校を卒業",
+        "summary": "町公式の略歴に各校の卒業を掲載。卒業年月はこの箇所に記載されていない。",
+        "period": "卒業年月未確認",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "法政大学第一社会学部 卒業",
+        "summary": "町公式は1972年3月の法政大学第一社会学部卒業を記載。",
+        "period": "昭和47年3月",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "寒川町役場 入庁",
+        "summary": "町公式の経歴では1972年4月に寒川町役場へ入庁。",
+        "period": "昭和47年4月",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "寒川町役場の部長職を歴任",
+        "summary": "町民部長、総務部長、企画政策部長の経歴が掲載されている。各職の在任年月は未記載。",
+        "period": "在任年月未確認",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "寒川町役場 退職",
+        "summary": "町公式は2010年3月の退職を記載。",
+        "period": "平成22年3月",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "寒川町社会福祉協議会 常務理事",
+        "summary": "町公式の主な経歴に社会福祉協議会常務理事を掲載。現在の継続を示すものではない。",
+        "period": "在任年月未確認",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "2011年寒川町長選挙で当選",
+        "summary": "町公式は2011年8月28日の町長選挙に立候補し当選したと記載。",
+        "period": "平成23年8月28日",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "第23代寒川町長に就任",
+        "summary": "2011年9月11日の町長就任を町公式が記載。",
+        "period": "平成23年9月11日",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "寒川町長 第2期の任期",
+        "summary": "町公式の任期欄に2015年9月11日から2019年9月10日までを掲載。",
+        "period": "平成27年9月11日〜令和元年9月10日",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "寒川町長 第3期の任期",
+        "summary": "第3期は2019年9月11日から2023年9月10日と町公式に記載。",
+        "period": "令和元年9月11日〜令和5年9月10日",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "寒川町長 第4期の任期",
+        "summary": "公式プロフィールに示された第4期の任期は2023年9月11日から2027年9月10日。",
+        "period": "令和5年9月11日〜令和9年9月10日",
+        "url": "https://www.town.samukawa.kanagawa.jp/choseijoho/chochonoheya/16407.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-09-11",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "木村俊雄",
+          "sectionHeading": "町長プロフィール：学歴・任期・主な経歴",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13229",
+    "name": "池澤隆史",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "同志社大学法学部 卒業",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "昭和57年",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "旧保谷市役所 入庁",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "昭和57年",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "西東京市企画部 主幹",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "平成13年",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "西東京市保健福祉部 高齢福祉課長",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "平成16年",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "西東京市保健福祉部 高齢者支援課長",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "平成18年",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "西東京市企画部 参与兼財政課長",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "平成19年",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "西東京市教育部 特命担当部長",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "平成23年",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "西東京市 教育部長",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "平成24年",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "西東京市 副市長",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "平成25年7月1日〜令和2年12月16日",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "西東京市長 就任",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "令和3年2月18日",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "西東京市長 第2期の任期",
+        "summary": "西東京市公式プロフィールの略歴・市長任期欄に掲載。職歴と就任時期を対応させて記録。",
+        "period": "令和7年2月18日〜令和11年2月17日",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "多摩六都科学館 管理者",
+        "summary": "市公式が資料時点の公職として掲載。役職の開始日やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "柳泉園組合 副管理者",
+        "summary": "市公式が資料時点の公職として掲載。役職の開始日やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "昭和病院企業団開設者協議会 委員",
+        "summary": "市公式が資料時点の公職として掲載。役職の開始日やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京たま広域資源循環組合 理事",
+        "summary": "市公式が資料時点の公職として掲載。役職の開始日やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京市町村総合事務組合議会 議員",
+        "summary": "市公式が資料時点の公職として掲載。役職の開始日やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-05-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "池澤隆史",
+          "sectionHeading": "市長プロフィール：略歴・市長任期・現在の公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13204",
+    "name": "河村孝",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "早稲田大学商学部 卒業",
+        "summary": "三鷹市公式プロフィールの最終学歴・職歴欄に掲載。",
+        "period": "昭和52年3月",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "三鷹市に就職",
+        "summary": "三鷹市公式プロフィールの最終学歴・職歴欄に掲載。",
+        "period": "昭和52年4月",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "三鷹市企画部企画調整室長",
+        "summary": "三鷹市公式プロフィールの最終学歴・職歴欄に掲載。",
+        "period": "平成8年4月",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "三鷹市企画部次長・企画調整室長事務取扱",
+        "summary": "三鷹市公式プロフィールの最終学歴・職歴欄に掲載。",
+        "period": "平成11年7月",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "三鷹市企画部長",
+        "summary": "三鷹市公式プロフィールの最終学歴・職歴欄に掲載。",
+        "period": "平成12年4月",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "三鷹市 助役・副市長",
+        "summary": "三鷹市公式プロフィールの最終学歴・職歴欄に掲載。",
+        "period": "平成15年7月1日〜平成27年2月5日",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "三鷹市長 就任",
+        "summary": "三鷹市公式プロフィールの最終学歴・職歴欄に掲載。",
+        "period": "平成31年4月",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "三鷹市長 第2期の任期",
+        "summary": "三鷹市公式プロフィールの最終学歴・職歴欄に掲載。",
+        "period": "令和5年4月30日〜令和9年4月29日",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "三鷹市スポーツと文化財団 理事長",
+        "summary": "三鷹市公式の職歴欄に掲載された過去の団体役職。現在の役職としては扱わない。",
+        "period": "平成19年4月1日〜平成27年2月16日",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "まちづくり三鷹 代表取締役社長",
+        "summary": "三鷹市公式の職歴欄に掲載された過去の団体役職。現在の役職としては扱わない。",
+        "period": "平成21年6月26日〜平成25年6月23日",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "まちづくり三鷹 代表取締役会長",
+        "summary": "三鷹市公式の職歴欄に掲載された過去の団体役職。現在の役職としては扱わない。",
+        "period": "平成25年6月24日〜平成27年2月5日",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "三鷹国際交流協会 理事長",
+        "summary": "三鷹市公式の職歴欄に掲載された過去の団体役職。現在の役職としては扱わない。",
+        "period": "平成28年6月14日〜平成31年1月31日",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京都市長会 総務・文教部会 部会長",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京都市長会 政策調査特別部会 副部会長",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京都市長会 環境部会 委員",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京都市区長会 監事",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "ふじみ衛生組合 管理者",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京たま広域資源循環組合 理事",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京市町村総合事務組合議会 議員",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "第25次東京都観光事業審議会 委員",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京のあすを創る協会 理事",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "徳間記念アニメーション文化財団 副理事長",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東京スタジアム 取締役",
+        "summary": "三鷹市公式が資料時点の主な公職として掲載。開始・終了年月やその後の継続は未確認。",
+        "period": "資料掲載時点（在任年月未確認）",
+        "url": "https://www.city.mitaka.lg.jp/c_service/mayor05001001001.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-05",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "河村孝",
+          "sectionHeading": "市長プロフィール：最終学歴・職歴・現在の主な公職等",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13206",
+    "name": "髙野律雄",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.fuchu.tokyo.jp/mayor/shichoh0202.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "立教大学経済学部 卒業",
+        "summary": "府中市の市長挨拶ページにある本人プロフィールで紹介された経歴。",
+        "period": "昭和59年3月",
+        "url": "https://www.city.fuchu.tokyo.jp/mayor/shichoh0202.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-02-16",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "髙野律雄",
+          "sectionHeading": "市長挨拶：プロフィール",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "レナウン 勤務",
+        "summary": "府中市の市長挨拶ページにある本人プロフィールで紹介された経歴。",
+        "period": "昭和59年4月〜平成2年12月",
+        "url": "https://www.city.fuchu.tokyo.jp/mayor/shichoh0202.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-02-16",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "髙野律雄",
+          "sectionHeading": "市長挨拶：プロフィール",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "府中わかば幼稚園 勤務",
+        "summary": "府中市の市長挨拶ページにある本人プロフィールで紹介された経歴。",
+        "period": "平成3年1月〜平成24年2月",
+        "url": "https://www.city.fuchu.tokyo.jp/mayor/shichoh0202.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-02-16",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "髙野律雄",
+          "sectionHeading": "市長挨拶：プロフィール",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "府中わかば幼稚園 園長",
+        "summary": "府中市の市長挨拶ページにある本人プロフィールで紹介された経歴。",
+        "period": "平成15年4月〜（終了時期未確認）",
+        "url": "https://www.city.fuchu.tokyo.jp/mayor/shichoh0202.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-02-16",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "髙野律雄",
+          "sectionHeading": "市長挨拶：プロフィール",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "府中市議会議員",
+        "summary": "府中市の市長挨拶ページにある本人プロフィールで紹介された経歴。",
+        "period": "平成11年4月〜平成23年4月",
+        "url": "https://www.city.fuchu.tokyo.jp/mayor/shichoh0202.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-02-16",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "髙野律雄",
+          "sectionHeading": "市長挨拶：プロフィール",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "府中市長 就任",
+        "summary": "府中市の市長挨拶ページにある本人プロフィールで紹介された経歴。",
+        "period": "平成24年2月",
+        "url": "https://www.city.fuchu.tokyo.jp/mayor/shichoh0202.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-02-16",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "髙野律雄",
+          "sectionHeading": "市長挨拶：プロフィール",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "府中市長 第4期",
+        "summary": "府中市の市長挨拶ページにある本人プロフィールで紹介された経歴。",
+        "period": "令和6年2月",
+        "url": "https://www.city.fuchu.tokyo.jp/mayor/shichoh0202.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-02-16",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "髙野律雄",
+          "sectionHeading": "市長挨拶：プロフィール",
+          "selector": "公式人物プロフィール本文の略歴・資格・主な役職欄",
+          "rule": "Web閲覧で公式ページの氏名と本文を直接照合。別人・出生・家族・連絡先欄は除外。"
+        }
+      },
+      {
+        "category": "community",
+        "title": "消防団員の経験（本人コラム）",
+        "summary": "市公式の2026年10月の本人コラムで、消防団員として活動した経験に言及。所属分団や活動期間は未記載であり、別の分団の大会実績は本人の実績にしていない。",
+        "period": "活動年月未確認",
+        "url": "https://www.city.fuchu.tokyo.jp/mayor/",
+        "sourceType": "行政サイト掲載の本人記述",
+        "asOf": "2026-10-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "髙野律雄",
+          "sectionHeading": "2026年10月1日 市長コラム161 全国消防操法大会",
+          "selector": "本文の本人による消防団員経験への言及",
+          "rule": "市長署名と一人称の本人経験を確認。紹介されている他の消防分団の成果を本人へ転用しない。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13112",
+    "name": "保坂展人",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/setagaya.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "都立新宿高校 中退",
+        "summary": "都立新宿高校を中退したと区長会が紹介。",
+        "period": "中退年不明",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/setagaya.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "保坂展人",
+          "sectionHeading": "世田谷区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "衆議院議員の経歴",
+        "summary": "平成8～15年と平成17～21年の衆議院議員歴を掲載。",
+        "period": "平成8～15年・平成17～21年",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/setagaya.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "保坂展人",
+          "sectionHeading": "世田谷区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "総務省顧問",
+        "summary": "総務省の顧問を務めた履歴を掲載。",
+        "period": "平成21年10月～平成22年3月",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/setagaya.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "保坂展人",
+          "sectionHeading": "世田谷区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "世田谷区長就任",
+        "summary": "平成23年4月からの区長歴を紹介。",
+        "period": "平成23年4月～（掲載時点）",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/setagaya.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "保坂展人",
+          "sectionHeading": "世田谷区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13121",
+    "name": "近藤弥生",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/adachi.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "青山学院大学大学院 修了",
+        "summary": "経済学の博士前期課程を修了したと区長会が紹介。",
+        "period": "修了年不明",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/adachi.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "近藤弥生",
+          "sectionHeading": "足立区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "aliasEvidenceURL": "https://www.city.adachi.tokyo.jp/documents/65200/20070710.pdf",
+          "sourceName": "近藤やよい"
+        }
+      },
+      {
+        "category": "career",
+        "title": "警視庁警察官の経歴",
+        "summary": "警視庁の警察官として勤務した期間を掲載。",
+        "period": "昭和58年4月～平成元年1月",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/adachi.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "近藤弥生",
+          "sectionHeading": "足立区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "aliasEvidenceURL": "https://www.city.adachi.tokyo.jp/documents/65200/20070710.pdf",
+          "sourceName": "近藤やよい"
+        }
+      },
+      {
+        "category": "career",
+        "title": "税理士の経歴",
+        "summary": "平成8年8月から税理士と紹介。現時点の登録・業務継続は未確認。",
+        "period": "平成8年8月～（掲載時点）",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/adachi.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "近藤弥生",
+          "sectionHeading": "足立区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "aliasEvidenceURL": "https://www.city.adachi.tokyo.jp/documents/65200/20070710.pdf",
+          "sourceName": "近藤やよい"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京都議会議員の経歴",
+        "summary": "東京都議会議員の在職期間を掲載。",
+        "period": "平成9年7月～平成19年3月",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/adachi.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "近藤弥生",
+          "sectionHeading": "足立区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "aliasEvidenceURL": "https://www.city.adachi.tokyo.jp/documents/65200/20070710.pdf",
+          "sourceName": "近藤やよい"
+        }
+      },
+      {
+        "category": "career",
+        "title": "足立区長就任",
+        "summary": "平成19年6月20日の区長就任を紹介。",
+        "period": "平成19年6月20日",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/adachi.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "近藤弥生",
+          "sectionHeading": "足立区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "aliasEvidenceURL": "https://www.city.adachi.tokyo.jp/documents/65200/20070710.pdf",
+          "sourceName": "近藤やよい"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13123",
+    "name": "斉藤猛",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.edogawa.tokyo.jp/e004/kuseijoho/mayor/profile.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "早稲田大学社会科学部 卒業",
+        "summary": "社会科学部卒業を区公式が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.edogawa.tokyo.jp/e004/kuseijoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-05-09",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "斉藤猛",
+          "sectionHeading": "区長プロフィール／学歴・職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "江戸川区役所に入区",
+        "summary": "昭和57年の区職員採用を掲載。",
+        "period": "1982年",
+        "url": "https://www.city.edogawa.tokyo.jp/e004/kuseijoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-05-09",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "斉藤猛",
+          "sectionHeading": "区長プロフィール／学歴・職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "医療保険・財政・福祉分野の管理職",
+        "summary": "医療保険課長、財政課長、福祉部長の履歴を紹介。",
+        "period": "2007年・2011年・2014年",
+        "url": "https://www.city.edogawa.tokyo.jp/e004/kuseijoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-05-09",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "斉藤猛",
+          "sectionHeading": "区長プロフィール／学歴・職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "江戸川区教育長",
+        "summary": "平成30年に教育長となった履歴を掲載。",
+        "period": "2018年",
+        "url": "https://www.city.edogawa.tokyo.jp/e004/kuseijoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-05-09",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "斉藤猛",
+          "sectionHeading": "区長プロフィール／学歴・職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "江戸川区長就任",
+        "summary": "平成31年の区長就任を掲載。",
+        "period": "2019年",
+        "url": "https://www.city.edogawa.tokyo.jp/e004/kuseijoho/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-05-09",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "斉藤猛",
+          "sectionHeading": "区長プロフィール／学歴・職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "12204",
+    "name": "松戸徹",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.funabashi.lg.jp/shisei/shoukai/001/p004832.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "東京理科大学 卒業",
+        "summary": "理学部物理学科卒業を市公式が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.funabashi.lg.jp/shisei/shoukai/001/p004832.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-19",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "松戸徹",
+          "sectionHeading": "市長プロフィール／学歴・主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "船橋市役所に入所",
+        "summary": "昭和53年4月に市役所へ入った履歴を掲載。",
+        "period": "昭和53年4月",
+        "url": "https://www.city.funabashi.lg.jp/shisei/shoukai/001/p004832.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-19",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "松戸徹",
+          "sectionHeading": "市長プロフィール／学歴・主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "市長公室の管理職",
+        "summary": "秘書課長、市長公室長などを務めた履歴を紹介。",
+        "period": "平成14年4月・平成19年4月",
+        "url": "https://www.city.funabashi.lg.jp/shisei/shoukai/001/p004832.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-19",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "松戸徹",
+          "sectionHeading": "市長プロフィール／学歴・主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "船橋市副市長",
+        "summary": "副市長としての在任期間を市公式が明記。",
+        "period": "平成21年10月1日～平成25年3月31日",
+        "url": "https://www.city.funabashi.lg.jp/shisei/shoukai/001/p004832.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-19",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "松戸徹",
+          "sectionHeading": "市長プロフィール／学歴・主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "船橋市長の経歴",
+        "summary": "平成25年7月から市長。令和7年7月に4期目の開始を掲載。",
+        "period": "平成25年7月～／4期目は令和7年7月19日から",
+        "url": "https://www.city.funabashi.lg.jp/shisei/shoukai/001/p004832.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-19",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "松戸徹",
+          "sectionHeading": "市長プロフィール／学歴・主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "11203",
+    "name": "奥ノ木信夫",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.kawaguchi.lg.jp/material/files/group/3/press2025-138.pdf",
+    "findings": [
+      {
+        "category": "career",
+        "title": "市長3期12年の経歴",
+        "summary": "市が3期12年の在職を紹介し、2026年2月8日の任期満了退任を公表。",
+        "period": "3期12年／2026年2月8日退任予定と公表",
+        "url": "https://www.city.kawaguchi.lg.jp/material/files/group/3/press2025-138.pdf",
+        "sourceType": "行政・議会",
+        "asOf": "2026-01-30",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "奥ノ木信夫",
+          "sectionHeading": "川口市プレスリリース／退任公表",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13119",
+    "name": "坂本健",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.itabashi.tokyo.jp/mayor/1010733.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "日本大学 卒業",
+        "summary": "生産工学部建築工学科卒業を区公式が紹介。",
+        "period": "昭和57年3月",
+        "url": "https://www.city.itabashi.tokyo.jp/mayor/1010733.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-03-25",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "坂本健",
+          "sectionHeading": "区長の主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "日本大学大学院 修了",
+        "summary": "生産工学研究科の建築工学専攻・博士前期課程修了を掲載。",
+        "period": "昭和60年3月",
+        "url": "https://www.city.itabashi.tokyo.jp/mayor/1010733.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-03-25",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "坂本健",
+          "sectionHeading": "区長の主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "博士後期課程の単位取得退学",
+        "summary": "日本大学大学院理工学研究科・建築学専攻の単位取得退学を明記。",
+        "period": "平成17年3月",
+        "url": "https://www.city.itabashi.tokyo.jp/mayor/1010733.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-03-25",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "坂本健",
+          "sectionHeading": "区長の主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "日本設計での経歴",
+        "summary": "株式会社日本設計の経歴を掲載。退職時期は不明。",
+        "period": "昭和61年4月～（終了時期不明）",
+        "url": "https://www.city.itabashi.tokyo.jp/mayor/1010733.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-03-25",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "坂本健",
+          "sectionHeading": "区長の主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "福祉法人・施設の役職",
+        "summary": "ケアタウン成増の設立代表者、みその福祉会理事長の履歴を紹介。",
+        "period": "平成11年9月・平成12年3月",
+        "url": "https://www.city.itabashi.tokyo.jp/mayor/1010733.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-03-25",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "坂本健",
+          "sectionHeading": "区長の主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "みその幼稚園設置者",
+        "summary": "幼稚園設置者となった履歴を掲載。",
+        "period": "平成15年3月",
+        "url": "https://www.city.itabashi.tokyo.jp/mayor/1010733.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-03-25",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "坂本健",
+          "sectionHeading": "区長の主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京都議会議員の経歴",
+        "summary": "平成17年7月に都議1期目となった履歴を紹介。",
+        "period": "平成17年7月",
+        "url": "https://www.city.itabashi.tokyo.jp/mayor/1010733.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-03-25",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "坂本健",
+          "sectionHeading": "区長の主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "板橋区長の経歴",
+        "summary": "平成19年4月に区長就任、令和5年4月に5期目と掲載。",
+        "period": "平成19年4月～／令和5年4月に5期目",
+        "url": "https://www.city.itabashi.tokyo.jp/mayor/1010733.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-03-25",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "坂本健",
+          "sectionHeading": "区長の主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "特別区長会副会長の経歴",
+        "summary": "平成27年5月に副会長となった履歴を掲載。継続状況は未確認。",
+        "period": "平成27年5月～（終了時期不明）",
+        "url": "https://www.city.itabashi.tokyo.jp/mayor/1010733.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-03-25",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "坂本健",
+          "sectionHeading": "区長の主な経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13201",
+    "name": "初宿和夫",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.tokyo-mayors.jp/0000000002.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "放送大学 卒業",
+        "summary": "教養学部卒業を東京都市長会が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.tokyo-mayors.jp/0000000002.html",
+        "sourceType": "団体公式",
+        "asOf": "2024-02-13",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "初宿和夫",
+          "sectionHeading": "八王子市長／プロフィール・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京都庁での経歴",
+        "summary": "都庁入庁と、健康危機管理担当局長・人事委員会事務局長の履歴を掲載。",
+        "period": "在職時期不明",
+        "url": "https://www.tokyo-mayors.jp/0000000002.html",
+        "sourceType": "団体公式",
+        "asOf": "2024-02-13",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "初宿和夫",
+          "sectionHeading": "八王子市長／プロフィール・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "調布市副市長の経歴",
+        "summary": "調布市の副市長を務めたと紹介。",
+        "period": "在職時期不明",
+        "url": "https://www.tokyo-mayors.jp/0000000002.html",
+        "sourceType": "団体公式",
+        "asOf": "2024-02-13",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "初宿和夫",
+          "sectionHeading": "八王子市長／プロフィール・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "八王子市長就任",
+        "summary": "令和6年1月29日からの市長歴を掲載。",
+        "period": "令和6年1月29日～（掲載時点）",
+        "url": "https://www.tokyo-mayors.jp/0000000002.html",
+        "sourceType": "団体公式",
+        "asOf": "2024-02-13",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "初宿和夫",
+          "sectionHeading": "八王子市長／プロフィール・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13108",
+    "name": "大久保朋果",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.koto.lg.jp/051141/kuse/kucho/purohiiiru.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "早稲田大学 卒業",
+        "summary": "第一文学部卒業を区公式が紹介。",
+        "period": "平成6年",
+        "url": "https://www.city.koto.lg.jp/051141/kuse/kucho/purohiiiru.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-15",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "大久保朋果",
+          "sectionHeading": "区長プロフィール／経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京都に入都",
+        "summary": "東京都職員として採用された履歴を掲載。",
+        "period": "平成7年",
+        "url": "https://www.city.koto.lg.jp/051141/kuse/kucho/purohiiiru.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-15",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "大久保朋果",
+          "sectionHeading": "区長プロフィール／経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "都立駒込病院での管理職",
+        "summary": "医事課長と庶務課長を務めた経歴を紹介。",
+        "period": "平成24年・平成26年",
+        "url": "https://www.city.koto.lg.jp/051141/kuse/kucho/purohiiiru.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-15",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "大久保朋果",
+          "sectionHeading": "区長プロフィール／経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "政策企画局の管理職",
+        "summary": "政策担当課長、特別秘書担当課長、政策担当部長の履歴を掲載。",
+        "period": "平成27年・平成29年・令和5年",
+        "url": "https://www.city.koto.lg.jp/051141/kuse/kucho/purohiiiru.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-15",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "大久保朋果",
+          "sectionHeading": "区長プロフィール／経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "福祉保健財団の事務局長",
+        "summary": "東京都福祉保健財団で事務局長を務めた履歴を掲載。",
+        "period": "令和4年",
+        "url": "https://www.city.koto.lg.jp/051141/kuse/kucho/purohiiiru.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-15",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "大久保朋果",
+          "sectionHeading": "区長プロフィール／経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "江東区長就任",
+        "summary": "令和5年12月の区長就任を掲載。",
+        "period": "令和5年12月",
+        "url": "https://www.city.koto.lg.jp/051141/kuse/kucho/purohiiiru.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-15",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "大久保朋果",
+          "sectionHeading": "区長プロフィール／経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "12207",
+    "name": "本郷谷健次",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.matsudo.chiba.jp/shisei/toshiseubi/machi.files/rih.pdf",
+    "findings": [
+      {
+        "category": "career",
+        "title": "東京大学 卒業",
+        "summary": "経済学部卒業を市のシンポジウム資料が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.matsudo.chiba.jp/shisei/toshiseubi/machi.files/rih.pdf",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "本郷谷健次",
+          "sectionHeading": "PDF第1ページ／松戸市長本郷谷健次プロフィール",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "新日本製鐵・監査法人での経歴",
+        "summary": "新日本製鐵で総務・人事等を担当し、その後に大手監査法人で国向けコンサルティングに従事と紹介。",
+        "period": "在職時期不明",
+        "url": "https://www.city.matsudo.chiba.jp/shisei/toshiseubi/machi.files/rih.pdf",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "本郷谷健次",
+          "sectionHeading": "PDF第1ページ／松戸市長本郷谷健次プロフィール",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "松戸市議に初当選",
+        "summary": "市議会議員に初めて当選した年を掲載。",
+        "period": "2006年",
+        "url": "https://www.city.matsudo.chiba.jp/shisei/toshiseubi/machi.files/rih.pdf",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "本郷谷健次",
+          "sectionHeading": "PDF第1ページ／松戸市長本郷谷健次プロフィール",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "松戸市長就任",
+        "summary": "第21代松戸市長となった時期を掲載。",
+        "period": "2010年7月",
+        "url": "https://www.city.matsudo.chiba.jp/shisei/toshiseubi/machi.files/rih.pdf",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "本郷谷健次",
+          "sectionHeading": "PDF第1ページ／松戸市長本郷谷健次プロフィール",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "12203",
+    "name": "田中甲",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.ichikawa.lg.jp/page/5256.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "立教大学 卒業",
+        "summary": "立教中学校・高校・大学の卒業歴を市公式が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.ichikawa.lg.jp/page/5256.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-04-22",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "田中甲",
+          "sectionHeading": "市長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "市川市議会議員に初当選",
+        "summary": "市議選で初めて当選した年を掲載。",
+        "period": "1987年",
+        "url": "https://www.city.ichikawa.lg.jp/page/5256.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-04-22",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "田中甲",
+          "sectionHeading": "市長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "千葉県議・衆議院議員の経歴",
+        "summary": "千葉県議2期、衆議院議員3期の履歴を紹介。",
+        "period": "県議2期・衆議院議員3期（各在職年月不明）",
+        "url": "https://www.city.ichikawa.lg.jp/page/5256.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-04-22",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "田中甲",
+          "sectionHeading": "市長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "市川市長就任",
+        "summary": "2022年4月22日の市長就任を掲載。",
+        "period": "2022年4月22日",
+        "url": "https://www.city.ichikawa.lg.jp/page/5256.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-04-22",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "田中甲",
+          "sectionHeading": "市長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "28204",
+    "name": "石井登志郎",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.nishi.or.jp/shisei/mayor/profile.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "慶應義塾大学 卒業",
+        "summary": "総合政策学部卒業を市公式が紹介。",
+        "period": "平成6年3月",
+        "url": "https://www.nishi.or.jp/shisei/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-04",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "石井登志郎",
+          "sectionHeading": "市長プロフィール／学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "米国ペンシルバニア大学大学院 修了",
+        "summary": "公共政策課程修了を掲載。",
+        "period": "平成11年5月",
+        "url": "https://www.nishi.or.jp/shisei/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-04",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "石井登志郎",
+          "sectionHeading": "市長プロフィール／学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "神戸製鋼所での経歴",
+        "summary": "株式会社神戸製鋼所での履歴を紹介。退職時期は不明。",
+        "period": "平成6年4月～（終了時期不明）",
+        "url": "https://www.nishi.or.jp/shisei/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-04",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "石井登志郎",
+          "sectionHeading": "市長プロフィール／学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "参議院議員政策担当秘書",
+        "summary": "参議院議員の政策担当秘書となった履歴を掲載。",
+        "period": "平成13年9月",
+        "url": "https://www.nishi.or.jp/shisei/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-04",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "石井登志郎",
+          "sectionHeading": "市長プロフィール／学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "衆議院議員の経歴",
+        "summary": "平成21年8月の衆議院議員就任を紹介。",
+        "period": "平成21年8月",
+        "url": "https://www.nishi.or.jp/shisei/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-04",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "石井登志郎",
+          "sectionHeading": "市長プロフィール／学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "Yahoo!Japanのフェロー",
+        "summary": "政策企画部フェローの履歴を掲載。継続状況は未確認。",
+        "period": "平成25年2月～（終了時期不明）",
+        "url": "https://www.nishi.or.jp/shisei/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-04",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "石井登志郎",
+          "sectionHeading": "市長プロフィール／学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "西宮市長の経歴",
+        "summary": "平成30年4月15日から市長となり、令和8年4月に3期目開始と掲載。",
+        "period": "平成30年4月15日～／令和8年4月15日に3期目",
+        "url": "https://www.nishi.or.jp/shisei/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-04",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "石井登志郎",
+          "sectionHeading": "市長プロフィール／学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "27227",
+    "name": "野田義和",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.higashiosaka.lg.jp/0000000033.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "東大阪市議会議員5期の経歴",
+        "summary": "昭和62年10月から5期20年、市議を務めたと市が紹介。",
+        "period": "昭和62年10月から5期20年",
+        "url": "https://www.city.higashiosaka.lg.jp/0000000033.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-10-28",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "野田義和",
+          "sectionHeading": "市長プロフィール／経歴等",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東大阪市議会議長の経歴",
+        "summary": "第37代と第45代の議長を務めた履歴を掲載。",
+        "period": "就任年月不明",
+        "url": "https://www.city.higashiosaka.lg.jp/0000000033.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-10-28",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "野田義和",
+          "sectionHeading": "市長プロフィール／経歴等",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東大阪市長就任",
+        "summary": "平成19年10月28日の市長就任と、掲載時点の5期目を紹介。",
+        "period": "平成19年10月28日～（掲載時点で5期目）",
+        "url": "https://www.city.higashiosaka.lg.jp/0000000033.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-10-28",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "野田義和",
+          "sectionHeading": "市長プロフィール／経歴等",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13122",
+    "name": "青木克德",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.katsushika.lg.jp/information/kucho/1005393/index.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "都立葛飾野高校 卒業",
+        "summary": "最終学歴として葛飾野高校卒業を区公式が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.katsushika.lg.jp/information/kucho/1005393/index.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "青木克德",
+          "sectionHeading": "プロフィール／最終学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "葛飾区役所に入庁",
+        "summary": "区役所へ入庁した年月を掲載。",
+        "period": "昭和42年4月",
+        "url": "https://www.city.katsushika.lg.jp/information/kucho/1005393/index.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "青木克德",
+          "sectionHeading": "プロフィール／最終学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "区の部長職・収入役",
+        "summary": "地域振興部長、政策経営部長、収入役の経歴を紹介。",
+        "period": "平成8年4月・平成15年4月・平成18年1月10日",
+        "url": "https://www.city.katsushika.lg.jp/information/kucho/1005393/index.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "青木克德",
+          "sectionHeading": "プロフィール／最終学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "葛飾区長就任",
+        "summary": "平成21年12月19日の区長就任を掲載。",
+        "period": "平成21年12月19日",
+        "url": "https://www.city.katsushika.lg.jp/information/kucho/1005393/index.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "青木克德",
+          "sectionHeading": "プロフィール／最終学歴・主な職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "28202",
+    "name": "松本眞",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.amagasaki.hyogo.jp/shisei/1032493/index.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "東京学芸大学大学院 修了",
+        "summary": "教育学研究科修了を市公式が紹介。",
+        "period": "2005年3月",
+        "url": "https://www.city.amagasaki.hyogo.jp/shisei/1032493/index.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-08-08",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "松本眞",
+          "sectionHeading": "市長の部屋／プロフィール・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "文部科学省での経歴",
+        "summary": "文部科学省に入省し、ICT教育・大学振興・科学技術等を担当と掲載。",
+        "period": "2005年4月入省",
+        "url": "https://www.city.amagasaki.hyogo.jp/shisei/1032493/index.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-08-08",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "松本眞",
+          "sectionHeading": "市長の部屋／プロフィール・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "内閣官房での経歴",
+        "summary": "平成25年7月の内閣官房勤務を掲載。",
+        "period": "2013年7月～（終了時期不明）",
+        "url": "https://www.city.amagasaki.hyogo.jp/shisei/1032493/index.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-08-08",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "松本眞",
+          "sectionHeading": "市長の部屋／プロフィール・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "尼崎市教育長の経歴",
+        "summary": "平成30年4月に教育長へ就いた履歴を紹介。",
+        "period": "2018年4月～（終了時期は当該欄では不明）",
+        "url": "https://www.city.amagasaki.hyogo.jp/shisei/1032493/index.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-08-08",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "松本眞",
+          "sectionHeading": "市長の部屋／プロフィール・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "尼崎市長就任",
+        "summary": "2022年12月2日の市長就任を掲載。",
+        "period": "2022年12月2日",
+        "url": "https://www.city.amagasaki.hyogo.jp/shisei/1032493/index.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-08-08",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "松本眞",
+          "sectionHeading": "市長の部屋／プロフィール・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "12217",
+    "name": "太田和美",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.kashiwa.lg.jp/hisho/shiseijoho/about_kashiwa/shicho/profile/profile.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "日本大学 卒業",
+        "summary": "法学部卒業を市公式が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.kashiwa.lg.jp/hisho/shiseijoho/about_kashiwa/shicho/profile/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-11-21",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田和美",
+          "sectionHeading": "市長プロフィール／学歴・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "共進住宅代表取締役の経歴",
+        "summary": "有限会社共進住宅の代表取締役就任を掲載。継続状況は不明。",
+        "period": "平成14年",
+        "url": "https://www.city.kashiwa.lg.jp/hisho/shiseijoho/about_kashiwa/shicho/profile/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-11-21",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田和美",
+          "sectionHeading": "市長プロフィール／学歴・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "千葉県議会議員1期",
+        "summary": "平成17年からの県議1期の経歴を紹介。",
+        "period": "平成17年～／1期",
+        "url": "https://www.city.kashiwa.lg.jp/hisho/shiseijoho/about_kashiwa/shicho/profile/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-11-21",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田和美",
+          "sectionHeading": "市長プロフィール／学歴・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "衆議院議員通算3期",
+        "summary": "平成18年から通算3期の衆議院議員歴を掲載。",
+        "period": "平成18年～／通算3期",
+        "url": "https://www.city.kashiwa.lg.jp/hisho/shiseijoho/about_kashiwa/shicho/profile/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-11-21",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田和美",
+          "sectionHeading": "市長プロフィール／学歴・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "柏市長の経歴",
+        "summary": "令和3年の就任と、令和7年の2期目就任を掲載。",
+        "period": "令和3年～／2期目は令和7年11月21日から",
+        "url": "https://www.city.kashiwa.lg.jp/hisho/shiseijoho/about_kashiwa/shicho/profile/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-11-21",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田和美",
+          "sectionHeading": "市長プロフィール／学歴・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13209",
+    "name": "石阪丈一",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.call-center.jp/faq_machida/faq.asp?faqno=MAC03975&logid=0&sugtype=6",
+    "findings": [
+      {
+        "category": "career",
+        "title": "町田市長の在職期間",
+        "summary": "第4代市長としての就任日と退任日を市公式FAQが明記。",
+        "period": "平成18年3月9日～令和8年3月8日",
+        "url": "https://www.call-center.jp/faq_machida/faq.asp?faqno=MAC03975&logid=0&sugtype=6",
+        "sourceType": "行政・議会",
+        "asOf": "2026-03-09",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "石阪丈一",
+          "sectionHeading": "町田市公式FAQ／歴代市長の名前",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "横浜国立大学 卒業",
+        "summary": "経済学部卒業を町田市主催行事のチラシが紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.machida.tokyo.jp/shisei/koho/koho/announce/251105PublicArchitectureDay.files/flyer.pdf",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "石阪丈一",
+          "sectionHeading": "町田市主催2025年11月5日行事チラシ／石阪丈一の紹介欄",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "横浜市職員・港北区長の経歴",
+        "summary": "大学卒業後に横浜市へ入り、港北区長を経たと紹介。",
+        "period": "在職年月不明",
+        "url": "https://www.city.machida.tokyo.jp/shisei/koho/koho/announce/251105PublicArchitectureDay.files/flyer.pdf",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "石阪丈一",
+          "sectionHeading": "町田市主催2025年11月5日行事チラシ／石阪丈一の紹介欄",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "23211",
+    "name": "太田稔彦",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.toyota.aichi.jp/mayors_office/mayors_profile.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "早稲田大学 卒業",
+        "summary": "商学部卒業を市公式が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.toyota.aichi.jp/mayors_office/mayors_profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-26",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田稔彦",
+          "sectionHeading": "市長プロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "豊田市職員・管理職の経歴",
+        "summary": "市職員として採用後、行政経営課長、経営政策本部長、総合企画部長などを経験と掲載。",
+        "period": "1977年採用／2002年・2009年・2011年に管理職",
+        "url": "https://www.city.toyota.aichi.jp/mayors_office/mayors_profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-26",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田稔彦",
+          "sectionHeading": "市長プロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "豊田市長の経歴",
+        "summary": "2012年2月の就任と、2024年2月の4期目開始を掲載。",
+        "period": "2012年2月19日～／2024年2月19日に4期目",
+        "url": "https://www.city.toyota.aichi.jp/mayors_office/mayors_profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-26",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田稔彦",
+          "sectionHeading": "市長プロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "東海・愛知県市長会会長の経歴",
+        "summary": "両市長会会長を務めた期間と、2022年の再就任を紹介。",
+        "period": "2014年6月4日～2015年6月10日／2022年6月1日再就任",
+        "url": "https://www.city.toyota.aichi.jp/mayors_office/mayors_profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-26",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田稔彦",
+          "sectionHeading": "市長プロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "全国市長会副会長の経歴",
+        "summary": "副会長の在職期間と、2023年の再就任を紹介。",
+        "period": "2015年6月10日～2016年6月8日／2023年6月7日再就任",
+        "url": "https://www.city.toyota.aichi.jp/mayors_office/mayors_profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-26",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田稔彦",
+          "sectionHeading": "市長プロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "中核市市長会の役職",
+        "summary": "副会長と会長を務めた期間を掲載。",
+        "period": "副会長2016年5月25日～2019年5月28日／会長2019年5月29日～2021年5月16日",
+        "url": "https://www.city.toyota.aichi.jp/mayors_office/mayors_profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-26",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田稔彦",
+          "sectionHeading": "市長プロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "地方分権改革有識者会議議員",
+        "summary": "同会議の議員として在職した期間を掲載。",
+        "period": "2017年4月1日～2019年6月13日",
+        "url": "https://www.city.toyota.aichi.jp/mayors_office/mayors_profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-06-26",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "太田稔彦",
+          "sectionHeading": "市長プロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13109",
+    "name": "森澤恭子",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.shinagawa.tokyo.jp/kucho/1007171.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "慶應義塾大学 卒業",
+        "summary": "法学部卒業を区公式が紹介。",
+        "period": "平成14年3月",
+        "url": "https://www.city.shinagawa.tokyo.jp/kucho/1007171.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-10-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森澤恭子",
+          "sectionHeading": "区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "民間企業での経歴",
+        "summary": "日本テレビ、森ビル、ベンチャー数社での勤務を経たと紹介。",
+        "period": "都議初当選前（各在職年月不明）",
+        "url": "https://www.city.shinagawa.tokyo.jp/kucho/1007171.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-10-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森澤恭子",
+          "sectionHeading": "区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京都議会議員の経歴",
+        "summary": "平成29年の初当選と令和3年の2期目を掲載。",
+        "period": "平成29年7月初当選／令和3年7月2期目",
+        "url": "https://www.city.shinagawa.tokyo.jp/kucho/1007171.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-10-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森澤恭子",
+          "sectionHeading": "区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "品川区長就任",
+        "summary": "令和4年12月の区長就任を掲載。",
+        "period": "令和4年12月",
+        "url": "https://www.city.shinagawa.tokyo.jp/kucho/1007171.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-10-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森澤恭子",
+          "sectionHeading": "区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "14201",
+    "name": "上地克明",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.yokosuka.kanagawa.jp/0510/mayor/profile.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "県立横須賀高校 卒業",
+        "summary": "神奈川県立横須賀高校卒業を市公式が紹介。",
+        "period": "1972年",
+        "url": "https://www.city.yokosuka.kanagawa.jp/0510/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-10",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "上地克明",
+          "sectionHeading": "上地克明市長の略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "早稲田大学 卒業",
+        "summary": "商学部卒業を掲載。",
+        "period": "1977年",
+        "url": "https://www.city.yokosuka.kanagawa.jp/0510/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-10",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "上地克明",
+          "sectionHeading": "上地克明市長の略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "ニチリョウ・国会議員秘書の経歴",
+        "summary": "ニチリョウ入社後、田川誠一衆議院議員の秘書となった履歴を紹介。",
+        "period": "1977年入社／1978年に秘書",
+        "url": "https://www.city.yokosuka.kanagawa.jp/0510/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-10",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "上地克明",
+          "sectionHeading": "上地克明市長の略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "party",
+        "title": "新自由クラブの役職",
+        "summary": "神奈川県の広報副委員長就任を掲載。継続状況は不明。",
+        "period": "1978年",
+        "url": "https://www.city.yokosuka.kanagawa.jp/0510/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-10",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "上地克明",
+          "sectionHeading": "上地克明市長の略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "横須賀市議の経歴",
+        "summary": "2003年の初当選と、市議当選4回を紹介。",
+        "period": "2003年初当選／当選4回",
+        "url": "https://www.city.yokosuka.kanagawa.jp/0510/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-10",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "上地克明",
+          "sectionHeading": "上地克明市長の略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "横須賀市長の経歴",
+        "summary": "2017年・2021年・2025年の市長就任を掲載。",
+        "period": "2017年・2021年・2025年",
+        "url": "https://www.city.yokosuka.kanagawa.jp/0510/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-07-10",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "上地克明",
+          "sectionHeading": "上地克明市長の略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "23203",
+    "name": "中野正康",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.ichinomiya.aichi.jp/sougouseisaku/hisho/1044316/1044317/1002788.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "郵政省に入省",
+        "summary": "1990年4月の郵政省入省を市公式が紹介。",
+        "period": "1990年4月",
+        "url": "https://www.city.ichinomiya.aichi.jp/sougouseisaku/hisho/1044316/1044317/1002788.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "中野正康",
+          "sectionHeading": "市長・副市長のご紹介／市長の欄のみ",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "村上郵便局長・EU外交官の経歴",
+        "summary": "新潟県村上郵便局長とEU外交官の履歴を掲載。",
+        "period": "1996年7月・2002年5月",
+        "url": "https://www.city.ichinomiya.aichi.jp/sougouseisaku/hisho/1044316/1044317/1002788.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "中野正康",
+          "sectionHeading": "市長・副市長のご紹介／市長の欄のみ",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "早稲田大学非常勤講師",
+        "summary": "非常勤講師の履歴を紹介。継続状況は未確認。",
+        "period": "2008年4月～（終了時期不明）",
+        "url": "https://www.city.ichinomiya.aichi.jp/sougouseisaku/hisho/1044316/1044317/1002788.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "中野正康",
+          "sectionHeading": "市長・副市長のご紹介／市長の欄のみ",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "総務省・博報堂での経歴",
+        "summary": "情報セキュリティ対策室長と博報堂への出向を掲載。",
+        "period": "2009年7月・2011年7月",
+        "url": "https://www.city.ichinomiya.aichi.jp/sougouseisaku/hisho/1044316/1044317/1002788.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "中野正康",
+          "sectionHeading": "市長・副市長のご紹介／市長の欄のみ",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "一宮市長就任",
+        "summary": "2015年2月の市長就任を紹介。",
+        "period": "2015年2月",
+        "url": "https://www.city.ichinomiya.aichi.jp/sougouseisaku/hisho/1044316/1044317/1002788.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "中野正康",
+          "sectionHeading": "市長・副市長のご紹介／市長の欄のみ",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "愛知県・東海市長会会長の経歴",
+        "summary": "2018年6月に両会長へ就任し、任期各1年と掲載。",
+        "period": "2018年6月から各1年",
+        "url": "https://www.city.ichinomiya.aichi.jp/sougouseisaku/hisho/1044316/1044317/1002788.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "中野正康",
+          "sectionHeading": "市長・副市長のご紹介／市長の欄のみ",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "全国・中核市市長会の副会長歴",
+        "summary": "全国市長会は任期1年、中核市市長会は任期2年と紹介。",
+        "period": "2019年6月から1年／2023年6月から2年",
+        "url": "https://www.city.ichinomiya.aichi.jp/sougouseisaku/hisho/1044316/1044317/1002788.html",
+        "sourceType": "行政・議会",
+        "asOf": "2026-04-01",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "中野正康",
+          "sectionHeading": "市長・副市長のご紹介／市長の欄のみ",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "23201",
+    "name": "長坂尚登",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.toyohashi.lg.jp/8309.htm",
+    "findings": [
+      {
+        "category": "career",
+        "title": "県立時習館高校 卒業",
+        "summary": "時習館高校卒業を市公式が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.toyohashi.lg.jp/8309.htm",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "長坂尚登",
+          "sectionHeading": "市長のプロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京大学 卒業",
+        "summary": "教養学部卒業を掲載。",
+        "period": "平成18年",
+        "url": "https://www.city.toyohashi.lg.jp/8309.htm",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "長坂尚登",
+          "sectionHeading": "市長のプロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京大学大学院教育部 修了",
+        "summary": "情報学環の教育部修了を市公式が明記。修士号取得とは記載していない。",
+        "period": "平成19年",
+        "url": "https://www.city.toyohashi.lg.jp/8309.htm",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "長坂尚登",
+          "sectionHeading": "市長のプロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "コンサルティング会社勤務",
+        "summary": "コンサルティング会社の入社・退社年を掲載。",
+        "period": "平成19～23年",
+        "url": "https://www.city.toyohashi.lg.jp/8309.htm",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "長坂尚登",
+          "sectionHeading": "市長のプロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "community",
+        "title": "商店街マネージャーの経歴",
+        "summary": "県商店街振興組合連合会の豊橋市商店街マネージャー就任・退任を紹介。",
+        "period": "平成24～27年",
+        "url": "https://www.city.toyohashi.lg.jp/8309.htm",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "長坂尚登",
+          "sectionHeading": "市長のプロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "豊橋市議会議員の経歴",
+        "summary": "平成27年に1期目、令和5年に3期目となり、令和6年辞職と掲載。",
+        "period": "平成27年～令和6年／3期",
+        "url": "https://www.city.toyohashi.lg.jp/8309.htm",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "長坂尚登",
+          "sectionHeading": "市長のプロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "豊橋市長就任",
+        "summary": "令和6年に市長1期目へ就任したと掲載。",
+        "period": "令和6年",
+        "url": "https://www.city.toyohashi.lg.jp/8309.htm",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "長坂尚登",
+          "sectionHeading": "市長のプロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13117",
+    "name": "山田加奈子",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.kita.lg.jp/city-information/mayor/1017013.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "都立高島高校・大妻女子大短大 卒業",
+        "summary": "都立高島高校と大妻女子大学短期大学部の卒業歴を区公式が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.kita.lg.jp/city-information/mayor/1017013.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-04-30",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "山田加奈子",
+          "sectionHeading": "区長プロフィール／プロフィール・氏名表記",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "損害保険分野での勤務・独立",
+        "summary": "損害保険会社で働いた後、代理店として独立したと掲載。",
+        "period": "在職・独立年月不明",
+        "url": "https://www.city.kita.lg.jp/city-information/mayor/1017013.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-04-30",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "山田加奈子",
+          "sectionHeading": "区長プロフィール／プロフィール・氏名表記",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "北区議会議員・議長の経歴",
+        "summary": "区議4期と第68代区議会議長の経歴を紹介。",
+        "period": "平成19年から4期／議長就任年月不明",
+        "url": "https://www.city.kita.lg.jp/city-information/mayor/1017013.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-04-30",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "山田加奈子",
+          "sectionHeading": "区長プロフィール／プロフィール・氏名表記",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京都議会議員2期",
+        "summary": "令和2年から都議2期の履歴を紹介。",
+        "period": "令和2年から2期",
+        "url": "https://www.city.kita.lg.jp/city-information/mayor/1017013.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-04-30",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "山田加奈子",
+          "sectionHeading": "区長プロフィール／プロフィール・氏名表記",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "北区長就任",
+        "summary": "令和5年4月の区長就任を掲載。",
+        "period": "令和5年4月",
+        "url": "https://www.city.kita.lg.jp/city-information/mayor/1017013.html",
+        "sourceType": "行政・議会",
+        "asOf": "2025-04-30",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "山田加奈子",
+          "sectionHeading": "区長プロフィール／プロフィール・氏名表記",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "11208",
+    "name": "小野塚勝俊",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.tokorozawa.saitama.jp/mayor/profile.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "立教大学 卒業",
+        "summary": "法学部国際・比較法学科卒業を市公式が紹介。",
+        "period": "1995年",
+        "url": "https://www.city.tokorozawa.saitama.jp/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-07",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "小野塚勝俊",
+          "sectionHeading": "小野塚市長のプロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京大学EMP 修了",
+        "summary": "エグゼクティブ・マネジメント・プログラム修了を掲載。学位課程修了とは区別。",
+        "period": "2015年",
+        "url": "https://www.city.tokorozawa.saitama.jp/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-07",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "小野塚勝俊",
+          "sectionHeading": "小野塚市長のプロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "早稲田大学大学院 修了",
+        "summary": "政治学研究科修了を紹介。",
+        "period": "2016年",
+        "url": "https://www.city.tokorozawa.saitama.jp/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-07",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "小野塚勝俊",
+          "sectionHeading": "小野塚市長のプロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "日本銀行入行",
+        "summary": "1995年の日本銀行入行を掲載。",
+        "period": "1995年",
+        "url": "https://www.city.tokorozawa.saitama.jp/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-07",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "小野塚勝俊",
+          "sectionHeading": "小野塚市長のプロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "衆議院議員の経歴",
+        "summary": "2009年に衆議院議員となった経歴を紹介。",
+        "period": "2009年",
+        "url": "https://www.city.tokorozawa.saitama.jp/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-07",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "小野塚勝俊",
+          "sectionHeading": "小野塚市長のプロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "所沢市長就任",
+        "summary": "2023年の市長就任を掲載。",
+        "period": "2023年",
+        "url": "https://www.city.tokorozawa.saitama.jp/mayor/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-12-07",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "小野塚勝俊",
+          "sectionHeading": "小野塚市長のプロフィール／学歴・経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13114",
+    "name": "酒井直人",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/nakano.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "早稲田大学大学院 修了",
+        "summary": "法学研究科修了を区長会が紹介。",
+        "period": "修了年不明",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/nakano.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "酒井直人",
+          "sectionHeading": "中野区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "中野区入区",
+        "summary": "平成8年4月の区職員採用を掲載。",
+        "period": "平成8年4月",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/nakano.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "酒井直人",
+          "sectionHeading": "中野区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "広報・地域包括ケアの管理職",
+        "summary": "広報担当副参事、地域包括ケア推進担当副参事を歴任と紹介。",
+        "period": "在職年月不明",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/nakano.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "酒井直人",
+          "sectionHeading": "中野区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "中野区長就任",
+        "summary": "平成30年6月15日からの区長歴を掲載。",
+        "period": "平成30年6月15日～（掲載時点）",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/nakano.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "酒井直人",
+          "sectionHeading": "中野区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "28203",
+    "name": "丸谷聡子",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.akashi.lg.jp/seisaku/shichou_shitsu/shise/shicho/profile.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "県立神戸商業高校・武庫川女子大短大 卒業",
+        "summary": "神戸商業高校と武庫川女子大学短期大学部第二部国文科の卒業歴を市が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.city.akashi.lg.jp/seisaku/shichou_shitsu/shise/shicho/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "丸谷聡子",
+          "sectionHeading": "市長プロフィール／学歴・職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "同志社大学大学院 修士・博士の学位",
+        "summary": "総合政策科学研究科で修士と博士の学位を取得した年月を掲載。",
+        "period": "修士2011年9月／博士2020年3月",
+        "url": "https://www.city.akashi.lg.jp/seisaku/shichou_shitsu/shise/shicho/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "丸谷聡子",
+          "sectionHeading": "市長プロフィール／学歴・職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "国保団体連合会・環境教育の職歴",
+        "summary": "兵庫県国民健康保険団体連合会と環境教育コーディネーターの経歴を紹介。",
+        "period": "在職年月不明",
+        "url": "https://www.city.akashi.lg.jp/seisaku/shichou_shitsu/shise/shicho/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "丸谷聡子",
+          "sectionHeading": "市長プロフィール／学歴・職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "明石市議会議員2期",
+        "summary": "市議会議員2期の履歴を掲載。",
+        "period": "2期（在職年月不明）",
+        "url": "https://www.city.akashi.lg.jp/seisaku/shichou_shitsu/shise/shicho/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "丸谷聡子",
+          "sectionHeading": "市長プロフィール／学歴・職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "明石市長就任",
+        "summary": "2023年5月に市長へ就任と掲載。",
+        "period": "2023年5月",
+        "url": "https://www.city.akashi.lg.jp/seisaku/shichou_shitsu/shise/shicho/profile.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "丸谷聡子",
+          "sectionHeading": "市長プロフィール／学歴・職歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "24202",
+    "name": "森智広",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://mori-tomohiro.net/profile/",
+    "findings": [
+      {
+        "category": "career",
+        "title": "立命館大学 卒業",
+        "summary": "理工学部卒業を本人公式サイトが紹介。",
+        "period": "平成13年",
+        "url": "https://mori-tomohiro.net/profile/",
+        "sourceType": "本人発信",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森智広",
+          "sectionHeading": "本人公式プロフィール／学歴・職歴・役職",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "sourceName": "森智広（サイト表記：森ともひろ）"
+        }
+      },
+      {
+        "category": "career",
+        "title": "早稲田大学大学院 修了",
+        "summary": "公共経営研究科修了を紹介。",
+        "period": "平成23年",
+        "url": "https://mori-tomohiro.net/profile/",
+        "sourceType": "本人発信",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森智広",
+          "sectionHeading": "本人公式プロフィール／学歴・職歴・役職",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "sourceName": "森智広（サイト表記：森ともひろ）"
+        }
+      },
+      {
+        "category": "career",
+        "title": "監査法人・PwCでの経歴",
+        "summary": "中央青山、あらたの監査法人勤務とPwCへの出向を掲載。",
+        "period": "平成15年入所／平成18年転籍／平成21年出向／平成22年退所",
+        "url": "https://mori-tomohiro.net/profile/",
+        "sourceType": "本人発信",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森智広",
+          "sectionHeading": "本人公式プロフィール／学歴・職歴・役職",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "sourceName": "森智広（サイト表記：森ともひろ）"
+        }
+      },
+      {
+        "category": "career",
+        "title": "公認会計士・税理士登録",
+        "summary": "公認会計士と税理士の登録年を掲載。現時点の登録継続は未確認。",
+        "period": "公認会計士平成19年／税理士平成25年",
+        "url": "https://mori-tomohiro.net/profile/",
+        "sourceType": "本人発信",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森智広",
+          "sectionHeading": "本人公式プロフィール／学歴・職歴・役職",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "sourceName": "森智広（サイト表記：森ともひろ）"
+        }
+      },
+      {
+        "category": "career",
+        "title": "会計士事務所を設立",
+        "summary": "森智広公認会計士事務所を設けたと紹介。",
+        "period": "平成22年",
+        "url": "https://mori-tomohiro.net/profile/",
+        "sourceType": "本人発信",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森智広",
+          "sectionHeading": "本人公式プロフィール／学歴・職歴・役職",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "sourceName": "森智広（サイト表記：森ともひろ）"
+        }
+      },
+      {
+        "category": "career",
+        "title": "市議・市長の当選歴",
+        "summary": "平成23・27年の市議当選、平成28年・令和2・6年の市長当選を掲載。",
+        "period": "市議平成23・27年／市長平成28年・令和2・6年",
+        "url": "https://mori-tomohiro.net/profile/",
+        "sourceType": "本人発信",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森智広",
+          "sectionHeading": "本人公式プロフィール／学歴・職歴・役職",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "sourceName": "森智広（サイト表記：森ともひろ）"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "市長会等の役職を掲載",
+        "summary": "三重県市長会と東海市長会の会長を役職欄に掲載。現職継続は未確認。",
+        "period": "就任・終了年月不明",
+        "url": "https://mori-tomohiro.net/profile/",
+        "sourceType": "本人発信",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森智広",
+          "sectionHeading": "本人公式プロフィール／学歴・職歴・役職",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "sourceName": "森智広（サイト表記：森ともひろ）"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "医療広域連合・港湾等の役職",
+        "summary": "三重県後期高齢者医療広域連合長、東海地区港湾協議会長、北勢未来会議会長を紹介。",
+        "period": "就任・終了年月不明",
+        "url": "https://mori-tomohiro.net/profile/",
+        "sourceType": "本人発信",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "森智広",
+          "sectionHeading": "本人公式プロフィール／学歴・職歴・役職",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。",
+          "sourceName": "森智広（サイト表記：森ともひろ）"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13116",
+    "name": "高際みゆき",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.toshima.lg.jp/010/kuse/034432/000002.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "東京女子大学 卒業",
+        "summary": "文理学部社会学科卒業を区公式が紹介。",
+        "period": "昭和63年3月",
+        "url": "https://www.city.toshima.lg.jp/010/kuse/034432/000002.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "高際みゆき",
+          "sectionHeading": "区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "民間勤務を経て東京都に入庁",
+        "summary": "民間勤務後の都庁入庁を掲載。",
+        "period": "平成7年4月",
+        "url": "https://www.city.toshima.lg.jp/010/kuse/034432/000002.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "高際みゆき",
+          "sectionHeading": "区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "法テラスの課長職",
+        "summary": "日本司法支援センターの犯罪被害者支援課長となった履歴を紹介。",
+        "period": "平成18年7月",
+        "url": "https://www.city.toshima.lg.jp/010/kuse/034432/000002.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "高際みゆき",
+          "sectionHeading": "区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "首都大学東京総務部長",
+        "summary": "公立大学法人首都大学東京の総務部長を務めた履歴を掲載。",
+        "period": "平成29年4月",
+        "url": "https://www.city.toshima.lg.jp/010/kuse/034432/000002.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "高際みゆき",
+          "sectionHeading": "区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "知事秘書の担当部長",
+        "summary": "政策企画局で知事の秘書事務を担当する部長の履歴を紹介。",
+        "period": "平成30年4月",
+        "url": "https://www.city.toshima.lg.jp/010/kuse/034432/000002.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "高際みゆき",
+          "sectionHeading": "区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "豊島区副区長・区長",
+        "summary": "令和2年に副区長、令和5年に区長へ就任した履歴を紹介。",
+        "period": "副区長令和2年4月／区長令和5年4月",
+        "url": "https://www.city.toshima.lg.jp/010/kuse/034432/000002.html",
+        "sourceType": "行政・議会",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "高際みゆき",
+          "sectionHeading": "区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13107",
+    "name": "山本亨",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.sumida.lg.jp/kuseijoho/kutyounoheya/kutyouprofile.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "青山学院大学 卒業",
+        "summary": "経済学部経済学科卒業を区公式が紹介。",
+        "period": "昭和59年3月",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/kutyounoheya/kutyouprofile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-04-24",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "山本亨",
+          "sectionHeading": "区長のプロフィール／学歴・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京都議会議員秘書の経歴",
+        "summary": "都議会議員の秘書を務めた期間を明記。",
+        "period": "昭和63年4月～平成17年7月",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/kutyounoheya/kutyouprofile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-04-24",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "山本亨",
+          "sectionHeading": "区長のプロフィール／学歴・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "墨田区議会議員2期",
+        "summary": "平成19年5月就任の区議2期の経歴を紹介。",
+        "period": "平成19年5月から2期",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/kutyounoheya/kutyouprofile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-04-24",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "山本亨",
+          "sectionHeading": "区長のプロフィール／学歴・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "墨田区長の経歴",
+        "summary": "平成27年の初就任と、平成31年・令和5年の再選を掲載。",
+        "period": "平成27年4月就任／平成31年4月・令和5年4月再選",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/kutyounoheya/kutyouprofile.html",
+        "sourceType": "行政・議会",
+        "asOf": "2023-04-24",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "山本亨",
+          "sectionHeading": "区長のプロフィール／学歴・略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "organization",
+        "title": "墨田まちづくり公社 理事長",
+        "summary": "同公社の公式サイトが理事長として山本亨氏を掲載。掲載更新日・継続状況は未確認。",
+        "period": "就任・終了年月不明",
+        "url": "https://www.sumida-machi.or.jp/about/",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "山本亨",
+          "sectionHeading": "墨田まちづくり公社／理事長ご挨拶",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "27211",
+    "name": "福岡洋一",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.city.ibaraki.osaka.jp/shisei_info/heya/56485.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "大阪大学 卒業",
+        "summary": "法学部国際政治コース卒業を市公式が紹介。",
+        "period": "平成14年",
+        "url": "https://www.city.ibaraki.osaka.jp/shisei_info/heya/56485.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-04-18",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "福岡洋一",
+          "sectionHeading": "市長のプロフィール／略歴・活動経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "甲南大学法科大学院 修了",
+        "summary": "法科大学院修了を掲載。",
+        "period": "平成20年",
+        "url": "https://www.city.ibaraki.osaka.jp/shisei_info/heya/56485.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-04-18",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "福岡洋一",
+          "sectionHeading": "市長のプロフィール／略歴・活動経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "弁護士として勤務",
+        "summary": "平成22年に弁護士業務を始めたと紹介。現時点の業務継続は未確認。",
+        "period": "平成22年～（終了時期不明）",
+        "url": "https://www.city.ibaraki.osaka.jp/shisei_info/heya/56485.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-04-18",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "福岡洋一",
+          "sectionHeading": "市長のプロフィール／略歴・活動経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "community",
+        "title": "茨木青年会議所での活動",
+        "summary": "同会議所で約5年間活動したと市が紹介。役職は記載されていない。",
+        "period": "約5年（年月不明）",
+        "url": "https://www.city.ibaraki.osaka.jp/shisei_info/heya/56485.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-04-18",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "福岡洋一",
+          "sectionHeading": "市長のプロフィール／略歴・活動経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "茨木市長の経歴",
+        "summary": "平成28年4月の就任と令和2・6年の再任を掲載。",
+        "period": "平成28年4月就任／令和2年4月・令和6年4月再任",
+        "url": "https://www.city.ibaraki.osaka.jp/shisei_info/heya/56485.html",
+        "sourceType": "行政・議会",
+        "asOf": "2024-04-18",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "福岡洋一",
+          "sectionHeading": "市長のプロフィール／略歴・活動経歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  },
+  {
+    "municipalityCode": "13110",
+    "name": "青木英二",
+    "snapshotAsOf": "2025-04-30",
+    "profileURL": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/meguro.html",
+    "findings": [
+      {
+        "category": "career",
+        "title": "慶應義塾大学 卒業",
+        "summary": "経済学部卒業を区長会が紹介。",
+        "period": "卒業年不明",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/meguro.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "青木英二",
+          "sectionHeading": "目黒区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "目黒区議会議員の経歴",
+        "summary": "区議としての在職期間を掲載。",
+        "period": "昭和58年5月～平成3年3月",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/meguro.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "青木英二",
+          "sectionHeading": "目黒区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "東京都議会議員の経歴",
+        "summary": "都議として在職した2つの期間を紹介。",
+        "period": "平成3年4月～平成5年7月／平成13年7月～平成16年4月",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/meguro.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "青木英二",
+          "sectionHeading": "目黒区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      },
+      {
+        "category": "career",
+        "title": "目黒区長就任",
+        "summary": "平成16年4月からの区長歴を掲載。",
+        "period": "平成16年4月～（掲載時点）",
+        "url": "https://www.tokyo23city-kuchokai.jp/gaiyo/kucho/meguro.html",
+        "sourceType": "団体公式",
+        "asOf": "不明",
+        "checkedAt": "2026-11-05",
+        "evidence": {
+          "matchedName": "青木英二",
+          "sectionHeading": "目黒区長プロフィール／略歴",
+          "selector": "Web閲覧で確認した本人の略歴・学歴・職歴・役職欄",
+          "rule": "氏名と自治体を照合し、対象本人の欄だけを短く要約。後任・同名別人・出生・家族・私的連絡先を除外。"
+        }
+      }
+    ]
+  }
+]

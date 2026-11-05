@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-11-05",
+  "people": {
+    "addedFindings": 20115,
+    "peopleChecked": 7878,
+    "追加根拠未確認": 3379,
+    "peopleWithAdditions": 3297,
+    "情報追加": 3297,
+    "既存内容確認": 1196,
+    "取得失敗": 6,
+    "snapshotAddedFindings": 811,
+    "snapshotsWithAdditions": 173,
+    "mayorSnapshotsChecked": 1741
+  },
+  "totals": {
+    "people": 7878,
+    "council": 7114,
+    "mayorProfiles": 52,
+    "candidates": 843,
+    "findings": 25339,
+    "careerProfiles": 3586
+  },
+  "limitations": [
+    "件数は人物レコード数。表記差による重複の可能性あり。",
+    "本人・政党のプロフィールは出典の記述。活動実態や成果の帰属の独立検証とは別。",
+    "追加根拠未確認・取得失敗は経歴不存在を示さない。",
+    "全国首長名簿は2025-04-30時点の記録。"
+  ]
+}

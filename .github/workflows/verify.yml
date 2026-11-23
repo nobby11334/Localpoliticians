@@ -22,5 +22,17 @@ jobs:
         run: npm run build && npm test
       - name: Audit municipality coverage (offline test)
         run: python scripts/audit_candidates.py --offline
+      - name: Inspect public election calendar CSV schema
+        run: |
+          python - <<'PY'
+          import urllib.request,csv,io
+          url='https://senkyo-data.jp/data/senkyo-data.csv'
+          request=urllib.request.Request(url,headers={'User-Agent':'Localpoliticians/1.0 research'})
+          with urllib.request.urlopen(request,timeout=20) as response:
+              payload=response.read(120000)
+          reader=csv.DictReader(io.StringIO(payload.decode('utf-8-sig',errors='replace')))
+          print('CALENDAR HEADERS:',reader.fieldnames)
+          for row in list(reader)[:2]:print('CALENDAR ROW:',row)
+          PY
       - name: Check frontend syntax
         run: node --check web/app.js && node --check web/review.js

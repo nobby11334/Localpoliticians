@@ -51,16 +51,19 @@ jobs:
         run: npm run build
       - name: Audit nationwide candidate coverage and discover leads
         run: python scripts/audit_candidates.py
+      - name: Generate daily coverage and source health report
+        run: python scripts/daily_status.py
       - name: Include latest audit in published site
         run: |
           if [ -f data/candidate-audit.json ]; then cp data/candidate-audit.json dist/data/candidate-audit.json; fi
+          if [ -f data/daily-update-status.json ]; then cp data/daily-update-status.json dist/data/daily-update-status.json; fi
       - run: npm test
       - name: Save monitoring history
         if: github.event_name != 'push'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/status.json data/official-html-results-status.json data/official-vote-status.json data/prefecture-results-status.json data/official-rosters-status.json data/imports/official-roster-candidates.json data/election-calendar.json data/election-results.json data/candidate-audit.json data/candidate-sync-status.json data/imports/verified-candidates.json dist
+          git add data/daily-update-status.json data/status.json data/official-html-results-status.json data/official-vote-status.json data/prefecture-results-status.json data/official-rosters-status.json data/imports/official-roster-candidates.json data/election-calendar.json data/election-results.json data/candidate-audit.json data/candidate-sync-status.json data/imports/verified-candidates.json dist
           git diff --cached --quiet || git commit -m 'Update public source monitoring history'
           git push
       - uses: actions/configure-pages@v5

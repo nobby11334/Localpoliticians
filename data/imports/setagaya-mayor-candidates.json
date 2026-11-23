@@ -1,0 +1,83 @@
+[
+  {
+    "municipalityCode": "13112",
+    "municipality": "世田谷区",
+    "prefecture": "東京都",
+    "name": "保坂展人",
+    "office": "区長",
+    "asOf": "2026-09-04",
+    "sourceURL": "https://www.city.setagaya.lg.jp/02002/35697.html",
+    "sourceTitle": "世田谷区長記者会見（2026年9月4日）",
+    "rosterKind": "次期区長選の表明・意向資料",
+    "collectedAt": "2026-11-23",
+    "party": "未確認",
+    "candidate": {
+      "status": "本人表明",
+      "target": "2027年 世田谷区長選挙",
+      "announcedAt": "2026-09-04",
+      "note": "現職区長。2027年4月の世田谷区長選で5選を目指す意向を表明。正式な立候補届出前。",
+      "sources": [
+        {
+          "url": "https://www.city.setagaya.lg.jp/02002/35697.html",
+          "title": "世田谷区長記者会見（2026年9月4日）",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "findings": []
+  },
+  {
+    "municipalityCode": "13112",
+    "municipality": "世田谷区",
+    "prefecture": "東京都",
+    "name": "中山瑞穂",
+    "office": "区議会議員",
+    "asOf": "2026-11-11",
+    "sourceURL": "https://www.tokyo-np.co.jp/article/52721",
+    "sourceTitle": "東京新聞：中山瑞穂区議が世田谷区長選への出馬を表明",
+    "rosterKind": "次期区長選の表明・意向資料",
+    "collectedAt": "2026-11-23",
+    "party": "未確認",
+    "candidate": {
+      "status": "本人表明",
+      "target": "2027年 世田谷区長選挙",
+      "announcedAt": "2026-11-11",
+      "note": "2026年11月11日に都内で出馬を表明。正式な立候補届出前。",
+      "sources": [
+        {
+          "url": "https://www.tokyo-np.co.jp/article/52721",
+          "title": "東京新聞：中山瑞穂区議が世田谷区長選への出馬を表明",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "findings": []
+  },
+  {
+    "municipalityCode": "13112",
+    "municipality": "世田谷区",
+    "prefecture": "東京都",
+    "name": "内藤勇耶",
+    "office": "区長選立候補予定者",
+    "asOf": "2026-09-04",
+    "sourceURL": "https://www.tokyo-np.co.jp/tokyo/t_news/tokyo_setagaya",
+    "sourceTitle": "東京新聞：内藤勇耶氏が出馬意向（2026年9月4日）",
+    "rosterKind": "次期区長選の表明・意向資料",
+    "collectedAt": "2026-11-23",
+    "party": "未確認",
+    "candidate": {
+      "status": "出馬意向報道",
+      "target": "2027年 世田谷区長選挙",
+      "announcedAt": "2026-09-04",
+      "note": "2023年の世田谷区長選挙の候補者。2027年の選挙について出馬の意向が報じられている。正式な立候補届出前。",
+      "sources": [
+        {
+          "url": "https://www.tokyo-np.co.jp/tokyo/t_news/tokyo_setagaya",
+          "title": "東京新聞：内藤勇耶氏が出馬意向（2026年9月4日）",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "findings": []
+  }
+]

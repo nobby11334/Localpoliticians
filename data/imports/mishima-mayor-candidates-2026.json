@@ -1,0 +1,114 @@
+[
+  {
+    "municipalityCode": "22206",
+    "municipality": "三島市",
+    "prefecture": "静岡県",
+    "name": "本間雄次郎",
+    "office": "三島市議会議員",
+    "party": "無所属（報道による）",
+    "asOf": "2025-12-04",
+    "sourceURL": "https://www.at-s.com/snews/article/ats/1862389.html",
+    "sourceTitle": "静岡新聞SBS：本間雄次郎氏が三島市長選への立候補を表明",
+    "rosterKind": "本人発言を伝える報道（正式届出前）",
+    "collectedAt": "2026-11-23",
+    "findings": [],
+    "candidate": {
+      "target": "2026年 三島市長選挙",
+      "status": "本人表明",
+      "electionType": "mayor",
+      "announcedAt": "2025-12-04",
+      "note": "2026年12月6日告示予定。報道が伝える本人の出馬表明。選管の正式な立候補届出名簿ではありません。",
+      "sources": [
+        {
+          "url": "https://www.at-s.com/snews/article/ats/1862389.html",
+          "title": "静岡新聞SBS：本間雄次郎氏が三島市長選への立候補を表明",
+          "date": "2025-12-04"
+        }
+      ]
+    }
+  },
+  {
+    "municipalityCode": "22206",
+    "municipality": "三島市",
+    "prefecture": "静岡県",
+    "name": "石井真人",
+    "office": "三島市議会議員",
+    "party": "無所属（報道による）",
+    "asOf": "2026-04-15",
+    "sourceURL": "https://www.at-s.com/snews/article/ats/1951732.html",
+    "sourceTitle": "静岡新聞SBS：石井真人氏が三島市長選への立候補を表明",
+    "rosterKind": "本人発言を伝える報道（正式届出前）",
+    "collectedAt": "2026-11-23",
+    "findings": [],
+    "candidate": {
+      "target": "2026年 三島市長選挙",
+      "status": "本人表明",
+      "electionType": "mayor",
+      "announcedAt": "2026-04-15",
+      "note": "2026年12月6日告示予定。報道が伝える本人の出馬表明。選管の正式な立候補届出名簿ではありません。",
+      "sources": [
+        {
+          "url": "https://www.at-s.com/snews/article/ats/1951732.html",
+          "title": "静岡新聞SBS：石井真人氏が三島市長選への立候補を表明",
+          "date": "2026-04-15"
+        }
+      ]
+    }
+  },
+  {
+    "municipalityCode": "22206",
+    "municipality": "三島市",
+    "prefecture": "静岡県",
+    "name": "伊丹雅治",
+    "office": "静岡県議会議員",
+    "party": "無所属（報道による）",
+    "asOf": "2026-06-11",
+    "sourceURL": "https://look.satv.co.jp/content_news/politics_economic/89786",
+    "sourceTitle": "静岡朝日テレビ：伊丹雅治氏が三島市長選への立候補を表明",
+    "rosterKind": "本人発言を伝える報道（正式届出前）",
+    "collectedAt": "2026-11-23",
+    "findings": [],
+    "candidate": {
+      "target": "2026年 三島市長選挙",
+      "status": "本人表明",
+      "electionType": "mayor",
+      "announcedAt": "2026-06-11",
+      "note": "2026年12月6日告示予定。報道が伝える本人の出馬表明。選管の正式な立候補届出名簿ではありません。",
+      "sources": [
+        {
+          "url": "https://look.satv.co.jp/content_news/politics_economic/89786",
+          "title": "静岡朝日テレビ：伊丹雅治氏が三島市長選への立候補を表明",
+          "date": "2026-06-11"
+        }
+      ]
+    }
+  },
+  {
+    "municipalityCode": "22206",
+    "municipality": "三島市",
+    "prefecture": "静岡県",
+    "name": "豊岡武士",
+    "office": "三島市長",
+    "party": "無所属（報道による）",
+    "asOf": "2026-06-23",
+    "sourceURL": "https://www.at-s.com/snews/article/ats/1999618.html",
+    "sourceTitle": "静岡新聞SBS：豊岡武士氏が三島市長選への立候補を表明",
+    "rosterKind": "本人発言を伝える報道（正式届出前）",
+    "collectedAt": "2026-11-23",
+    "findings": [],
+    "candidate": {
+      "target": "2026年 三島市長選挙",
+      "status": "本人表明",
+      "electionType": "mayor",
+      "announcedAt": "2026-06-23",
+      "note": "2026年12月6日告示予定。報道が伝える本人の出馬表明。選管の正式な立候補届出名簿ではありません。",
+      "sources": [
+        {
+          "url": "https://www.at-s.com/snews/article/ats/1999618.html",
+          "title": "静岡新聞SBS：豊岡武士氏が三島市長選への立候補を表明",
+          "date": "2026-06-23"
+        }
+      ]
+    }
+  }
+]

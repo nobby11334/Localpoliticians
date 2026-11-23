@@ -18,6 +18,8 @@ jobs:
           node-version: '22'
       - name: Validate election importer
         run: python -m unittest discover -s tests -v
+      - name: Sync real official municipal candidate roster
+        run: python scripts/sync_official_rosters.py
       - name: Check website build
         run: python scripts/sync_calendar.py && npm run build && npm test
       - name: Audit municipality coverage (offline test)

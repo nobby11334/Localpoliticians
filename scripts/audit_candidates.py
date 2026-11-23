@@ -1,7 +1,7 @@
 """Nationwide candidate-coverage audit and rotating discovery of public news leads.
 News headlines are NEVER promoted into candidacy facts: they are review leads only.
 """
-import concurrent.futures, datetime as dt, hashlib, json, re, time, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+import concurrent.futures, datetime as dt, hashlib, json, re, sys, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/'data'
@@ -54,8 +54,11 @@ def main():
     checks=report.get('checks',{})
     # Deterministic rotating schedule, all 1741 municipalities in 28 days.
     batch=[m for m in rows if int(m['code'])%BATCH_COUNT==BATCH_NUMBER]
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
-        results=list(executor.map(fetch_news,batch))
+    if '--offline' in sys.argv:
+        results=[]
+    else:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
+            results=list(executor.map(fetch_news,batch))
     checked_at=dt.datetime.now(dt.timezone.utc).isoformat()
     for code,leads,error in results:
         checks[code]={'checkedAt':checked_at,'error':error,'headlineCount':len(leads)}

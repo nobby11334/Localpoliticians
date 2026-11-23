@@ -16,8 +16,18 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Install official PDF extraction dependency
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
       - name: Validate election importer
         run: python -m unittest discover -s tests -v
+      - name: Sync real official municipal candidate roster
+        run: python scripts/sync_official_rosters.py
+      - name: Verify real prefectural results feed
+        run: python scripts/sync_prefecture_results.py
+      - name: Check real certified municipal vote extraction
+        run: python scripts/sync_official_votes.py
+      - name: Test real official HTML election results
+        run: python scripts/sync_official_html_results.py
       - name: Check website build
         run: python scripts/sync_calendar.py && npm run build && npm test
       - name: Audit municipality coverage (offline test)

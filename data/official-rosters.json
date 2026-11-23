@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "id": "inuyama-mayor-2026-official",
+      "enabled": true,
+      "municipalityCode": "23215",
+      "electionType": "mayor",
+      "electionName": "2026年 犬山市長選挙",
+      "publishedAt": "2026-11-22",
+      "url": "https://www.city.inuyama.aichi.jp/_res/projects/default_project/_page_/001/004/865/20261122_17.pdf",
+      "host": "www.city.inuyama.aichi.jp",
+      "documentTitle": "犬山市長選挙",
+      "finalMarker": "確定",
+      "minCandidates": 2,
+      "maxCandidates": 2
+    }
+  ]
+}

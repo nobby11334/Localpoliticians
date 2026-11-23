@@ -1,0 +1,61 @@
+{
+  "sources": [
+    {
+      "id": "abashiri-mayor-2026",
+      "url": "https://www.city.abashiri.hokkaido.jp/soshiki/34/25766.html",
+      "host": "www.city.abashiri.hokkaido.jp",
+      "municipalityCode": "01211",
+      "electionId": "01211-mayor-2026-11-08",
+      "electionDate": "2026-11-08",
+      "office": "mayor",
+      "publishedAt": "2026-11-08",
+      "layout": "last",
+      "expected": [
+        "水谷洋一",
+        "くりた政男"
+      ],
+      "identity": {
+        "水谷洋一": "水谷洋一",
+        "くりた政男": "くりた政男"
+      }
+    },
+    {
+      "id": "takizawa-mayor-2026",
+      "url": "https://www.city.takizawa.iwate.jp/kurashi/kyodo-sankaku/takizawa-senkyo/p20260930192753/p20261113172237",
+      "host": "www.city.takizawa.iwate.jp",
+      "municipalityCode": "03216",
+      "electionId": "03216-mayor-2026-11-15",
+      "electionDate": "2026-11-15",
+      "office": "mayor",
+      "publishedAt": "2026-11-16",
+      "layout": "named",
+      "expected": [
+        "武田さとる",
+        "おくつかずとし"
+      ],
+      "identity": {
+        "武田さとる": "武田哲",
+        "おくつかずとし": "奥津一俊"
+      }
+    },
+    {
+      "id": "takizawa-council-2026",
+      "url": "https://www.city.takizawa.iwate.jp/kurashi/kyodo-sankaku/takizawa-senkyo/p20260930192753/p20261113172237",
+      "host": "www.city.takizawa.iwate.jp",
+      "municipalityCode": "03216",
+      "electionId": "03216-council-2026-11-15",
+      "electionDate": "2026-11-15",
+      "office": "council",
+      "publishedAt": "2026-11-16",
+      "layout": "named",
+      "expected": [
+        "ふじさわ光一",
+        "土井尻たかはる"
+      ],
+      "identity": {
+        "ふじさわ光一": "藤沢光一",
+        "土井尻たかはる": "土井尻高晴"
+      }
+    }
+  ]
+}

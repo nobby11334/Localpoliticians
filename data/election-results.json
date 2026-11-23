@@ -1,5 +1,110 @@
 {
-  "updatedAt": null,
-  "results": [],
+  "updatedAt": "2026-11-23T00:00:00Z",
+  "results": [
+    {
+      "electionId": "12230-mayor-2026-11-22",
+      "municipalityCode": "12230",
+      "electionDate": "2026-11-22",
+      "office": "mayor",
+      "candidateName": "木村ゆきこ",
+      "result": "not_elected",
+      "votes": 6833,
+      "sourceURL": "https://www.city.yachimata.lg.jp/uploaded/attachment/28757.pdf",
+      "publishedAt": "2026-11-22",
+      "uncontested": false,
+      "personId": "12230-4a42390151c8"
+    },
+    {
+      "electionId": "12230-mayor-2026-11-22",
+      "municipalityCode": "12230",
+      "electionDate": "2026-11-22",
+      "office": "mayor",
+      "candidateName": "山本よしかず",
+      "result": "elected",
+      "votes": 12356,
+      "sourceURL": "https://www.city.yachimata.lg.jp/uploaded/attachment/28757.pdf",
+      "publishedAt": "2026-11-22",
+      "uncontested": false,
+      "personId": "12230-ed0745afd06c"
+    },
+    {
+      "electionId": "01211-mayor-2026-11-08",
+      "municipalityCode": "01211",
+      "electionDate": "2026-11-08",
+      "office": "mayor",
+      "candidateName": "水谷洋一",
+      "result": "elected",
+      "votes": 8254,
+      "sourceURL": "https://www.city.abashiri.hokkaido.jp/soshiki/34/25766.html",
+      "publishedAt": "2026-11-08",
+      "uncontested": false,
+      "personId": "01211-f73b902db5c1"
+    },
+    {
+      "electionId": "01211-mayor-2026-11-08",
+      "municipalityCode": "01211",
+      "electionDate": "2026-11-08",
+      "office": "mayor",
+      "candidateName": "くりた政男",
+      "result": "not_elected",
+      "votes": 3863,
+      "sourceURL": "https://www.city.abashiri.hokkaido.jp/soshiki/34/25766.html",
+      "publishedAt": "2026-11-08",
+      "uncontested": false,
+      "personId": "01211-26d82b6d8e9e"
+    },
+    {
+      "electionId": "03216-mayor-2026-11-15",
+      "municipalityCode": "03216",
+      "electionDate": "2026-11-15",
+      "office": "mayor",
+      "candidateName": "武田さとる",
+      "result": "elected",
+      "votes": 13096,
+      "sourceURL": "https://www.city.takizawa.iwate.jp/kurashi/kyodo-sankaku/takizawa-senkyo/p20260930192753/p20261113172237",
+      "publishedAt": "2026-11-16",
+      "uncontested": false,
+      "personId": "03216-ca00f4e44ab1"
+    },
+    {
+      "electionId": "03216-mayor-2026-11-15",
+      "municipalityCode": "03216",
+      "electionDate": "2026-11-15",
+      "office": "mayor",
+      "candidateName": "おくつかずとし",
+      "result": "not_elected",
+      "votes": 4750,
+      "sourceURL": "https://www.city.takizawa.iwate.jp/kurashi/kyodo-sankaku/takizawa-senkyo/p20260930192753/p20261113172237",
+      "publishedAt": "2026-11-16",
+      "uncontested": false,
+      "personId": "03216-30623dca886e"
+    },
+    {
+      "electionId": "03216-council-2026-11-15",
+      "municipalityCode": "03216",
+      "electionDate": "2026-11-15",
+      "office": "council",
+      "candidateName": "ふじさわ光一",
+      "result": "not_elected",
+      "votes": 4980,
+      "sourceURL": "https://www.city.takizawa.iwate.jp/kurashi/kyodo-sankaku/takizawa-senkyo/p20260930192753/p20261113172237",
+      "publishedAt": "2026-11-16",
+      "uncontested": false,
+      "personId": "03216-b1ad39d09722"
+    },
+    {
+      "electionId": "03216-council-2026-11-15",
+      "municipalityCode": "03216",
+      "electionDate": "2026-11-15",
+      "office": "council",
+      "candidateName": "土井尻たかはる",
+      "result": "elected",
+      "votes": 12205,
+      "sourceURL": "https://www.city.takizawa.iwate.jp/kurashi/kyodo-sankaku/takizawa-senkyo/p20260930192753/p20261113172237",
+      "publishedAt": "2026-11-16",
+      "uncontested": false,
+      "personId": "03216-35cd72abf13d"
+    }
+  ],
   "sources": []
 }

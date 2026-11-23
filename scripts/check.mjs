@@ -33,5 +33,5 @@ const uiSource=fs.readFileSync('dist/app.js','utf8');
 const homePage=fs.readFileSync('dist/index.html','utf8');
 for(const label of ['首長選の立候補予定者','議員選の立候補予定者','選挙種別の確認待ち'])assert(uiSource.includes(label));
 assert(homePage.includes('value="mayorCandidates"')&&homePage.includes('value="councilCandidates"'));
-assert(uiSource.includes('candidateCard')&&uiSource.includes('data-filter'));
+assert(uiSource.includes('candidateCard')&&uiSource.includes('b.dataset.filter')&&homePage.includes('data-filter'));
 console.log('PASS: candidate tabs, search, source cards and Setagaya cross-office candidacy classification');

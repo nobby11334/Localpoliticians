@@ -19,7 +19,7 @@ jobs:
       - name: Validate election importer
         run: python -m unittest discover -s tests -v
       - name: Check website build
-        run: npm run build && npm test
+        run: python scripts/sync_calendar.py && npm run build && npm test
       - name: Audit municipality coverage (offline test)
         run: python scripts/audit_candidates.py --offline
       - name: Check frontend syntax

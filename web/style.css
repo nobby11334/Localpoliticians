@@ -32,3 +32,5 @@
 .candidate-annotation{flex:1}
 .candidate-card-bottom{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;border-top:1px solid #edf1e9;padding-top:10px;font-size:11px}
 @media(max-width:650px){.candidate-grid,.candidate-quicklinks{grid-template-columns:1fr}.candidate-filter{padding:14px}.candidate-tabs .btn{flex:1 1 42%;justify-content:center}.candidate-card{padding:16px}}
+
+.election-dates{margin-top:12px;padding:8px 10px;border-radius:5px;background:#eff5eb;color:#305e4a;font-size:11px;font-weight:650}.election-calendar{margin:16px 0;padding:16px 20px;background:#eff5eb;border:1px solid #cbdccc;border-radius:8px}.election-calendar h2{font-size:16px}.election-calendar p{font-size:13px;margin:8px 0}.election-calendar a{font-size:12px}

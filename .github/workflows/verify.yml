@@ -22,6 +22,8 @@ jobs:
         run: python scripts/sync_official_rosters.py
       - name: Verify real prefectural results feed
         run: python scripts/sync_prefecture_results.py
+      - name: Check real certified municipal vote extraction
+        run: python scripts/sync_official_votes.py
       - name: Check website build
         run: python scripts/sync_calendar.py && npm run build && npm test
       - name: Audit municipality coverage (offline test)

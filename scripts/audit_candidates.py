@@ -8,7 +8,7 @@ DATA=ROOT/'data'
 TODAY=dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).date()
 BATCH_COUNT=28
 BATCH_NUMBER=TODAY.toordinal()%BATCH_COUNT
-MAX_LEADS=2500
+MAX_LEADS=6000
 def read(path, default):
     try:return json.loads(path.read_text(encoding='utf-8'))
     except FileNotFoundError:return default
@@ -65,20 +65,26 @@ def main():
     default=[m for m in rows if int(m['code'])%BATCH_COUNT==BATCH_NUMBER]
     urgent=[m for m in rows if days_to_election(m) is not None and days_to_election(m)<=14]
     soon=[m for m in rows if days_to_election(m) is not None and 14<days_to_election(m)<=120 and int(m['code'])%4==TODAY.toordinal()%4]
-    batch=list({m['code']:m for m in default+urgent+soon}.values())
+    # Retry failed municipalities on the following run rather than leaving them unchecked for 28 days.
+    failed_last=[m for m in rows if checks.get(m['code'],{}).get('error')]
+    batch=list({m['code']:m for m in default+urgent+soon+failed_last}.values())
     priority_count=len({m['code'] for m in urgent+soon})
+    retry_count=len(failed_last)
     if '--offline' in sys.argv:
         results=[]
     else:
         with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
             results=list(executor.map(fetch_news,batch))
     checked_at=dt.datetime.now(dt.timezone.utc).isoformat()
+    newly_found=[]
     for code,leads,error in results:
         checks[code]={'checkedAt':checked_at,'error':error,'headlineCount':len(leads)}
         for lead in leads:
             if lead['id'] in old:
                 lead['firstSeenAt']=old[lead['id']].get('firstSeenAt',checked_at)
-            else:lead['firstSeenAt']=checked_at
+            else:
+                lead['firstSeenAt']=checked_at
+                newly_found.append(lead)
             old[lead['id']]=lead
     all_leads=sorted(old.values(),key=lambda r:r['firstSeenAt'],reverse=True)[:MAX_LEADS]
     totals={'municipalities':len(rows),'mayorCandidateMunicipalities':sum(r['mayorCandidates']>0 for r in rows),
@@ -87,9 +93,9 @@ def main():
       'mayorCandidateRecords':sum(r['mayorCandidates'] for r in rows),
       'councilCandidateRecords':sum(r['councilCandidates'] for r in rows),
       'newsLeadsForReview':len(all_leads),'checkedMunicipalities':len(checks),
-      'lastBatchMunicipalities':len(batch),'priorityMunicipalities':priority_count,'failedLastBatch':sum(bool(e) for _,_,e in results)}
+      'lastBatchMunicipalities':len(batch),'priorityMunicipalities':priority_count,'retriedFailedMunicipalities':retry_count,'newLeads':len(newly_found),'failedLastBatch':sum(bool(e) for _,_,e in results)}
     output={'updatedAt':checked_at,'method':'資料収録率の監査と検索ニュース見出しの要確認リード。候補者登録・一次資料確定ではない。',
-      'totals':totals,'municipalities':rows,'leads':all_leads,'checks':checks}
+      'totals':totals,'municipalities':rows,'leads':all_leads,'recentNewLeads':newly_found[:100],'checks':checks}
     (DATA/'candidate-audit.json').write_text(json.dumps(output,ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8')
     print(json.dumps(totals,ensure_ascii=False))
 if __name__=='__main__':main()

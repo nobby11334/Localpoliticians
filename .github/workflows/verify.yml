@@ -32,5 +32,7 @@ jobs:
         run: python scripts/sync_calendar.py && npm run build && npm test
       - name: Audit municipality coverage (offline test)
         run: python scripts/audit_candidates.py --offline
+      - name: Generate daily update report (offline audit fixtures)
+        run: python scripts/daily_status.py
       - name: Check frontend syntax
         run: node --check web/app.js && node --check web/review.js

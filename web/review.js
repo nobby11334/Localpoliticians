@@ -26,3 +26,19 @@ try{
  $('#audit-pref').innerHTML+=[...new Set(d.municipalities.map(x=>x.pref))].sort().map(p=>'<option value="'+esc(p)+'">'+esc(p)+'</option>').join('');
  render();
 }catch(error){$('#audit-count').textContent='監査結果を取得できませんでした：'+error.message}
+
+try{
+ const response=await fetch('data/daily-update-status.json',{cache:'no-store'});
+ if(!response.ok)throw Error('未生成');
+ const d=await response.json(),t=d.totals||{},change=d.changesSincePreviousRun||{};
+ const diff=k=>change[k]===null||change[k]===undefined?'初回':((change[k]>=0?'+':'')+Number(change[k]).toLocaleString());
+ const date=d.updatedAt?new Date(d.updatedAt).toLocaleString('ja-JP',{timeZone:'Asia/Tokyo'}):'不明';
+ const failed=Number(t.officialSourceFailures||0)+Number(t.failedLastBatch||0);
+ const lines=[
+  '<p>実行日時：'+esc(date)+' ／ 公式取得・巡回エラー：'+failed+'件</p>',
+  '<p>候補者：首長選 '+Number(t.mayorCandidateRecords||0).toLocaleString()+'件（前回差 '+esc(diff('mayorCandidateRecords'))+'）、議員選 '+Number(t.councilCandidateRecords||0).toLocaleString()+'件（前回差 '+esc(diff('councilCandidateRecords'))+'）</p>',
+  '<p>確認済み選挙結果 '+Number(t.confirmedResults||0).toLocaleString()+'件（前回差 '+esc(diff('confirmedResults'))+'） ／ 新着・未検証記事 '+Number(t.newUnverifiedLeads||0).toLocaleString()+'件</p>',
+  '<p>構造化候補者取得元 '+Number(t.configuredStructuredCandidateSources||0)+'件。取得元がない区域は自動登録できず、確認待ちとして追跡します。</p>'
+ ];
+ $('#daily-update').innerHTML='<strong>日次更新の稼働状況</strong>'+lines.join('')+'<a href="data/daily-update-status.json">取得元別のエラーと更新差分を確認 ↗</a>';
+}catch(error){$('#daily-update').innerHTML='<strong>日次更新の稼働状況</strong><p>初回の更新レポートは未公開です。<a href="https://github.com/nobby11334/Localpoliticians/actions">GitHub Actionsを確認</a></p>'}

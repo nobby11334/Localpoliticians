@@ -28,7 +28,7 @@ def coverage():
     return rows
 def fetch_news(m):
     # Search engine results are only tips for a human to validate against original sources.
-    term=m['name']+' '+m['pref']+' (市長選 OR 区長選 OR 町長選 OR 村長選 OR 市議選 OR 区議選 OR 町議選 OR 村議選) (出馬 OR 立候補 OR 公認 OR 推薦)'
+    term=m['municipality']+' '+m['pref']+' (市長選 OR 区長選 OR 町長選 OR 村長選 OR 市議選 OR 区議選 OR 町議選 OR 村議選) (出馬 OR 立候補 OR 公認 OR 推薦)'
     q=urllib.parse.urlencode({'q':term,'hl':'ja','gl':'JP','ceid':'JP:ja'})
     url='https://news.google.com/rss/search?'+q
     try:

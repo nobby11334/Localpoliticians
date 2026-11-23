@@ -1,0 +1,24 @@
+name: Verify election synchronization
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate election importer
+        run: python -m unittest discover -s tests -v
+      - name: Check website build
+        run: npm run build && npm test
+      - name: Check frontend syntax
+        run: node --check web/app.js

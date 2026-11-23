@@ -1,0 +1,54 @@
+[
+  {
+    "municipalityCode": "23215",
+    "name": "小西ひこじ",
+    "office": "首長選立候補予定者",
+    "party": "無所属",
+    "asOf": "2026-11-22",
+    "collectedAt": "2026-11-23",
+    "rosterKind": "選管確定届出名簿",
+    "sourceURL": "https://www.city.inuyama.aichi.jp/_res/projects/default_project/_page_/001/004/865/20261122_17.pdf",
+    "sourceTitle": "犬山市長選挙 立候補受付状況報告書（17時確定）",
+    "findings": [],
+    "candidate": {
+      "target": "2026年 犬山市長選挙",
+      "electionType": "mayor",
+      "status": "正式届出",
+      "announcedAt": "2026-11-22",
+      "note": "犬山市選挙管理委員会の確定届出名簿。戸籍名：小西彦治。",
+      "sources": [
+        {
+          "url": "https://www.city.inuyama.aichi.jp/_res/projects/default_project/_page_/001/004/865/20261122_17.pdf",
+          "title": "犬山市長選挙 立候補受付状況報告書（17時確定）",
+          "date": "2026-11-22"
+        }
+      ]
+    }
+  },
+  {
+    "municipalityCode": "23215",
+    "name": "原よしのぶ",
+    "office": "首長選立候補予定者",
+    "party": "無所属",
+    "asOf": "2026-11-22",
+    "collectedAt": "2026-11-23",
+    "rosterKind": "選管確定届出名簿",
+    "sourceURL": "https://www.city.inuyama.aichi.jp/_res/projects/default_project/_page_/001/004/865/20261122_17.pdf",
+    "sourceTitle": "犬山市長選挙 立候補受付状況報告書（17時確定）",
+    "findings": [],
+    "candidate": {
+      "target": "2026年 犬山市長選挙",
+      "electionType": "mayor",
+      "status": "正式届出",
+      "announcedAt": "2026-11-22",
+      "note": "犬山市選挙管理委員会の確定届出名簿。戸籍名：原欣伸。",
+      "sources": [
+        {
+          "url": "https://www.city.inuyama.aichi.jp/_res/projects/default_project/_page_/001/004/865/20261122_17.pdf",
+          "title": "犬山市長選挙 立候補受付状況報告書（17時確定）",
+          "date": "2026-11-22"
+        }
+      ]
+    }
+  }
+]

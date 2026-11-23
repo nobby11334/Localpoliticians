@@ -49,8 +49,24 @@ def main():
     rows=coverage();report=read(DATA/'candidate-audit.json',{'leads':[],'checks':{}})
     old={r['id']:r for r in report.get('leads',[]) if 'id' in r}
     checks=report.get('checks',{})
-    # Deterministic rotating schedule, all 1741 municipalities in 28 days.
-    batch=[m for m in rows if int(m['code'])%BATCH_COUNT==BATCH_NUMBER]
+    # All municipalities in 28 days; upcoming elections receive extra checks.
+    calendar=read(DATA/'election-calendar.json',{}).get('municipalities',{})
+    def days_to_election(m):
+        item=calendar.get(m['code'],{})
+        dates=[]
+        for name in ('nextMayorElection','nextCouncilElection','mayorTermEnd','councilTermEnd'):
+            d=item.get(name)
+            if d:
+                try:
+                    days=(dt.date.fromisoformat(d)-TODAY).days
+                    if 0<=days<=120:dates.append(days)
+                except ValueError:pass
+        return min(dates) if dates else None
+    default=[m for m in rows if int(m['code'])%BATCH_COUNT==BATCH_NUMBER]
+    urgent=[m for m in rows if days_to_election(m) is not None and days_to_election(m)<=14]
+    soon=[m for m in rows if days_to_election(m) is not None and 14<days_to_election(m)<=120 and int(m['code'])%4==TODAY.toordinal()%4]
+    batch=list({m['code']:m for m in default+urgent+soon}.values())
+    priority_count=len({m['code'] for m in urgent+soon})
     if '--offline' in sys.argv:
         results=[]
     else:
@@ -71,7 +87,7 @@ def main():
       'mayorCandidateRecords':sum(r['mayorCandidates'] for r in rows),
       'councilCandidateRecords':sum(r['councilCandidates'] for r in rows),
       'newsLeadsForReview':len(all_leads),'checkedMunicipalities':len(checks),
-      'lastBatchMunicipalities':len(batch),'failedLastBatch':sum(bool(e) for _,_,e in results)}
+      'lastBatchMunicipalities':len(batch),'priorityMunicipalities':priority_count,'failedLastBatch':sum(bool(e) for _,_,e in results)}
     output={'updatedAt':checked_at,'method':'資料収録率の監査と検索ニュース見出しの要確認リード。候補者登録・一次資料確定ではない。',
       'totals':totals,'municipalities':rows,'leads':all_leads,'checks':checks}
     (DATA/'candidate-audit.json').write_text(json.dumps(output,ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8')

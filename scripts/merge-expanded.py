@@ -60,7 +60,7 @@ def merge(p,origin):
  if url(p.get('sourceURL')):
   s={'url':p['sourceURL'],'title':p.get('sourceTitle','掲載名簿'),'asOf':p.get('asOf','掲載日時不明'),'kind':p.get('rosterKind','出典参照')}
   if s not in old['sources']:old['sources'].append(s)
- old['role']='mayor' if re.search(r'市長|区長|町長|村長|首長',old.get('office','')) and '議' not in old.get('office','') else 'council'
+ old['role']='mayor' if re.search(r'市長|区長|町長|村長|首長',old.get('office','')) and not re.search(r'議|選|候補|予定',old.get('office','')) else 'council'
  if old.get('candidate') and not any('名簿' in s.get('kind','') and '予定' not in s.get('kind','') for s in old['sources']) and origin!='bunkyo':old['role']='candidate'
  if old.get('isIncumbent') is False:old['role']='candidate'
  regions[code][key]=old

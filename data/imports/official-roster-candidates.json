@@ -50,5 +50,57 @@
         }
       ]
     }
+  },
+  {
+    "municipalityCode": "12230",
+    "name": "木村ゆきこ",
+    "office": "首長選立候補予定者",
+    "party": "無所属",
+    "asOf": "2026-11-22",
+    "collectedAt": "2026-11-23",
+    "rosterKind": "選管確定開票資料に掲載された届出候補者",
+    "sourceURL": "https://www.city.yachimata.lg.jp/uploaded/attachment/28757.pdf",
+    "sourceTitle": "八街市長選挙 開票結果（確定）",
+    "findings": [],
+    "candidate": {
+      "target": "2026年 八街市長選挙",
+      "electionType": "mayor",
+      "status": "正式届出",
+      "announcedAt": "2026-11-22",
+      "note": "2026年11月22日の八街市長選挙の開票結果に掲載。得票数6,833票。",
+      "sources": [
+        {
+          "url": "https://www.city.yachimata.lg.jp/uploaded/attachment/28757.pdf",
+          "title": "八街市選管確定開票結果",
+          "date": "2026-11-22"
+        }
+      ]
+    }
+  },
+  {
+    "municipalityCode": "12230",
+    "name": "山本よしかず",
+    "office": "首長選立候補予定者",
+    "party": "無所属",
+    "asOf": "2026-11-22",
+    "collectedAt": "2026-11-23",
+    "rosterKind": "選管確定開票資料に掲載された届出候補者",
+    "sourceURL": "https://www.city.yachimata.lg.jp/uploaded/attachment/28757.pdf",
+    "sourceTitle": "八街市長選挙 開票結果（確定）",
+    "findings": [],
+    "candidate": {
+      "target": "2026年 八街市長選挙",
+      "electionType": "mayor",
+      "status": "正式届出",
+      "announcedAt": "2026-11-22",
+      "note": "2026年11月22日の八街市長選挙の開票結果に掲載。得票数12,356票。",
+      "sources": [
+        {
+          "url": "https://www.city.yachimata.lg.jp/uploaded/attachment/28757.pdf",
+          "title": "八街市選管確定開票結果",
+          "date": "2026-11-22"
+        }
+      ]
+    }
   }
 ]

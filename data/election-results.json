@@ -1,5 +1,30 @@
 {
-  "updatedAt": null,
-  "results": [],
+  "updatedAt": "2026-11-23T00:00:00Z",
+  "results": [
+    {
+      "electionId": "12230-mayor-2026-11-22",
+      "municipalityCode": "12230",
+      "electionDate": "2026-11-22",
+      "office": "mayor",
+      "candidateName": "木村ゆきこ",
+      "result": "not_elected",
+      "votes": 6833,
+      "sourceURL": "https://www.city.yachimata.lg.jp/uploaded/attachment/28757.pdf",
+      "publishedAt": "2026-11-22",
+      "uncontested": false
+    },
+    {
+      "electionId": "12230-mayor-2026-11-22",
+      "municipalityCode": "12230",
+      "electionDate": "2026-11-22",
+      "office": "mayor",
+      "candidateName": "山本よしかず",
+      "result": "elected",
+      "votes": 12356,
+      "sourceURL": "https://www.city.yachimata.lg.jp/uploaded/attachment/28757.pdf",
+      "publishedAt": "2026-11-22",
+      "uncontested": false
+    }
+  ],
   "sources": []
 }

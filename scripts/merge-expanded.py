@@ -8,6 +8,17 @@ registry={m['code']:m for m in load(ROOT/'data/national.json')['municipalities']
 regions=collections.defaultdict(dict);rejected=[]
 def norm(s):return re.sub(r'[\s　]','',unicodedata.normalize('NFKC',s or '')).translate(str.maketrans({'﨑':'崎','髙':'高','塚':'塚'}))
 def url(s):return isinstance(s,str) and s.startswith(('https://','http://'))
+def candidate_type(p):
+ c=p.get('candidate')
+ if not c:return None
+ target=norm(c.get('target',''))
+ if re.search(r'知事選|市長選|区長選|町長選|村長選|首長選',target):return 'mayor'
+ if re.search(r'都議選|道議選|府議選|県議選|市議選|区議選|町議選|村議選|議会議員選|議員選',target):return 'council'
+ office=norm(p.get('office',''))
+ # Past/current offices are NOT reliable evidence of the election being sought.
+ if target:return 'unclassified'
+ return 'unclassified'
+
 def merge(p,origin):
  code=str(p.get('municipalityCode','')).zfill(5)
  if code not in registry or not p.get('name'):rejected.append([origin,code,p.get('name')]);return
@@ -22,6 +33,8 @@ def merge(p,origin):
  if origin=='mayor-careers.json' and not p.get('sourceUpdatedAt'):
   p['asOf']='掲載日時不明（'+p.get('retrievedAt','2026-11-04')+'確認）'
   p['findings']=[{**f,'asOf':p['asOf']} for f in p.get('findings',[])]
+ if p.get('candidate'):
+  p['candidate']={**p['candidate'],'electionType':candidate_type(p)}
  if p.get('retrievedAt') and not p.get('collectedAt'):p['collectedAt']=p['retrievedAt']
  if p.get('asOfBasis') and ('取得日' in p['asOfBasis'] or p['asOfBasis']=='retrievedAt'):
   observed=p.get('asOf','2026-11-04');p['asOf']='掲載日時不明（'+str(observed)+'取得）'
@@ -47,7 +60,7 @@ def merge(p,origin):
  if url(p.get('sourceURL')):
   s={'url':p['sourceURL'],'title':p.get('sourceTitle','掲載名簿'),'asOf':p.get('asOf','掲載日時不明'),'kind':p.get('rosterKind','出典参照')}
   if s not in old['sources']:old['sources'].append(s)
- old['role']='mayor' if re.search(r'市長|区長|町長|村長|首長',old.get('office','')) and '議' not in old.get('office','') else 'council'
+ old['role']='mayor' if re.search(r'市長|区長|町長|村長|首長',old.get('office','')) and not re.search(r'議|選|候補|予定',old.get('office','')) else 'council'
  if old.get('candidate') and not any('名簿' in s.get('kind','') and '予定' not in s.get('kind','') for s in old['sources']) and origin!='bunkyo':old['role']='candidate'
  if old.get('isIncumbent') is False:old['role']='candidate'
  regions[code][key]=old
@@ -62,7 +75,7 @@ from enrichment import apply_enrichment
 research=apply_enrichment(ROOT,regions,registry,norm)
 coverage={};totals=collections.Counter();all_sources={}
 for code,byid in sorted(regions.items()):
- people=sorted(byid.values(),key=lambda p:p['name']);counts={'people':len(people),'council':sum(p['role']=='council' for p in people),'mayorProfiles':sum(p['role']=='mayor' for p in people),'candidates':sum(bool(p.get('candidate')) for p in people),'findings':sum(len(p['findings']) for p in people),'careerProfiles':sum(any(f['category']=='career' for f in p['findings']) for p in people)}
+ people=sorted(byid.values(),key=lambda p:p['name']);counts={'people':len(people),'council':sum(p['role']=='council' for p in people),'mayorProfiles':sum(p['role']=='mayor' for p in people),'candidates':sum(bool(p.get('candidate')) for p in people),'mayorCandidates':sum(p.get('candidate',{}).get('electionType')=='mayor' for p in people),'councilCandidates':sum(p.get('candidate',{}).get('electionType')=='council' for p in people),'unclassifiedCandidates':sum(p.get('candidate',{}).get('electionType')=='unclassified' for p in people),'findings':sum(len(p['findings']) for p in people),'careerProfiles':sum(any(f['category']=='career' for f in p['findings']) for p in people)}
  totals.update(counts);coverage[code]={**counts,'names':' '.join(' '.join(p.get('sourceNames',[p['name']])) for p in people),'sources':len({s['url'] for p in people for s in p['sources']}),'enrichment':bool(research.get(code)),'enrichedProfiles':sum(bool(p.get('enrichment',{}).get('addedFindings')) for p in people),'snapshotFindings':len(research.get(code,{}).get('findings',[])),'snapshotCareerFacts':sum(f.get('category')=='career' for f in research.get(code,{}).get('findings',[]))}
  (ROOT/f'data/regions/{code}.json').write_text(json.dumps({'municipalityCode':code,'people':people,'counts':counts,'mayorResearch':research.get(code)},ensure_ascii=False,separators=(',',':'))+'\n')
  for p in people:

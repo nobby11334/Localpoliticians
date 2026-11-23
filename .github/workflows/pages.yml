@@ -39,6 +39,8 @@ jobs:
         run: python scripts/sync_official_rosters.py
       - name: Import certified prefectural mayor election winners
         run: python scripts/sync_prefecture_results.py
+      - name: Synchronize certified municipal vote PDF
+        run: python scripts/sync_official_votes.py
       - name: Refresh election calendar reference
         run: python scripts/sync_calendar.py
       - name: Build municipality index for audit
@@ -54,7 +56,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/status.json data/prefecture-results-status.json data/official-rosters-status.json data/imports/official-roster-candidates.json data/election-calendar.json data/election-results.json data/candidate-audit.json data/candidate-sync-status.json data/imports/verified-candidates.json dist
+          git add data/status.json data/official-vote-status.json data/prefecture-results-status.json data/official-rosters-status.json data/imports/official-roster-candidates.json data/election-calendar.json data/election-results.json data/candidate-audit.json data/candidate-sync-status.json data/imports/verified-candidates.json dist
           git diff --cached --quiet || git commit -m 'Update public source monitoring history'
           git push
       - uses: actions/configure-pages@v5

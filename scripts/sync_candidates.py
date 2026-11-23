@@ -8,7 +8,7 @@ OUT=ROOT/'data/imports/verified-candidates.json'
 REPORT=ROOT/'data/candidate-sync-status.json'
 STATES={'本人表明':1,'公認発表':1,'推薦発表':1,'正式届出':2}
 def norm(s):
- return re.sub(r'[\\s　]','',unicodedata.normalize('NFKC',str(s))).translate(str.maketrans({'﨑':'崎','髙':'高','塚':'塚'}))
+ return re.sub(r'[\s　]','',unicodedata.normalize('NFKC',str(s))).translate(str.maketrans({'﨑':'崎','髙':'高','塚':'塚'}))
 def check_date(s):return dt.date.fromisoformat(str(s))
 def host(url):
  p=urlparse(str(url))
@@ -85,9 +85,9 @@ def main():
     merged[key(r)]=r
    reports.append({'id':conf['id'],'ok':True,'count':len(incoming)})
   except Exception as ex:reports.append({'id':conf.get('id','unknown'),'ok':False,'error':str(ex)[:200]})
- OUT.write_text(json.dumps([person(r) for _,r in sorted(merged.items())],ensure_ascii=False,indent=2)+'\\n')
+ OUT.write_text(json.dumps([person(r) for _,r in sorted(merged.items())],ensure_ascii=False,indent=2)+'\n')
  REPORT.write_text(json.dumps({'updatedAt':dt.datetime.now(dt.timezone.utc).isoformat(),
   'verifiedCandidateRecords':len(merged),'configuredSources':len(confs),'sources':reports},
-  ensure_ascii=False,indent=2)+'\\n')
+  ensure_ascii=False,indent=2)+'\n')
  print('Candidates',len(merged),'configured sources',len(confs),'failed',sum(not x['ok'] for x in reports))
 if __name__=='__main__':main()

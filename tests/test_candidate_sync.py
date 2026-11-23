@@ -13,7 +13,7 @@ class CandidateImportTests(unittest.TestCase):
  def test_valid_official_filing(self):
   self.assertEqual(m.validate(self.row,self.conf,self.codes)['status'],'正式届出')
  def test_office_not_current_role(self):
-  self.assertEqual(m.to_person(m.validate(self.row,self.conf,self.codes))['candidate']['electionType'],'mayor')
+  self.assertEqual(m.person(m.validate(self.row,self.conf,self.codes))['candidate']['electionType'],'mayor')
  def test_party_cannot_certify_filing(self):
   with self.assertRaises(ValueError):m.validate(self.row,{**self.conf,'authority':'party'},self.codes)
  def test_unknown_municipality(self):

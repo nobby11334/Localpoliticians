@@ -19,3 +19,19 @@ const mayor=seed.people.find(p=>p.id==='mayor');assert.equal(mayor.findings.leng
 const regionMayor=JSON.parse(fs.readFileSync('dist/data/regions/13105.json')).people.find(p=>p.role==='mayor');assert(regionMayor.sources.some(s=>s.url==='https://www.city.bunkyo.lg.jp/b005/p005393.html'));assert(regionMayor.biography.every(id=>regionMayor.findings.some(f=>f.id===id)));
 
 if(fs.existsSync('data/enrichment/people-00.json.gz'))execFileSync('python',['scripts/check-enrichment.py'],{stdio:'inherit'});
+
+
+// Candidate UX regression: classify by target election (not candidate's current office).
+const setagayaRegion=JSON.parse(fs.readFileSync('dist/data/regions/13112.json','utf8'));
+const mayorNames=setagayaRegion.people.filter(p=>p.candidate?.electionType==='mayor').map(p=>p.name);
+for(const name of ['保坂展人','中山瑞穂','内藤勇耶'])assert(mayorNames.includes(name),name+' must appear under mayor candidacies');
+const middle=setagayaRegion.people.find(p=>p.name==='中山瑞穂');
+assert.equal(middle.candidate.electionType,'mayor','current council member running for mayor belongs to mayor candidates');
+const setagayaCoverage=JSON.parse(fs.readFileSync('data/coverage.json','utf8')).municipalities['13112'];
+assert(setagayaCoverage.mayorCandidates>=3);
+const uiSource=fs.readFileSync('dist/app.js','utf8');
+const homePage=fs.readFileSync('dist/index.html','utf8');
+for(const label of ['首長選の立候補予定者','議員選の立候補予定者','選挙種別の確認待ち'])assert(uiSource.includes(label));
+assert(homePage.includes('value="mayorCandidates"')&&homePage.includes('value="councilCandidates"'));
+assert(uiSource.includes('candidateCard')&&uiSource.includes('data-filter'));
+console.log('PASS: candidate tabs, search, source cards and Setagaya cross-office candidacy classification');

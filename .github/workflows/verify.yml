@@ -23,4 +23,4 @@ jobs:
       - name: Audit municipality coverage (offline test)
         run: python scripts/audit_candidates.py --offline
       - name: Check frontend syntax
-        run: node --check web/app.js
+        run: node --check web/app.js && node --check web/review.js

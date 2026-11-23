@@ -30,6 +30,8 @@ jobs:
       - name: Check source changes
         if: github.event_name != 'push'
         run: python scripts/update.py
+      - name: Install official PDF extraction dependency
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
       - name: Synchronize verified candidate announcements
         run: python scripts/sync_candidates.py
       - name: Synchronize official election-result feeds

@@ -18,11 +18,8 @@ def coverage():
     for m in national:
         code=str(m['code']);region=read(DATA/'regions'/f'{code}.json',{'people':[]})
         people=region.get('people',[])
-        mayors=[p for p in people if p.get('candidate') and (
-            re.search(r'(市長|区長|町長|村長|首長|知事)',str(p.get('office','')))
-            or re.search(r'(市長選|区長選|町長選|村長選|首長選)',str(p.get('candidate',{}).get('target','')))
-        )]
-        councils=[p for p in people if p.get('candidate') and p not in mayors]
+        mayors=[p for p in people if p.get('candidate',{}).get('electionType')=='mayor']
+        councils=[p for p in people if p.get('candidate',{}).get('electionType')=='council']
         rows.append({'code':code,'pref':m['pref'],'municipality':m['name'],'mayorCandidates':len(mayors),
           'councilCandidates':len(councils),'mayorCandidateNames':[p['name'] for p in mayors]})
     return rows

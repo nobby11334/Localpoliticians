@@ -88,6 +88,7 @@ def sync():
             reports.append({'id':conf['id'],'ok':True,'count':len(verified)})
         except Exception as error:
             reports.append({'id':conf['id'],'ok':False,'error':str(error)[:200]})
+            print('Official roster source failed:',conf['id'],str(error)[:200])
     output=[p for group in existing.values() for p in group]
     output.sort(key=lambda x:(x['municipalityCode'],x['candidate']['target'],x['name']))
     OUTPUT.write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n')

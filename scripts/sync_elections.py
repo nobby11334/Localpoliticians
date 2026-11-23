@@ -31,7 +31,7 @@ def validate(record,source):
     if record.get('termStart') and record['result']!='elected': raise ValueError('Loser cannot have new term')
     if record.get('termEnd') and not record.get('termStart'): raise ValueError('Missing term start')
     if record.get('termEnd') and record['termEnd']<record['termStart']: raise ValueError('Invalid term')
-    return {k:record[k] for k in required+('votes','termStart','termEnd','district','uncontested') if k in record}
+    return {k:record[k] for k in required+('votes','termStart','termEnd','district','uncontested','personId') if k in record}
 def read_source(source):
     endpoint=source['url']
     if not valid_url(endpoint) or urlparse(endpoint).hostname not in source['allowedEvidenceHosts']: raise ValueError('Source host not allowlisted')

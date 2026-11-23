@@ -35,7 +35,6 @@ jobs:
       - name: Build municipality index for audit
         run: npm run build
       - name: Audit nationwide candidate coverage and discover leads
-        if: github.event_name != 'push'
         run: python scripts/audit_candidates.py
       - name: Include latest audit in published site
         run: |

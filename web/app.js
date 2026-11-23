@@ -12,7 +12,7 @@ const sourcesHtml=p=>(p.sources||[]).map(s=>`<div class="evidence">${external(s.
 function candidacy(p){const c=p.candidate;if(!c)return '<p class="muted">次回選挙への出馬表明等は未確認。不出馬を意味しません。</p>';return `<div class="candidacy"><span class="badge">${esc(c.status)}</span><h3>${esc(c.target||'次回選挙')}</h3><p>${esc(c.note||'届出前の発表情報。正式な立候補届出とは区別します。')}</p><small>発表・掲載日 ${esc(c.announcedAt||'不明')}</small>${(c.sources||[]).map(s=>`<div>${external(s.url,s.title||'発表資料')} <small>${esc(s.date||'')}</small></div>`).join('')}</div>`}
 
 const electionFor=m=>electionResults.filter(r=>r.municipalityCode===m.code);
-const electionForPerson=(m,p)=>electionFor(m).filter(r=>searchText(r.candidateName)===searchText(p.name)&&(r.office==='mayor'?p.role==='mayor'||/市長|区長|町長|村長/.test(p.office||''):true));
+const electionForPerson=(m,p)=>electionFor(m).filter(r=>r.personId===p.id);
 const electionHtml=r=>'<article class="research-fact"><span class="badge">'+(r.result==='elected'?'当選確定':'落選確定')+'</span> <strong>'+esc(r.candidateName)+'</strong> <small>'+esc(r.electionDate)+' '+(r.office==='mayor'?'首長選挙':'議会選挙')+(r.votes===undefined?'':' ／ '+Number(r.votes).toLocaleString()+'票')+(r.uncontested?' ／ 無投票':'')+'</small><div>'+external(r.sourceURL,'選挙管理委員会等の出典')+'</div>'+(r.termStart?'<small>任期 '+esc(r.termStart)+'〜'+esc(r.termEnd||'終了日未確認')+'</small>':'<small>就任・任期開始日は未確認</small>')+'</article>';
 const currentMayor=m=>{const today=new Date().toISOString().slice(0,10);const winners=electionFor(m).filter(r=>r.office==='mayor'&&r.result==='elected'&&r.termStart&&r.termStart<=today&&(!r.termEnd||today<=r.termEnd)).sort((a,b)=>b.termStart.localeCompare(a.termStart));return winners.length===1?winners[0]:null};
 

@@ -114,6 +114,17 @@
     ]
   },
   {
+    "id": "expanded-f55e901aa8f7cbe1",
+    "name": "網走市 北海道網走市選挙管理委員会：網走市長選挙立候補届出状況",
+    "url": "https://www.city.abashiri.hokkaido.jp/uploaded/attachment/16394.pdf",
+    "scope": "選挙管理委員会の正式候補者届出資料",
+    "asof": "2026-11-01",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
     "id": "expanded-aa61070cca343111",
     "name": "滝川市 滝川市議会議員選挙 （北海道 27統一） - 立憲民主党",
     "url": "https://cdp-japan.jp/election/814",
@@ -266,6 +277,17 @@
     "url": "https://new-kokumin.jp/member_tag/iwate",
     "scope": "政党公式の所属議員掲載",
     "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-98fa9c8c2b774a9c",
+    "name": "滝沢市 岩手県滝沢市選挙管理委員会：市議補選候補者届出",
+    "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000006084_00/%E7%AB%8B%E5%80%99%E8%A3%9C%E5%B1%8A%E5%87%BA%E8%80%85%E4%B8%80%E8%A6%A7%20%282%29.pdf",
+    "scope": "選挙管理委員会の正式候補者届出資料",
+    "asof": "2026-11-08",
     "expected": [
       "議員",
       "議会"
@@ -1054,6 +1076,17 @@
     ]
   },
   {
+    "id": "expanded-76a52371d5717435",
+    "name": "八街市 八街市長選挙 開票結果（確定）",
+    "url": "https://www.city.yachimata.lg.jp/uploaded/attachment/28757.pdf",
+    "scope": "選管確定開票資料に掲載された届出候補者",
+    "asof": "2026-11-22",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
     "id": "expanded-2aa8142e0bbe90a2",
     "name": "印西市 印西市議会議員選挙 （千葉 27統一） - 立憲民主党",
     "url": "https://cdp-japan.jp/election/747",
@@ -1265,6 +1298,39 @@
     "url": "https://www.komei.or.jp/member/result/n:80/page:13",
     "scope": "政党公式の所属議員掲載",
     "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-c8eea3e16297ac3a",
+    "name": "世田谷区 政治家通信：東京11区の区長選（11月12日時点の出馬動向）",
+    "url": "https://seijika-tsushin.com/data/450.html",
+    "scope": "次期区長選の表明・意向資料",
+    "asof": "2026-11-11",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-578bb7e72b7f80c5",
+    "name": "世田谷区 世田谷区長記者会見（2026年9月4日）",
+    "url": "https://www.city.setagaya.lg.jp/02002/35697.html",
+    "scope": "次期区長選の表明・意向資料",
+    "asof": "2026-09-04",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-a603f4639d4ff20e",
+    "name": "世田谷区 東京新聞：内藤勇耶氏が出馬意向（2026年9月4日）",
+    "url": "https://www.tokyo-np.co.jp/tokyo/t_news/tokyo_setagaya",
+    "scope": "次期区長選の表明・意向資料",
+    "asof": "2026-09-04",
     "expected": [
       "議員",
       "議会"
@@ -1991,6 +2057,50 @@
     ]
   },
   {
+    "id": "expanded-6f465b054e0da142",
+    "name": "三島市 静岡朝日テレビ：伊丹雅治氏が三島市長選への立候補を表明",
+    "url": "https://look.satv.co.jp/content_news/politics_economic/89786",
+    "scope": "本人発言を伝える報道（正式届出前）",
+    "asof": "2026-06-11",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-b8d6a9676223ba81",
+    "name": "三島市 静岡新聞SBS：本間雄次郎氏が三島市長選への立候補を表明",
+    "url": "https://www.at-s.com/snews/article/ats/1862389.html",
+    "scope": "本人発言を伝える報道（正式届出前）",
+    "asof": "2025-12-04",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-beab41eed4761a28",
+    "name": "三島市 静岡新聞SBS：石井真人氏が三島市長選への立候補を表明",
+    "url": "https://www.at-s.com/snews/article/ats/1951732.html",
+    "scope": "本人発言を伝える報道（正式届出前）",
+    "asof": "2026-04-15",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-2a965866381079d1",
+    "name": "三島市 静岡新聞SBS：豊岡武士氏が三島市長選への立候補を表明",
+    "url": "https://www.at-s.com/snews/article/ats/1999618.html",
+    "scope": "本人発言を伝える報道（正式届出前）",
+    "asof": "2026-06-23",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
     "id": "expanded-9cf0c5aeb6586a97",
     "name": "名古屋市 会派別議員名簿｜名古屋市公式ウェブサイト",
     "url": "https://www.city.nagoya.jp/shikai/about/1030778/1030799.html",
@@ -2131,6 +2241,17 @@
     "url": "https://www.toyota-shigikai.jp/lawmaker.html",
     "scope": "行政・議会の名簿",
     "asof": "掲載日時不明（2026-11-04取得）",
+    "expected": [
+      "議員",
+      "議会"
+    ]
+  },
+  {
+    "id": "expanded-3d3b74f8948d98a6",
+    "name": "犬山市 犬山市長選挙 立候補受付状況報告書（17時確定）",
+    "url": "https://www.city.inuyama.aichi.jp/_res/projects/default_project/_page_/001/004/865/20261122_17.pdf",
+    "scope": "選管確定届出名簿",
+    "asof": "2026-11-22",
     "expected": [
       "議員",
       "議会"

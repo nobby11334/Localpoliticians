@@ -1,1 +1,20 @@
-{"updatedAt":null,"sources":[]}
+{
+  "updatedAt": "2026-11-24T05:44:51.708200+00:00",
+  "sources": [
+    {
+      "id": "abashiri-mayor-2026",
+      "ok": true,
+      "count": 2
+    },
+    {
+      "id": "takizawa-mayor-2026",
+      "ok": true,
+      "count": 2
+    },
+    {
+      "id": "takizawa-council-2026",
+      "ok": true,
+      "count": 2
+    }
+  ]
+}

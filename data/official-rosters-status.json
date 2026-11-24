@@ -1,5 +1,11 @@
 {
-  "updatedAt": null,
-  "records": 2,
-  "sources": []
+  "updatedAt": "2026-11-24T05:44:48.424916+00:00",
+  "records": 10,
+  "sources": [
+    {
+      "id": "inuyama-mayor-2026-official",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
 }
